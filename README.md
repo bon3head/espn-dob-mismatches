@@ -17,7 +17,9 @@ The wrong values aren't API glitches. For Magnay and Edey the same wrong date sh
 
 ## What's not here
 
-Two cases I checked and deliberately excluded: Johnny Furphy's DOB is genuinely split across sources (no verdict possible), and one apparent mismatch turned out to be Wikidata's error, not ESPN's. Both are documented in the full report.
+One case I checked and deliberately left out: Johnny Furphy (athlete 5157066). ESPN says December 7, 2004; NBA's stats API says December 8. Nine independent sources back the 7th, five back the 8th, and neither side clears the bar for calling a publisher wrong, so no correction is issued for him. The one-day gap fits a UTC-vs-local artifact (he was born in Melbourne; December 8 local is December 7 UTC), but that's a hypothesis, not a finding.
+
+How ESPN could settle it: independent confirmation against the primary record. FIBA's player registration, the birth record, or the club's original paperwork would break the split. One authoritative document beats fourteen aggregators. That document isn't public, so this is one only ESPN can close, through the Pacers or the league office.
 
 ## Full evidence
 

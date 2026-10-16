@@ -45,7 +45,12 @@ Every one disagrees with ESPN. Same check on Basketball-Reference (open in a bro
 - basketball-reference.com/players/m/magnawi01.html -> June 10, 1998
 - basketball-reference.com/players/e/edeyza01.html -> May 14, 2002
 
-NBA's own stats API (needs `pip install nba_api`):
+NBA's own stats API, two ways. Direct endpoint (open in your browser):
+
+- https://stats.nba.com/stats/commonplayerinfo?PlayerID=1630266&LeagueID=00 -> Will Magnay, BIRTHDATE 1998-06-10T00:00:00
+- https://stats.nba.com/stats/commonplayerinfo?PlayerID=1641744&LeagueID=00 -> Zach Edey, BIRTHDATE 2002-05-14T00:00:00
+
+(The endpoint bot-filters curl, so from a terminal use `pip install nba_api` instead:)
 
 ```bash
 python3 -c "
