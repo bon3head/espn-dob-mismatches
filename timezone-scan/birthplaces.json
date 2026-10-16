@@ -1,0 +1,5930 @@
+{
+ "Q100243211": {
+  "qid": "Q100243211",
+  "pob": "Q575110",
+  "pobLabel": "Centreville",
+  "coord": "Point(-90.1039 38.5844)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100268254": {
+  "qid": "Q100268254",
+  "pob": "Q782494",
+  "pobLabel": "Fayetteville",
+  "coord": "Point(-84.461666666 33.447777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100744432": {
+  "qid": "Q100744432",
+  "pob": "Q172",
+  "pobLabel": "Toronto",
+  "coord": "Point(-79.386666666 43.670277777)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q100746620": {
+  "qid": "Q100746620",
+  "pob": "Q23197",
+  "pobLabel": "Nashville",
+  "coord": "Point(-86.774444444 36.162222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100752182": {
+  "qid": "Q100752182",
+  "pob": "Q1030184",
+  "pobLabel": "Concord",
+  "coord": "Point(-80.6006 35.4044)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100756612": {
+  "qid": "Q100756612",
+  "pob": "Q986900",
+  "pobLabel": "Seaside",
+  "coord": "Point(-121.844722222 36.611111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100759022": {
+  "qid": "Q100759022",
+  "pob": "Q1931582",
+  "pobLabel": "Burlington",
+  "coord": "Point(-95.7456 38.1944)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100762367": {
+  "qid": "Q100762367",
+  "pob": "Q79860",
+  "pobLabel": "Huntsville",
+  "coord": "Point(-86.586111111 34.713611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100766917": {
+  "qid": "Q100766917",
+  "pob": "Q847596",
+  "pobLabel": "Pontiac",
+  "coord": "Point(-83.2925 42.646111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100767165": {
+  "qid": "Q100767165",
+  "pob": "Q239",
+  "pobLabel": "Brussels",
+  "coord": "Point(4.351666666 50.846666666)",
+  "country": "Q31",
+  "countryLabel": "Belgium"
+ },
+ "Q100767691": {
+  "qid": "Q100767691",
+  "pob": "Q52467",
+  "pobLabel": "South Jordan",
+  "coord": "Point(-111.960833333 40.561666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100768560": {
+  "qid": "Q100768560",
+  "pob": "Q370972",
+  "pobLabel": "Pembroke Pines",
+  "coord": "Point(-80.313611111 26.0125)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100768908": {
+  "qid": "Q100768908",
+  "pob": "Q18432",
+  "pobLabel": "Staten Island",
+  "coord": "Point(-74.146944444 40.571944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100768909": {
+  "qid": "Q100768909",
+  "pob": "Q18432",
+  "pobLabel": "Staten Island",
+  "coord": "Point(-74.146944444 40.571944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100777931": {
+  "qid": "Q100777931",
+  "pob": "Q1012017",
+  "pobLabel": "Plainfield",
+  "coord": "Point(-88.2028 41.6172)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100783235": {
+  "qid": "Q100783235",
+  "pob": "Q753334",
+  "pobLabel": "Upper Marlboro",
+  "coord": "Point(-76.753333333 38.816388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100783911": {
+  "qid": "Q100783911",
+  "pob": "Q18383",
+  "pobLabel": "Providence",
+  "coord": "Point(-71.41283 41.82399)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100785250": {
+  "qid": "Q100785250",
+  "pob": "Q485716",
+  "pobLabel": "Glendale",
+  "coord": "Point(-118.25 34.170833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100800048": {
+  "qid": "Q100800048",
+  "pob": "Q486168",
+  "pobLabel": "San Bernardino",
+  "coord": "Point(-117.292222222 34.104166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100807991": {
+  "qid": "Q100807991",
+  "pob": "Q174224",
+  "pobLabel": "Wilmington",
+  "coord": "Point(-75.551388888 39.748333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100818328": {
+  "qid": "Q100818328",
+  "pob": "Q65",
+  "pobLabel": "Los Angeles",
+  "coord": "Point(-118.24368 34.05223)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100830053": {
+  "qid": "Q100830053",
+  "pob": "Q79867",
+  "pobLabel": "Birmingham",
+  "coord": "Point(-86.809444444 33.5175)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100831053": {
+  "qid": "Q100831053",
+  "pob": "Q16557",
+  "pobLabel": "Dallas",
+  "coord": "Point(-96.808888888 32.779166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100863058": {
+  "qid": "Q100863058",
+  "pob": "Q2592299",
+  "pobLabel": "Roeland Park",
+  "coord": "Point(-94.6392 39.0347)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100872164": {
+  "qid": "Q100872164",
+  "pob": "Q132830",
+  "pobLabel": "Douala",
+  "coord": "Point(9.7 4.05)",
+  "country": "Q1009",
+  "countryLabel": "Cameroon"
+ },
+ "Q100874540": {
+  "qid": "Q100874540",
+  "pob": "Q485176",
+  "pobLabel": "Pasadena",
+  "coord": "Point(-118.143888888 34.1475)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100880225": {
+  "qid": "Q100880225",
+  "pob": "Q268916",
+  "pobLabel": "Cottage Grove",
+  "coord": "Point(-92.943888888 44.827777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100881311": {
+  "qid": "Q100881311",
+  "pob": "Q43196",
+  "pobLabel": "Cincinnati",
+  "coord": "Point(-84.5125 39.1)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100884789": {
+  "qid": "Q100884789",
+  "pob": "Q49247",
+  "pobLabel": "Anaheim",
+  "coord": "Point(-117.889722222 33.836111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100885338": {
+  "qid": "Q100885338",
+  "pob": "Q1994691",
+  "pobLabel": "Hinesville",
+  "coord": "Point(-81.6117 31.8325)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100889412": {
+  "qid": "Q100889412",
+  "pob": "Q49229",
+  "pobLabel": "Durham",
+  "coord": "Point(-78.898611111 35.994166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100894129": {
+  "qid": "Q100894129",
+  "pob": "Q320704",
+  "pobLabel": "Benin City",
+  "coord": "Point(5.6145 6.3176)",
+  "country": "Q1033",
+  "countryLabel": "Nigeria"
+ },
+ "Q100901254": {
+  "qid": "Q100901254",
+  "pob": "Q6106",
+  "pobLabel": "Portland",
+  "coord": "Point(-122.679166666 45.515)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100901501": {
+  "qid": "Q100901501",
+  "pob": "Q1345",
+  "pobLabel": "Philadelphia",
+  "coord": "Point(-75.163611111 39.952777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100903059": {
+  "qid": "Q100903059",
+  "pob": "Q727",
+  "pobLabel": "Amsterdam",
+  "coord": "Point(4.883333333 52.366666666)",
+  "country": "Q55",
+  "countryLabel": "Netherlands"
+ },
+ "Q100903226": {
+  "qid": "Q100903226",
+  "pob": "Q543780",
+  "pobLabel": "Mentor",
+  "coord": "Point(-81.341944444 41.691111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100909225": {
+  "qid": "Q100909225",
+  "pob": "Q80165",
+  "pobLabel": "Newark",
+  "coord": "Point(-91.444722222 35.7025)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100917336": {
+  "qid": "Q100917336",
+  "pob": "Q23768",
+  "pobLabel": "Las Vegas",
+  "coord": "Point(-115.148611111 36.167222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100917521": {
+  "qid": "Q100917521",
+  "pob": "Q36091",
+  "pobLabel": "Minneapolis",
+  "coord": "Point(-93.269166666 44.981944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100919920": {
+  "qid": "Q100919920",
+  "pob": "Q16557",
+  "pobLabel": "Dallas",
+  "coord": "Point(-96.808888888 32.779166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100920277": {
+  "qid": "Q100920277",
+  "pob": "Q959512",
+  "pobLabel": "Hastings",
+  "coord": "Point(-98.391666666 40.589166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100921874": {
+  "qid": "Q100921874",
+  "pob": "Q1297",
+  "pobLabel": "Chicago",
+  "coord": "Point(-87.627777777 41.881944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100922242": {
+  "qid": "Q100922242",
+  "pob": "Q23556",
+  "pobLabel": "Atlanta",
+  "coord": "Point(-84.389722222 33.754444444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100923193": {
+  "qid": "Q100923193",
+  "pob": "Q36091",
+  "pobLabel": "Minneapolis",
+  "coord": "Point(-93.269166666 44.981944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100923648": {
+  "qid": "Q100923648",
+  "pob": "Q947304",
+  "pobLabel": "Summerville",
+  "coord": "Point(-80.17565 33.0185)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100924114": {
+  "qid": "Q100924114",
+  "pob": "Q486459",
+  "pobLabel": "Evansville",
+  "coord": "Point(-87.555833333 37.974722222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100925863": {
+  "qid": "Q100925863",
+  "pob": "Q5241683",
+  "pobLabel": "Davidsonville",
+  "coord": "Point(-76.6283 38.92289)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100925911": {
+  "qid": "Q100925911",
+  "pob": "Q5241683",
+  "pobLabel": "Davidsonville",
+  "coord": "Point(-76.6283 38.92289)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100944690": {
+  "qid": "Q100944690",
+  "pob": "Q128375",
+  "pobLabel": "Richardson",
+  "coord": "Point(-96.729722222 32.948333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100949112": {
+  "qid": "Q100949112",
+  "pob": "Q1794",
+  "pobLabel": "Frankfurt",
+  "coord": "Point(8.682222222 50.110555555)",
+  "country": "Q183",
+  "countryLabel": "Germany"
+ },
+ "Q1022508": {
+  "qid": "Q1022508",
+  "pob": "Q16557",
+  "pobLabel": "Dallas",
+  "coord": "Point(-96.808888888 32.779166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q10345662": {
+  "qid": "Q10345662",
+  "pob": "Q1918669",
+  "pobLabel": "Mission Hills",
+  "coord": "Point(-120.43611 34.68917)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q10516040": {
+  "qid": "Q10516040",
+  "pob": "Q16567",
+  "pobLabel": "Columbus",
+  "coord": "Point(-83.000555555 39.962222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100949184": {
+  "qid": "Q100949184",
+  "pob": "Q40347",
+  "pobLabel": "Norman",
+  "coord": "Point(-97.443611111 35.220833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100956580": {
+  "qid": "Q100956580",
+  "pob": "Q37836",
+  "pobLabel": "Milwaukee",
+  "coord": "Point(-87.95 43.05)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100957464": {
+  "qid": "Q100957464",
+  "pob": "Q16554",
+  "pobLabel": "Denver",
+  "coord": "Point(-104.984722222 39.739166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100958543": {
+  "qid": "Q100958543",
+  "pob": "Q49239",
+  "pobLabel": "Toledo",
+  "coord": "Point(-83.537777777 41.652777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100959608": {
+  "qid": "Q100959608",
+  "pob": "Q16557",
+  "pobLabel": "Dallas",
+  "coord": "Point(-96.808888888 32.779166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100983694": {
+  "qid": "Q100983694",
+  "pob": "Q79870",
+  "pobLabel": "Northport",
+  "coord": "Point(-87.592222222 33.253888888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q100987066": {
+  "qid": "Q100987066",
+  "pob": "Q1190590",
+  "pobLabel": "Encino",
+  "coord": "Point(-118.500280555 34.159169444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q103497700": {
+  "qid": "Q103497700",
+  "pob": "Q1989904",
+  "pobLabel": "Greenville",
+  "coord": "Point(-77.3725 35.601666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q104081164": {
+  "qid": "Q104081164",
+  "pob": "Q12439",
+  "pobLabel": "Detroit",
+  "coord": "Point(-83.0475 42.331666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q104621930": {
+  "qid": "Q104621930",
+  "pob": "Q1920861",
+  "pobLabel": "Guymon",
+  "coord": "Point(-101.479444444 36.685277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q104698929": {
+  "qid": "Q104698929",
+  "pob": "Q1181902",
+  "pobLabel": "Sharon Hill",
+  "coord": "Point(-75.2711 39.9064)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q105013647": {
+  "qid": "Q105013647",
+  "pob": "Q340",
+  "pobLabel": "Montreal",
+  "coord": "Point(-73.5868411 45.5033426)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q105925605": {
+  "qid": "Q105925605",
+  "pob": "Q499594",
+  "pobLabel": "Ans",
+  "coord": "Point(5.52 50.6625)",
+  "country": "Q31",
+  "countryLabel": "Belgium"
+ },
+ "Q106123797": {
+  "qid": "Q106123797",
+  "pob": "Q50816",
+  "pobLabel": "Mississauga",
+  "coord": "Point(-79.65 43.6)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q106328397": {
+  "qid": "Q106328397",
+  "pob": "Q83065",
+  "pobLabel": "Leicester",
+  "coord": "Point(-1.133055555 52.636111111)",
+  "country": "Q145",
+  "countryLabel": "United Kingdom"
+ },
+ "Q106486426": {
+  "qid": "Q106486426",
+  "pob": "Q23556",
+  "pobLabel": "Atlanta",
+  "coord": "Point(-84.389722222 33.754444444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106641631": {
+  "qid": "Q106641631",
+  "pob": "Q127856",
+  "pobLabel": "Beverly Hills",
+  "coord": "Point(-118.399444444 34.073055555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106782830": {
+  "qid": "Q106782830",
+  "pob": "Q847596",
+  "pobLabel": "Pontiac",
+  "coord": "Point(-83.2925 42.646111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106804749": {
+  "qid": "Q106804749",
+  "pob": "Q43199",
+  "pobLabel": "Omaha",
+  "coord": "Point(-95.9375 41.258611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106817948": {
+  "qid": "Q106817948",
+  "pob": "Q181962",
+  "pobLabel": "Augusta",
+  "coord": "Point(-81.975 33.47)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106817954": {
+  "qid": "Q106817954",
+  "pob": "Q23768",
+  "pobLabel": "Las Vegas",
+  "coord": "Point(-115.148611111 36.167222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106817973": {
+  "qid": "Q106817973",
+  "pob": "Q172",
+  "pobLabel": "Toronto",
+  "coord": "Point(-79.386666666 43.670277777)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q106817980": {
+  "qid": "Q106817980",
+  "pob": "Q988940",
+  "pobLabel": "Eustis",
+  "coord": "Point(-81.681944444 28.851111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106818050": {
+  "qid": "Q106818050",
+  "pob": "Q486877",
+  "pobLabel": "South Bend",
+  "coord": "Point(-86.250277777 41.676388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106818127": {
+  "qid": "Q106818127",
+  "pob": "Q25330",
+  "pobLabel": "Trenton",
+  "coord": "Point(-74.765833333 40.220277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106818128": {
+  "qid": "Q106818128",
+  "pob": "Q342803",
+  "pobLabel": "Portsmouth",
+  "coord": "Point(-76.29827 36.83543)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106818157": {
+  "qid": "Q106818157",
+  "pob": "Q49258",
+  "pobLabel": "Colorado Springs",
+  "coord": "Point(-104.791944444 38.863333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106818165": {
+  "qid": "Q106818165",
+  "pob": "Q960986",
+  "pobLabel": "Sugar Hill",
+  "coord": "Point(-84.044166666 34.102222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106818169": {
+  "qid": "Q106818169",
+  "pob": "Q340",
+  "pobLabel": "Montreal",
+  "coord": "Point(-73.5868411 45.5033426)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q106818294": {
+  "qid": "Q106818294",
+  "pob": "Q486439",
+  "pobLabel": "Cedar Rapids",
+  "coord": "Point(-91.668611111 41.983333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106818507": {
+  "qid": "Q106818507",
+  "pob": "Q16559",
+  "pobLabel": "Austin",
+  "coord": "Point(-97.733333333 30.3)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106818559": {
+  "qid": "Q106818559",
+  "pob": "Q38022",
+  "pobLabel": "St. Louis",
+  "coord": "Point(-90.199444444 38.626388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106818582": {
+  "qid": "Q106818582",
+  "pob": "Q49261",
+  "pobLabel": "Mesa",
+  "coord": "Point(-111.831388888 33.415)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106818762": {
+  "qid": "Q106818762",
+  "pob": "Q3817434",
+  "pobLabel": "Spring Valley",
+  "coord": "Point(-122.596 39.08)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106818866": {
+  "qid": "Q106818866",
+  "pob": "Q49229",
+  "pobLabel": "Durham",
+  "coord": "Point(-78.898611111 35.994166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106818889": {
+  "qid": "Q106818889",
+  "pob": "Q49266",
+  "pobLabel": "Wichita",
+  "coord": "Point(-97.336111111 37.688888888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q106819050": {
+  "qid": "Q106819050",
+  "pob": "Q1726",
+  "pobLabel": "Munich",
+  "coord": "Point(11.575 48.1375)",
+  "country": "Q183",
+  "countryLabel": "Germany"
+ },
+ "Q106819078": {
+  "qid": "Q106819078",
+  "pob": "Q50816",
+  "pobLabel": "Mississauga",
+  "coord": "Point(-79.65 43.6)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q106819095": {
+  "qid": "Q106819095",
+  "pob": "Q13383459",
+  "pobLabel": "Nacka",
+  "coord": "Point(18.163889 59.31)",
+  "country": "Q34",
+  "countryLabel": "Sweden"
+ },
+ "Q106928080": {
+  "qid": "Q106928080",
+  "pob": "Q852684",
+  "pobLabel": "Marietta",
+  "coord": "Point(-84.540555555 33.953333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q107093740": {
+  "qid": "Q107093740",
+  "pob": "Q2844",
+  "pobLabel": "Bras\u00edlia",
+  "coord": "Point(-47.882777777 -15.793888888)",
+  "country": "Q155",
+  "countryLabel": "Brazil"
+ },
+ "Q107295154": {
+  "qid": "Q107295154",
+  "pob": "Q16557",
+  "pobLabel": "Dallas",
+  "coord": "Point(-96.808888888 32.779166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q107302659": {
+  "qid": "Q107302659",
+  "pob": "Q997132",
+  "pobLabel": "Arlington Heights",
+  "coord": "Point(-87.980833333 42.095)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q107308380": {
+  "qid": "Q107308380",
+  "pob": "Q497793",
+  "pobLabel": "Bendigo",
+  "coord": "Point(144.266666666 -36.75)",
+  "country": "Q408",
+  "countryLabel": "Australia"
+ },
+ "Q107354848": {
+  "qid": "Q107354848",
+  "pob": "Q936780",
+  "pobLabel": "La Crosse",
+  "coord": "Point(-91.233055555 43.813333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q107369667": {
+  "qid": "Q107369667",
+  "pob": "Q2365755",
+  "pobLabel": "Pendleton",
+  "coord": "Point(-82.780833333 34.650555555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q108435173": {
+  "qid": "Q108435173",
+  "pob": "Q92561",
+  "pobLabel": "London",
+  "coord": "Point(-81.2497 42.9837)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q115915": {
+  "qid": "Q115915",
+  "pob": "Q174684",
+  "pobLabel": "Tuzla",
+  "coord": "Point(18.675193 44.5391105)",
+  "country": "Q225",
+  "countryLabel": "Bosnia and Herzegovina"
+ },
+ "Q10862660": {
+  "qid": "Q10862660",
+  "pob": "Q2773",
+  "pobLabel": "Brunswick",
+  "coord": "Point(10.521111111 52.269166666)",
+  "country": "Q183",
+  "countryLabel": "Germany"
+ },
+ "Q108435545": {
+  "qid": "Q108435545",
+  "pob": "Q2028564",
+  "pobLabel": "Hickory",
+  "coord": "Point(-81.328333333 35.737777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q108459600": {
+  "qid": "Q108459600",
+  "pob": "Q1143667",
+  "pobLabel": "Cumberland",
+  "coord": "Point(-71.432777777 41.966666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q108576613": {
+  "qid": "Q108576613",
+  "pob": "Q26495",
+  "pobLabel": "Lewisville",
+  "coord": "Point(-97.0061 33.0383)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q108756368": {
+  "qid": "Q108756368",
+  "pob": "Q274327",
+  "pobLabel": "Saint-Maurice",
+  "coord": "Point(2.434722222 48.818333333)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q109669843": {
+  "qid": "Q109669843",
+  "pob": "Q8851",
+  "pobLabel": "M\u00e1laga",
+  "coord": "Point(-4.416666666 36.716666666)",
+  "country": "Q29",
+  "countryLabel": "Spain"
+ },
+ "Q110278938": {
+  "qid": "Q110278938",
+  "pob": "Q266438",
+  "pobLabel": "Aurora",
+  "coord": "Point(-79.466666666 44.0)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q111022872": {
+  "qid": "Q111022872",
+  "pob": "Q16567",
+  "pobLabel": "Columbus",
+  "coord": "Point(-83.000555555 39.962222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q111231195": {
+  "qid": "Q111231195",
+  "pob": "Q1345",
+  "pobLabel": "Philadelphia",
+  "coord": "Point(-75.163611111 39.952777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q111231664": {
+  "qid": "Q111231664",
+  "pob": "Q49192",
+  "pobLabel": "Middletown",
+  "coord": "Point(-72.651111111 41.562222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q111511684": {
+  "qid": "Q111511684",
+  "pob": "Q68562",
+  "pobLabel": "Fr\u00e4schels",
+  "coord": "Point(7.2 47.0)",
+  "country": "Q39",
+  "countryLabel": "Switzerland"
+ },
+ "Q111942676": {
+  "qid": "Q111942676",
+  "pob": "Q79688",
+  "pobLabel": "Jacksonville",
+  "coord": "Point(-92.115277777 34.870277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q112277896": {
+  "qid": "Q112277896",
+  "pob": "Q49266",
+  "pobLabel": "Wichita",
+  "coord": "Point(-97.336111111 37.688888888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q112573170": {
+  "qid": "Q112573170",
+  "pob": "Q29422",
+  "pobLabel": "Boca Raton",
+  "coord": "Point(-80.1 26.368611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q112581331": {
+  "qid": "Q112581331",
+  "pob": "Q12439",
+  "pobLabel": "Detroit",
+  "coord": "Point(-83.0475 42.331666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q112625459": {
+  "qid": "Q112625459",
+  "pob": "Q1087474",
+  "pobLabel": "Dumont",
+  "coord": "Point(-73.9924 40.9452)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q112687854": {
+  "qid": "Q112687854",
+  "pob": "Q79535",
+  "pobLabel": "Fort Smith",
+  "coord": "Point(-94.366666666 35.35)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q112724651": {
+  "qid": "Q112724651",
+  "pob": "Q1025401",
+  "pobLabel": "Scarborough",
+  "coord": "Point(-79.2446 43.7737)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q113240286": {
+  "qid": "Q113240286",
+  "pob": "Q753584",
+  "pobLabel": "Odenton",
+  "coord": "Point(-76.6997 39.0714)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q114413486": {
+  "qid": "Q114413486",
+  "pob": "Q17042",
+  "pobLabel": "Oakland",
+  "coord": "Point(-122.25 37.8)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q114414145": {
+  "qid": "Q114414145",
+  "pob": "Q16557",
+  "pobLabel": "Dallas",
+  "coord": "Point(-96.808888888 32.779166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q114426424": {
+  "qid": "Q114426424",
+  "pob": "Q6602",
+  "pobLabel": "Strasbourg",
+  "coord": "Point(7.752222222 48.573333333)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q114433117": {
+  "qid": "Q114433117",
+  "pob": "Q17042",
+  "pobLabel": "Oakland",
+  "coord": "Point(-122.25 37.8)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q114453793": {
+  "qid": "Q114453793",
+  "pob": "Q2807",
+  "pobLabel": "Madrid",
+  "coord": "Point(-3.703333333 40.416944444)",
+  "country": "Q29",
+  "countryLabel": "Spain"
+ },
+ "Q114655492": {
+  "qid": "Q114655492",
+  "pob": "Q5092",
+  "pobLabel": "Baltimore",
+  "coord": "Point(-76.615 39.286388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q115492038": {
+  "qid": "Q115492038",
+  "pob": "Q992483",
+  "pobLabel": "Newport",
+  "coord": "Point(-69.273888888 44.835277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q115492041": {
+  "qid": "Q115492041",
+  "pob": "Q500481",
+  "pobLabel": "Overland Park",
+  "coord": "Point(-94.680697222 38.940072222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q115492105": {
+  "qid": "Q115492105",
+  "pob": "Q38453",
+  "pobLabel": "Columbia",
+  "coord": "Point(-81.044166666 34.000555555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q115492226": {
+  "qid": "Q115492226",
+  "pob": "Q752719",
+  "pobLabel": "Gaithersburg",
+  "coord": "Point(-77.1929215 39.1399187)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q115492262": {
+  "qid": "Q115492262",
+  "pob": "Q79902",
+  "pobLabel": "North Little Rock",
+  "coord": "Point(-92.266388888 34.771388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q115581689": {
+  "qid": "Q115581689",
+  "pob": "Q486439",
+  "pobLabel": "Cedar Rapids",
+  "coord": "Point(-91.668611111 41.983333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q115807227": {
+  "qid": "Q115807227",
+  "pob": "Q981394",
+  "pobLabel": "Duncanville",
+  "coord": "Point(-96.9114 32.6464)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q115810482": {
+  "qid": "Q115810482",
+  "pob": "Q23197",
+  "pobLabel": "Nashville",
+  "coord": "Point(-86.774444444 36.162222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q116186160": {
+  "qid": "Q116186160",
+  "pob": "Q165972",
+  "pobLabel": "Fort Lauderdale",
+  "coord": "Point(-80.141944444 26.135833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q116258755": {
+  "qid": "Q116258755",
+  "pob": "Q49233",
+  "pobLabel": "Orlando",
+  "coord": "Point(-81.386666666 28.533611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q116360316": {
+  "qid": "Q116360316",
+  "pob": "Q182877",
+  "pobLabel": "Greenfield",
+  "coord": "Point(-87.995833333 42.963055555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q116407129": {
+  "qid": "Q116407129",
+  "pob": "Q1297",
+  "pobLabel": "Chicago",
+  "coord": "Point(-87.627777777 41.881944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q116407174": {
+  "qid": "Q116407174",
+  "pob": "Q1193960",
+  "pobLabel": "Covington",
+  "coord": "Point(-83.866666666 33.6)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q116407295": {
+  "qid": "Q116407295",
+  "pob": "Q1345",
+  "pobLabel": "Philadelphia",
+  "coord": "Point(-75.163611111 39.952777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q116407634": {
+  "qid": "Q116407634",
+  "pob": "Q49012",
+  "pobLabel": "San Luis Obispo",
+  "coord": "Point(-120.663055555 35.274166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q116407910": {
+  "qid": "Q116407910",
+  "pob": "Q23556",
+  "pobLabel": "Atlanta",
+  "coord": "Point(-84.389722222 33.754444444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q116407941": {
+  "qid": "Q116407941",
+  "pob": "Q981394",
+  "pobLabel": "Duncanville",
+  "coord": "Point(-96.9114 32.6464)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q116407947": {
+  "qid": "Q116407947",
+  "pob": "Q18013",
+  "pobLabel": "Sacramento",
+  "coord": "Point(-121.486111111 38.575277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q116407954": {
+  "qid": "Q116407954",
+  "pob": "Q16557",
+  "pobLabel": "Dallas",
+  "coord": "Point(-96.808888888 32.779166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q116408003": {
+  "qid": "Q116408003",
+  "pob": "Q3061911",
+  "pobLabel": "London",
+  "coord": "Point(-84.0842 37.1275)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q116447764": {
+  "qid": "Q116447764",
+  "pob": "Q189153",
+  "pobLabel": "Saint-Cloud",
+  "coord": "Point(2.215277777 48.846388888)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q116687537": {
+  "qid": "Q116687537",
+  "pob": "Q1297",
+  "pobLabel": "Chicago",
+  "coord": "Point(-87.627777777 41.881944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q116763883": {
+  "qid": "Q116763883",
+  "pob": "Q981771",
+  "pobLabel": "DeSoto",
+  "coord": "Point(-96.8589 32.5992)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q116774562": {
+  "qid": "Q116774562",
+  "pob": "Q773325",
+  "pobLabel": "Spartanburg",
+  "coord": "Point(-81.934722222 34.948055555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q129041": {
+  "qid": "Q129041",
+  "pob": "Q18419",
+  "pobLabel": "Brooklyn",
+  "coord": "Point(-73.949722222 40.650833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q1277708": {
+  "qid": "Q1277708",
+  "pob": "Q1419953",
+  "pobLabel": "Boljevac",
+  "coord": "Point(21.951944444 43.824722222)",
+  "country": "Q403",
+  "countryLabel": "Serbia"
+ },
+ "Q1282320": {
+  "qid": "Q1282320",
+  "pob": "Q61",
+  "pobLabel": "Washington, D.C.",
+  "coord": "Point(-77.036666666 38.895)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q1317442": {
+  "qid": "Q1317442",
+  "pob": "Q79867",
+  "pobLabel": "Birmingham",
+  "coord": "Point(-86.809444444 33.5175)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q1354036": {
+  "qid": "Q1354036",
+  "pob": "Q16563",
+  "pobLabel": "Memphis",
+  "coord": "Point(-90.051944444 35.146111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q12058834": {
+  "qid": "Q12058834",
+  "pob": "Q16553",
+  "pobLabel": "San Jose",
+  "coord": "Point(-121.872777777 37.304166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q12269620": {
+  "qid": "Q12269620",
+  "pob": "Q2704",
+  "pobLabel": "Pescara",
+  "coord": "Point(14.214188888 42.464277777)",
+  "country": "Q38",
+  "countryLabel": "Italy"
+ },
+ "Q117262884": {
+  "qid": "Q117262884",
+  "pob": "Q985173",
+  "pobLabel": "Sebring",
+  "coord": "Point(-81.444444444 27.495555555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q117268111": {
+  "qid": "Q117268111",
+  "pob": "Q755149",
+  "pobLabel": "Bristol",
+  "coord": "Point(-72.940555555 41.681111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q117359974": {
+  "qid": "Q117359974",
+  "pob": "Q34647",
+  "pobLabel": "Johannesburg",
+  "coord": "Point(28.041638888 -26.204361111)",
+  "country": "Q258",
+  "countryLabel": "South Africa"
+ },
+ "Q118235978": {
+  "qid": "Q118235978",
+  "pob": "Q649",
+  "pobLabel": "Moscow",
+  "coord": "Point(37.6175 55.750555555)",
+  "country": "Q159",
+  "countryLabel": "Russia"
+ },
+ "Q118237185": {
+  "qid": "Q118237185",
+  "pob": "Q1479",
+  "pobLabel": "Bordeaux",
+  "coord": "Point(-0.579444444 44.837777777)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q118315779": {
+  "qid": "Q118315779",
+  "pob": "Q216",
+  "pobLabel": "Vilnius",
+  "coord": "Point(25.28 54.687222222)",
+  "country": "Q37",
+  "countryLabel": "Lithuania"
+ },
+ "Q118496603": {
+  "qid": "Q118496603",
+  "pob": "Q18432",
+  "pobLabel": "Staten Island",
+  "coord": "Point(-74.146944444 40.571944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q118918039": {
+  "qid": "Q118918039",
+  "pob": "Q16557",
+  "pobLabel": "Dallas",
+  "coord": "Point(-96.808888888 32.779166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q119949059": {
+  "qid": "Q119949059",
+  "pob": "Q492478",
+  "pobLabel": "Terre Haute",
+  "coord": "Point(-87.389762 39.469586)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q120671600": {
+  "qid": "Q120671600",
+  "pob": "Q2482588",
+  "pobLabel": "Glencoe",
+  "coord": "Point(-87.7608 42.1314)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q120727118": {
+  "qid": "Q120727118",
+  "pob": "Q90",
+  "pobLabel": "Paris",
+  "coord": "Point(2.352222222 48.856666666)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q120753257": {
+  "qid": "Q120753257",
+  "pob": "Q183312",
+  "pobLabel": "Franklin Lakes",
+  "coord": "Point(-74.207777777 41.006944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q121367318": {
+  "qid": "Q121367318",
+  "pob": "Q607336",
+  "pobLabel": "Rumbek",
+  "coord": "Point(29.683333333 6.8)",
+  "country": "Q958",
+  "countryLabel": "South Sudan"
+ },
+ "Q122617931": {
+  "qid": "Q122617931",
+  "pob": "Q90",
+  "pobLabel": "Paris",
+  "coord": "Point(2.352222222 48.856666666)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q123155481": {
+  "qid": "Q123155481",
+  "pob": "Q43195",
+  "pobLabel": "Aigle",
+  "coord": "Point(6.9646 46.3173)",
+  "country": "Q39",
+  "countryLabel": "Switzerland"
+ },
+ "Q123266149": {
+  "qid": "Q123266149",
+  "pob": "Q607108",
+  "pobLabel": "Baldwin",
+  "coord": "Point(-73.6125 40.6702)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q123416102": {
+  "qid": "Q123416102",
+  "pob": "Q34109",
+  "pobLabel": "Fargo",
+  "coord": "Point(-96.789444444 46.877222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q123455591": {
+  "qid": "Q123455591",
+  "pob": "Q23556",
+  "pobLabel": "Atlanta",
+  "coord": "Point(-84.389722222 33.754444444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q123532991": {
+  "qid": "Q123532991",
+  "pob": "Q5092",
+  "pobLabel": "Baltimore",
+  "coord": "Point(-76.615 39.286388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q123533017": {
+  "qid": "Q123533017",
+  "pob": "Q863476",
+  "pobLabel": "Bimini",
+  "coord": "Point(-79.25 25.733333333)",
+  "country": "Q778",
+  "countryLabel": "The Bahamas"
+ },
+ "Q123560799": {
+  "qid": "Q123560799",
+  "pob": "Q186702",
+  "pobLabel": "Chattanooga",
+  "coord": "Point(-85.267222222 35.045555555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q123666661": {
+  "qid": "Q123666661",
+  "pob": "Q37836",
+  "pobLabel": "Milwaukee",
+  "coord": "Point(-87.95 43.05)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q124285681": {
+  "qid": "Q124285681",
+  "pob": "Q7131498",
+  "pobLabel": "Panorama City",
+  "coord": "Point(-118.44889 34.22472)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q124370526": {
+  "qid": "Q124370526",
+  "pob": "Q9005",
+  "pobLabel": "Brussels metropolitan area",
+  "coord": "Point(4.3525 50.846666666)",
+  "country": "Q31",
+  "countryLabel": "Belgium"
+ },
+ "Q124545788": {
+  "qid": "Q124545788",
+  "pob": "Q33147",
+  "pobLabel": "Allen",
+  "coord": "Point(-96.663055555 33.099722222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q124624089": {
+  "qid": "Q124624089",
+  "pob": "Q3141",
+  "pobLabel": "Melbourne",
+  "coord": "Point(144.963055555 -37.814166666)",
+  "country": "Q408",
+  "countryLabel": "Australia"
+ },
+ "Q124655262": {
+  "qid": "Q124655262",
+  "pob": "Q5092",
+  "pobLabel": "Baltimore",
+  "coord": "Point(-76.615 39.286388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q124788522": {
+  "qid": "Q124788522",
+  "pob": "Q38453",
+  "pobLabel": "Columbia",
+  "coord": "Point(-81.044166666 34.000555555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q124795308": {
+  "qid": "Q124795308",
+  "pob": "Q8652",
+  "pobLabel": "Miami",
+  "coord": "Point(-80.193611111 25.774166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q125140895": {
+  "qid": "Q125140895",
+  "pob": "Q46135",
+  "pobLabel": "Cr\u00e9teil",
+  "coord": "Point(2.453055555 48.777777777)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q125930121": {
+  "qid": "Q125930121",
+  "pob": "Q18013",
+  "pobLabel": "Sacramento",
+  "coord": "Point(-121.486111111 38.575277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q126198688": {
+  "qid": "Q126198688",
+  "pob": "Q163749",
+  "pobLabel": "West Palm Beach",
+  "coord": "Point(-80.064166666 26.709722222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q126902785": {
+  "qid": "Q126902785",
+  "pob": "Q43301",
+  "pobLabel": "Fresno",
+  "coord": "Point(-119.792222222 36.781666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q127428045": {
+  "qid": "Q127428045",
+  "pob": "Q198370",
+  "pobLabel": "Zibo",
+  "coord": "Point(118.049722 36.783056)",
+  "country": "Q148",
+  "countryLabel": "People's Republic of China"
+ },
+ "Q127690215": {
+  "qid": "Q127690215",
+  "pob": "Q90",
+  "pobLabel": "Paris",
+  "coord": "Point(2.352222222 48.856666666)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q130355819": {
+  "qid": "Q130355819",
+  "pob": "Q200166",
+  "pobLabel": "Kitchener",
+  "coord": "Point(-80.483333333 43.45)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q131344354": {
+  "qid": "Q131344354",
+  "pob": "Q40345",
+  "pobLabel": "Joliet",
+  "coord": "Point(-88.0834 41.52519)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q131392043": {
+  "qid": "Q131392043",
+  "pob": "Q43301",
+  "pobLabel": "Fresno",
+  "coord": "Point(-119.792222222 36.781666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q131448114": {
+  "qid": "Q131448114",
+  "pob": "Q22737",
+  "pobLabel": "S\u00e9lestat",
+  "coord": "Point(7.454166666 48.259444444)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q131672929": {
+  "qid": "Q131672929",
+  "pob": "Q18419",
+  "pobLabel": "Brooklyn",
+  "coord": "Point(-73.949722222 40.650833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q132889075": {
+  "qid": "Q132889075",
+  "pob": "Q486877",
+  "pobLabel": "South Bend",
+  "coord": "Point(-86.250277777 41.676388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q133189753": {
+  "qid": "Q133189753",
+  "pob": "Q3261359",
+  "pobLabel": "Fairburn",
+  "coord": "Point(-84.5814 33.5625)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q135102256": {
+  "qid": "Q135102256",
+  "pob": "Q49243",
+  "pobLabel": "Riverside",
+  "coord": "Point(-117.3725 33.982222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q136678": {
+  "qid": "Q136678",
+  "pob": "Q65",
+  "pobLabel": "Los Angeles",
+  "coord": "Point(-118.24368 34.05223)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q136816": {
+  "qid": "Q136816",
+  "pob": "Q28515",
+  "pobLabel": "Springfield",
+  "coord": "Point(-89.645 39.7975)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q166871": {
+  "qid": "Q166871",
+  "pob": "Q18426",
+  "pobLabel": "The Bronx",
+  "coord": "Point(-73.873333333 40.846666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q1364223": {
+  "qid": "Q1364223",
+  "pob": "Q1375929",
+  "pobLabel": "Woodbridge",
+  "coord": "Point(-77.2608 38.6436)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q1476337": {
+  "qid": "Q1476337",
+  "pob": "Q2999",
+  "pobLabel": "W\u00fcrzburg",
+  "coord": "Point(9.929444444 49.794444444)",
+  "country": "Q183",
+  "countryLabel": "Germany"
+ },
+ "Q1554023": {
+  "qid": "Q1554023",
+  "pob": "Q2807",
+  "pobLabel": "Madrid",
+  "coord": "Point(-3.703333333 40.416944444)",
+  "country": "Q29",
+  "countryLabel": "Spain"
+ },
+ "Q1653956": {
+  "qid": "Q1653956",
+  "pob": "Q13360",
+  "pobLabel": "Reggio Emilia",
+  "coord": "Point(10.633333333 44.7)",
+  "country": "Q38",
+  "countryLabel": "Italy"
+ },
+ "Q13562909": {
+  "qid": "Q13562909",
+  "pob": "Q2856170",
+  "pobLabel": "Thomaston",
+  "coord": "Point(-84.333333333 32.9)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q13605936": {
+  "qid": "Q13605936",
+  "pob": "Q490434",
+  "pobLabel": "Ventura",
+  "coord": "Point(-119.254206 34.26778)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q13605982": {
+  "qid": "Q13605982",
+  "pob": "Q65",
+  "pobLabel": "Los Angeles",
+  "coord": "Point(-118.24368 34.05223)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q13641280": {
+  "qid": "Q13641280",
+  "pob": "Q206317",
+  "pobLabel": "Kraljevo",
+  "coord": "Point(20.686975 43.72342)",
+  "country": "Q403",
+  "countryLabel": "Serbia"
+ },
+ "Q13860876": {
+  "qid": "Q13860876",
+  "pob": "Q1223508",
+  "pobLabel": "Ohrid",
+  "coord": "Point(20.801944444 41.116944444)",
+  "country": "Q221",
+  "countryLabel": "North Macedonia"
+ },
+ "Q14324358": {
+  "qid": "Q14324358",
+  "pob": "Q277068",
+  "pobLabel": "Bellwood",
+  "coord": "Point(-87.8764 41.8829)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q14469440": {
+  "qid": "Q14469440",
+  "pob": "Q3141",
+  "pobLabel": "Melbourne",
+  "coord": "Point(144.963055555 -37.814166666)",
+  "country": "Q408",
+  "countryLabel": "Australia"
+ },
+ "Q14834367": {
+  "qid": "Q14834367",
+  "pob": "Q167668",
+  "pobLabel": "Liep\u0101ja",
+  "coord": "Point(21.011111111 56.508333333)",
+  "country": "Q211",
+  "countryLabel": "Latvia"
+ },
+ "Q14901752": {
+  "qid": "Q14901752",
+  "pob": "Q157055",
+  "pobLabel": "Cherkasy",
+  "coord": "Point(32.059722222 49.444444444)",
+  "country": "Q212",
+  "countryLabel": "Ukraine"
+ },
+ "Q15214945": {
+  "qid": "Q15214945",
+  "pob": "Q494711",
+  "pobLabel": "Lancaster",
+  "coord": "Point(-118.154166666 34.686944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q15623860": {
+  "qid": "Q15623860",
+  "pob": "Q16557",
+  "pobLabel": "Dallas",
+  "coord": "Point(-96.808888888 32.779166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q15908942": {
+  "qid": "Q15908942",
+  "pob": "Q679952",
+  "pobLabel": "Renton",
+  "coord": "Point(-122.203444444 47.479916666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q15920046": {
+  "qid": "Q15920046",
+  "pob": "Q3808",
+  "pobLabel": "Yaound\u00e9",
+  "coord": "Point(11.518055555 3.857777777)",
+  "country": "Q1009",
+  "countryLabel": "Cameroon"
+ },
+ "Q16199705": {
+  "qid": "Q16199705",
+  "pob": "Q1297",
+  "pobLabel": "Chicago",
+  "coord": "Point(-87.627777777 41.881944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16226914": {
+  "qid": "Q16226914",
+  "pob": "Q38453",
+  "pobLabel": "Columbia",
+  "coord": "Point(-81.044166666 34.000555555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16226957": {
+  "qid": "Q16226957",
+  "pob": "Q1337818",
+  "pobLabel": "Woodland Hills",
+  "coord": "Point(-118.605 34.16833)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16227185": {
+  "qid": "Q16227185",
+  "pob": "Q61",
+  "pobLabel": "Washington, D.C.",
+  "coord": "Point(-77.036666666 38.895)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16227284": {
+  "qid": "Q16227284",
+  "pob": "Q931645",
+  "pobLabel": "Tarboro",
+  "coord": "Point(-77.545833333 35.902777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16227291": {
+  "qid": "Q16227291",
+  "pob": "Q1207462",
+  "pobLabel": "Chelan",
+  "coord": "Point(-120.021388888 47.842777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16227425": {
+  "qid": "Q16227425",
+  "pob": "Q118152",
+  "pobLabel": "Meridian",
+  "coord": "Point(-88.703666666 32.364305555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16227726": {
+  "qid": "Q16227726",
+  "pob": "Q1023953",
+  "pobLabel": "Lisle",
+  "coord": "Point(-88.0883 41.7925)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16228087": {
+  "qid": "Q16228087",
+  "pob": "Q16567",
+  "pobLabel": "Columbus",
+  "coord": "Point(-83.000555555 39.962222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16228369": {
+  "qid": "Q16228369",
+  "pob": "Q1342",
+  "pobLabel": "Pittsburgh",
+  "coord": "Point(-80.0 40.441666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16228417": {
+  "qid": "Q16228417",
+  "pob": "Q83813",
+  "pobLabel": "Savannah",
+  "coord": "Point(-81.103888888 32.050833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16228709": {
+  "qid": "Q16228709",
+  "pob": "Q1297",
+  "pobLabel": "Chicago",
+  "coord": "Point(-87.627777777 41.881944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16235967": {
+  "qid": "Q16235967",
+  "pob": "Q49229",
+  "pobLabel": "Durham",
+  "coord": "Point(-78.898611111 35.994166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16236628": {
+  "qid": "Q16236628",
+  "pob": "Q233892",
+  "pobLabel": "Rockford",
+  "coord": "Point(-89.094 42.27113)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16236763": {
+  "qid": "Q16236763",
+  "pob": "Q1256993",
+  "pobLabel": "Priboj",
+  "coord": "Point(19.53333333 43.6)",
+  "country": "Q403",
+  "countryLabel": "Serbia"
+ },
+ "Q16237074": {
+  "qid": "Q16237074",
+  "pob": "Q12439",
+  "pobLabel": "Detroit",
+  "coord": "Point(-83.0475 42.331666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16239572": {
+  "qid": "Q16239572",
+  "pob": "Q49247",
+  "pobLabel": "Anaheim",
+  "coord": "Point(-117.889722222 33.836111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16240120": {
+  "qid": "Q16240120",
+  "pob": "Q276534",
+  "pobLabel": "Wau",
+  "coord": "Point(27.983333333 7.7)",
+  "country": "Q958",
+  "countryLabel": "South Sudan"
+ },
+ "Q16661017": {
+  "qid": "Q16661017",
+  "pob": "Q16552",
+  "pobLabel": "San Diego",
+  "coord": "Point(-117.1625 32.715)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16730417": {
+  "qid": "Q16730417",
+  "pob": "Q736586",
+  "pobLabel": "Burnsville",
+  "coord": "Point(-93.2775 44.767777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16847519": {
+  "qid": "Q16847519",
+  "pob": "Q748191",
+  "pobLabel": "Gretna",
+  "coord": "Point(-90.0542 29.9164)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q16910147": {
+  "qid": "Q16910147",
+  "pob": "Q3838",
+  "pobLabel": "Kinshasa",
+  "coord": "Point(15.311944444 -4.321944444)",
+  "country": "Q974",
+  "countryLabel": "Democratic Republic of the Congo"
+ },
+ "Q17180552": {
+  "qid": "Q17180552",
+  "pob": "Q2090461",
+  "pobLabel": "Arlington",
+  "coord": "Point(-71.156944444 42.415277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q17281073": {
+  "qid": "Q17281073",
+  "pob": "Q204475",
+  "pobLabel": "Sombor",
+  "coord": "Point(19.12 45.78)",
+  "country": "Q403",
+  "countryLabel": "Serbia"
+ },
+ "Q17282759": {
+  "qid": "Q17282759",
+  "pob": "Q4035",
+  "pobLabel": "Q4035",
+  "coord": "Point(-46.791944444 -23.532777777)",
+  "country": "Q155",
+  "countryLabel": "Brazil"
+ },
+ "Q17294972": {
+  "qid": "Q17294972",
+  "pob": "Q172",
+  "pobLabel": "Toronto",
+  "coord": "Point(-79.386666666 43.670277777)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q17302809": {
+  "qid": "Q17302809",
+  "pob": "Q49255",
+  "pobLabel": "Q49255",
+  "coord": "Point(-82.458611111 27.9475)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q17305698": {
+  "qid": "Q17305698",
+  "pob": "Q340",
+  "pobLabel": "Montreal",
+  "coord": "Point(-73.5868411 45.5033426)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q17305725": {
+  "qid": "Q17305725",
+  "pob": "Q138338",
+  "pobLabel": "New Brunswick",
+  "coord": "Point(-74.444444444 40.486666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q17306022": {
+  "qid": "Q17306022",
+  "pob": "Q368045",
+  "pobLabel": "Chester",
+  "coord": "Point(-75.372777777 39.847222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q179906": {
+  "qid": "Q179906",
+  "pob": "Q79867",
+  "pobLabel": "Birmingham",
+  "coord": "Point(-86.809444444 33.5175)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q196185": {
+  "qid": "Q196185",
+  "pob": "Q16739",
+  "pobLabel": "Long Beach",
+  "coord": "Point(-118.195555555 33.768055555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q205326": {
+  "qid": "Q205326",
+  "pob": "Q1297",
+  "pobLabel": "Chicago",
+  "coord": "Point(-87.627777777 41.881944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q1890505": {
+  "qid": "Q1890505",
+  "pob": "Q41087",
+  "pobLabel": "Raleigh",
+  "coord": "Point(-78.64 35.78)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q2024753": {
+  "qid": "Q2024753",
+  "pob": "Q1722",
+  "pobLabel": "Dubrovnik",
+  "coord": "Point(18.108333333 42.640277777)",
+  "country": "Q224",
+  "countryLabel": "Croatia"
+ },
+ "Q17386097": {
+  "qid": "Q17386097",
+  "pob": "Q16555",
+  "pobLabel": "Houston",
+  "coord": "Point(-95.383055555 29.762777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q17403499": {
+  "qid": "Q17403499",
+  "pob": "Q813867",
+  "pobLabel": "Bedford",
+  "coord": "Point(-97.1397 32.8467)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q17465755": {
+  "qid": "Q17465755",
+  "pob": "Q2581974",
+  "pobLabel": "Norcross",
+  "coord": "Point(-84.2135309 33.9412127)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q17466552": {
+  "qid": "Q17466552",
+  "pob": "Q54179",
+  "pobLabel": "Methuen",
+  "coord": "Point(-71.191388888 42.726111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q17492383": {
+  "qid": "Q17492383",
+  "pob": "Q38283",
+  "pobLabel": "Yokohama",
+  "coord": "Point(139.634222222 35.450333333)",
+  "country": "Q17",
+  "countryLabel": "Japan"
+ },
+ "Q17513432": {
+  "qid": "Q17513432",
+  "pob": "Q10566",
+  "pobLabel": "Saskatoon",
+  "coord": "Point(-106.683333333 52.133333333)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q18043905": {
+  "qid": "Q18043905",
+  "pob": "Q28218",
+  "pobLabel": "Baton Rouge",
+  "coord": "Point(-91.178611111 30.4475)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q18129444": {
+  "qid": "Q18129444",
+  "pob": "Q269",
+  "pobLabel": "Tashkent",
+  "coord": "Point(69.279722222 41.311111111)",
+  "country": "Q265",
+  "countryLabel": "Uzbekistan"
+ },
+ "Q18564189": {
+  "qid": "Q18564189",
+  "pob": "Q37836",
+  "pobLabel": "Milwaukee",
+  "coord": "Point(-87.95 43.05)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q18619686": {
+  "qid": "Q18619686",
+  "pob": "Q34404",
+  "pobLabel": "New Orleans",
+  "coord": "Point(-90.078333333 29.976111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q18638003": {
+  "qid": "Q18638003",
+  "pob": "Q3141",
+  "pobLabel": "Melbourne",
+  "coord": "Point(144.963055555 -37.814166666)",
+  "country": "Q408",
+  "countryLabel": "Australia"
+ },
+ "Q18638186": {
+  "qid": "Q18638186",
+  "pob": "Q16555",
+  "pobLabel": "Houston",
+  "coord": "Point(-95.383055555 29.762777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q18644229": {
+  "qid": "Q18644229",
+  "pob": "Q2807",
+  "pobLabel": "Madrid",
+  "coord": "Point(-3.703333333 40.416944444)",
+  "country": "Q29",
+  "countryLabel": "Spain"
+ },
+ "Q18706123": {
+  "qid": "Q18706123",
+  "pob": "Q65",
+  "pobLabel": "Los Angeles",
+  "coord": "Point(-118.24368 34.05223)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q18749170": {
+  "qid": "Q18749170",
+  "pob": "Q43668",
+  "pobLabel": "Louisville",
+  "coord": "Point(-85.751388888 38.256111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q18921278": {
+  "qid": "Q18921278",
+  "pob": "Q2271328",
+  "pobLabel": "Ruston",
+  "coord": "Point(-92.638694444 32.52875)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q18921708": {
+  "qid": "Q18921708",
+  "pob": "Q3718",
+  "pobLabel": "Dakar",
+  "coord": "Point(-17.432 14.672555555)",
+  "country": "Q1041",
+  "countryLabel": "Senegal"
+ },
+ "Q19286282": {
+  "qid": "Q19286282",
+  "pob": "Q171224",
+  "pobLabel": "Eugene",
+  "coord": "Point(-123.0925 44.052222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q19310495": {
+  "qid": "Q19310495",
+  "pob": "Q406",
+  "pobLabel": "Istanbul",
+  "coord": "Point(28.960277777 41.01)",
+  "country": "Q43",
+  "countryLabel": "Turkey"
+ },
+ "Q19605398": {
+  "qid": "Q19605398",
+  "pob": "Q163132",
+  "pobLabel": "Akron",
+  "coord": "Point(-81.517777777 41.073055555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q19663167": {
+  "qid": "Q19663167",
+  "pob": "Q867573",
+  "pobLabel": "Freeport",
+  "coord": "Point(-78.66 26.52)",
+  "country": "Q778",
+  "countryLabel": "The Bahamas"
+ },
+ "Q19664817": {
+  "qid": "Q19664817",
+  "pob": "Q852684",
+  "pobLabel": "Marietta",
+  "coord": "Point(-84.540555555 33.953333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q19667582": {
+  "qid": "Q19667582",
+  "pob": "Q33405",
+  "pobLabel": "Little Rock",
+  "coord": "Point(-92.288055555 34.744444444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q19706820": {
+  "qid": "Q19706820",
+  "pob": "Q127623",
+  "pobLabel": "Vantaa",
+  "coord": "Point(25.040277777 60.294444444)",
+  "country": "Q33",
+  "countryLabel": "Finland"
+ },
+ "Q19757619": {
+  "qid": "Q19757619",
+  "pob": "Q16552",
+  "pobLabel": "San Diego",
+  "coord": "Point(-117.1625 32.715)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q19844712": {
+  "qid": "Q19844712",
+  "pob": "Q437",
+  "pobLabel": "Ljubljana",
+  "coord": "Point(14.506111111 46.051388888)",
+  "country": "Q215",
+  "countryLabel": "Slovenia"
+ },
+ "Q19864241": {
+  "qid": "Q19864241",
+  "pob": "Q1374093",
+  "pobLabel": "Montross",
+  "coord": "Point(-76.8261 38.0939)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q19864618": {
+  "qid": "Q19864618",
+  "pob": "Q16568",
+  "pobLabel": "Q16568",
+  "coord": "Point(-81.65 30.316666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q19865640": {
+  "qid": "Q19865640",
+  "pob": "Q28237",
+  "pobLabel": "Lansing",
+  "coord": "Point(-84.5467 42.7335)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q19868265": {
+  "qid": "Q19868265",
+  "pob": "Q28237",
+  "pobLabel": "Lansing",
+  "coord": "Point(-84.5467 42.7335)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q19880297": {
+  "qid": "Q19880297",
+  "pob": "Q575596",
+  "pobLabel": "Lockport",
+  "coord": "Point(-88.0291862 41.5903641)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q19880865": {
+  "qid": "Q19880865",
+  "pob": "Q2048581",
+  "pobLabel": "Kinston",
+  "coord": "Point(-77.585 35.270555555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q19895687": {
+  "qid": "Q19895687",
+  "pob": "Q34261",
+  "pobLabel": "Port-au-Prince",
+  "coord": "Point(-72.340277777 18.546944444)",
+  "country": "Q790",
+  "countryLabel": "Haiti"
+ },
+ "Q19968768": {
+  "qid": "Q19968768",
+  "pob": "Q39984",
+  "pobLabel": "Cannes",
+  "coord": "Point(7.021388888 43.5525)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q19979256": {
+  "qid": "Q19979256",
+  "pob": "Q5083",
+  "pobLabel": "Seattle",
+  "coord": "Point(-122.33 47.605)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q20031362": {
+  "qid": "Q20031362",
+  "pob": "Q184587",
+  "pobLabel": "Grand Rapids",
+  "coord": "Point(-85.667777777 42.963333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q20031584": {
+  "qid": "Q20031584",
+  "pob": "Q216820",
+  "pobLabel": "Youngstown",
+  "coord": "Point(-80.649166666 41.096388888)",
+  "country": "Q1397",
+  "countryLabel": "Ohio"
+ },
+ "Q20268371": {
+  "qid": "Q20268371",
+  "pob": "Q16563",
+  "pobLabel": "Memphis",
+  "coord": "Point(-90.051944444 35.146111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q20540520": {
+  "qid": "Q20540520",
+  "pob": "Q862645",
+  "pobLabel": "Edmond",
+  "coord": "Point(-97.464916666 35.657138888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q20639748": {
+  "qid": "Q20639748",
+  "pob": "Q16739",
+  "pobLabel": "Long Beach",
+  "coord": "Point(-118.195555555 33.768055555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q20657373": {
+  "qid": "Q20657373",
+  "pob": "Q184587",
+  "pobLabel": "Grand Rapids",
+  "coord": "Point(-85.667777777 42.963333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q20676045": {
+  "qid": "Q20676045",
+  "pob": "Q3141",
+  "pobLabel": "Melbourne",
+  "coord": "Point(144.963055555 -37.814166666)",
+  "country": "Q408",
+  "countryLabel": "Australia"
+ },
+ "Q20711111": {
+  "qid": "Q20711111",
+  "pob": "Q200166",
+  "pobLabel": "Kitchener",
+  "coord": "Point(-80.483333333 43.45)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q20711278": {
+  "qid": "Q20711278",
+  "pob": "Q2536885",
+  "pobLabel": "Wrentham",
+  "coord": "Point(-71.328611111 42.066666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q20714917": {
+  "qid": "Q20714917",
+  "pob": "Q1741",
+  "pobLabel": "Vienna",
+  "coord": "Point(16.3725 48.208333333)",
+  "country": "Q40",
+  "countryLabel": "Austria"
+ },
+ "Q212421": {
+  "qid": "Q212421",
+  "pob": "Q12039",
+  "pobLabel": "El Masnou",
+  "coord": "Point(2.317777777 41.481666666)",
+  "country": "Q29",
+  "countryLabel": "Spain"
+ },
+ "Q222851": {
+  "qid": "Q222851",
+  "pob": "Q470273",
+  "pobLabel": "Ames",
+  "coord": "Point(-93.631586 42.027335)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q245990": {
+  "qid": "Q245990",
+  "pob": "Q3711",
+  "pobLabel": "Belgrade",
+  "coord": "Point(20.456944444 44.817777777)",
+  "country": "Q403",
+  "countryLabel": "Serbia"
+ },
+ "Q2260799": {
+  "qid": "Q2260799",
+  "pob": "Q1345",
+  "pobLabel": "Philadelphia",
+  "coord": "Point(-75.163611111 39.952777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q2407571": {
+  "qid": "Q2407571",
+  "pob": "Q386626",
+  "pobLabel": "Pickering",
+  "coord": "Point(-79.130833333 43.906944444)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q2413455": {
+  "qid": "Q2413455",
+  "pob": "Q28218",
+  "pobLabel": "Baton Rouge",
+  "coord": "Point(-91.178611111 30.4475)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q2434352": {
+  "qid": "Q2434352",
+  "pob": "Q1014561",
+  "pobLabel": "Maryborough",
+  "coord": "Point(143.735 -37.05)",
+  "country": "Q408",
+  "countryLabel": "Australia"
+ },
+ "Q2481543": {
+  "qid": "Q2481543",
+  "pob": "Q1751219",
+  "pobLabel": "Islip",
+  "coord": "Point(-73.198888888 40.756666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q20730894": {
+  "qid": "Q20730894",
+  "pob": "Q107582",
+  "pobLabel": "C\u0113sis",
+  "coord": "Point(25.274722222 57.313055555)",
+  "country": "Q211",
+  "countryLabel": "Latvia"
+ },
+ "Q20744974": {
+  "qid": "Q20744974",
+  "pob": "Q5092",
+  "pobLabel": "Baltimore",
+  "coord": "Point(-76.615 39.286388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q20979199": {
+  "qid": "Q20979199",
+  "pob": "Q639452",
+  "pobLabel": "Lakeland",
+  "coord": "Point(-81.958888888 28.041111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q21039421": {
+  "qid": "Q21039421",
+  "pob": "Q325164",
+  "pobLabel": "Kayes",
+  "coord": "Point(-11.43675 14.449694444)",
+  "country": "Q912",
+  "countryLabel": "Mali"
+ },
+ "Q21063118": {
+  "qid": "Q21063118",
+  "pob": "Q49256",
+  "pobLabel": "Bakersfield",
+  "coord": "Point(-119.018888888 35.373333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q21063926": {
+  "qid": "Q21063926",
+  "pob": "Q982353",
+  "pobLabel": "San Marcos",
+  "coord": "Point(-97.938888888 29.879444444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q21066254": {
+  "qid": "Q21066254",
+  "pob": "Q49227",
+  "pobLabel": "Winston-Salem",
+  "coord": "Point(-80.260555555 36.1025)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q21209177": {
+  "qid": "Q21209177",
+  "pob": "Q1015",
+  "pobLabel": "Koper",
+  "coord": "Point(13.7306571 45.547542728)",
+  "country": "Q215",
+  "countryLabel": "Slovenia"
+ },
+ "Q21260552": {
+  "qid": "Q21260552",
+  "pob": "Q49218",
+  "pobLabel": "Rochester",
+  "coord": "Point(-77.611388888 43.165555555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q21294876": {
+  "qid": "Q21294876",
+  "pob": "Q142410",
+  "pobLabel": "Dreux",
+  "coord": "Point(1.365555555 48.736388888)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q21620668": {
+  "qid": "Q21620668",
+  "pob": "Q9059903",
+  "pobLabel": "Pinetown",
+  "coord": "Point(-76.861388888 35.610277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q21621315": {
+  "qid": "Q21621315",
+  "pob": "Q34404",
+  "pobLabel": "New Orleans",
+  "coord": "Point(-90.078333333 29.976111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q21621362": {
+  "qid": "Q21621362",
+  "pob": "Q16565",
+  "pobLabel": "Charlotte",
+  "coord": "Point(-80.843333333 35.226944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q21621436": {
+  "qid": "Q21621436",
+  "pob": "Q755741",
+  "pobLabel": "Silver Spring",
+  "coord": "Point(-77.020791 39.002441)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q21621551": {
+  "qid": "Q21621551",
+  "pob": "Q61",
+  "pobLabel": "Washington, D.C.",
+  "coord": "Point(-77.036666666 38.895)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q21622110": {
+  "qid": "Q21622110",
+  "pob": "Q61455",
+  "pobLabel": "Jonesboro",
+  "coord": "Point(-90.7 35.833333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q21623063": {
+  "qid": "Q21623063",
+  "pob": "Q38022",
+  "pobLabel": "St. Louis",
+  "coord": "Point(-90.199444444 38.626388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q22005682": {
+  "qid": "Q22005682",
+  "pob": "Q28218",
+  "pobLabel": "Baton Rouge",
+  "coord": "Point(-91.178611111 30.4475)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q22073886": {
+  "qid": "Q22073886",
+  "pob": "Q2323126",
+  "pobLabel": "York",
+  "coord": "Point(-70.648611111 43.163333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q22096360": {
+  "qid": "Q22096360",
+  "pob": "Q506325",
+  "pobLabel": "Decatur",
+  "coord": "Point(-88.944166666 39.851666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q22666644": {
+  "qid": "Q22666644",
+  "pob": "Q511964",
+  "pobLabel": "Petersburg",
+  "coord": "Point(-77.400417 37.21295)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q22957491": {
+  "qid": "Q22957491",
+  "pob": "Q1963",
+  "pobLabel": "Khartoum",
+  "coord": "Point(32.52654 15.60308)",
+  "country": "Q1049",
+  "countryLabel": "Sudan"
+ },
+ "Q22958459": {
+  "qid": "Q22958459",
+  "pob": "Q2467",
+  "pobLabel": "Nassau",
+  "coord": "Point(-77.338611111 25.078055555)",
+  "country": "Q778",
+  "countryLabel": "The Bahamas"
+ },
+ "Q22959154": {
+  "qid": "Q22959154",
+  "pob": "Q208713",
+  "pobLabel": "Q208713",
+  "coord": "Point(4.366944444 50.833055555)",
+  "country": "Q31",
+  "countryLabel": "Belgium"
+ },
+ "Q22959347": {
+  "qid": "Q22959347",
+  "pob": "Q204266",
+  "pobLabel": "Toyama",
+  "coord": "Point(137.213694444 36.695916666)",
+  "country": "Q17",
+  "countryLabel": "Japan"
+ },
+ "Q22999836": {
+  "qid": "Q22999836",
+  "pob": "Q64",
+  "pobLabel": "Berlin",
+  "coord": "Point(13.383333333 52.516666666)",
+  "country": "Q183",
+  "countryLabel": "Germany"
+ },
+ "Q23302710": {
+  "qid": "Q23302710",
+  "pob": "Q16565",
+  "pobLabel": "Charlotte",
+  "coord": "Point(-80.843333333 35.226944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q23302754": {
+  "qid": "Q23302754",
+  "pob": "Q50816",
+  "pobLabel": "Mississauga",
+  "coord": "Point(-79.65 43.6)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q23541220": {
+  "qid": "Q23541220",
+  "pob": "Q132830",
+  "pobLabel": "Douala",
+  "coord": "Point(9.7 4.05)",
+  "country": "Q1009",
+  "countryLabel": "Cameroon"
+ },
+ "Q23542695": {
+  "qid": "Q23542695",
+  "pob": "Q49247",
+  "pobLabel": "Anaheim",
+  "coord": "Point(-117.889722222 33.836111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q23761524": {
+  "qid": "Q23761524",
+  "pob": "Q93347",
+  "pobLabel": "Mostar",
+  "coord": "Point(17.8075 43.343611111)",
+  "country": "Q225",
+  "countryLabel": "Bosnia and Herzegovina"
+ },
+ "Q23762310": {
+  "qid": "Q23762310",
+  "pob": "Q90",
+  "pobLabel": "Paris",
+  "coord": "Point(2.352222222 48.856666666)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q23771652": {
+  "qid": "Q23771652",
+  "pob": "Q18013",
+  "pobLabel": "Sacramento",
+  "coord": "Point(-121.486111111 38.575277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q23800231": {
+  "qid": "Q23800231",
+  "pob": "Q1345",
+  "pobLabel": "Philadelphia",
+  "coord": "Point(-75.163611111 39.952777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q23880401": {
+  "qid": "Q23880401",
+  "pob": "Q143782",
+  "pobLabel": "North Las Vegas",
+  "coord": "Point(-115.121583333 36.200583333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q24006188": {
+  "qid": "Q24006188",
+  "pob": "Q5083",
+  "pobLabel": "Seattle",
+  "coord": "Point(-122.33 47.605)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q24006239": {
+  "qid": "Q24006239",
+  "pob": "Q23556",
+  "pobLabel": "Atlanta",
+  "coord": "Point(-84.389722222 33.754444444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q24439139": {
+  "qid": "Q24439139",
+  "pob": "Q33935",
+  "pobLabel": "Tel Aviv",
+  "coord": "Point(34.78 32.08)",
+  "country": "Q801",
+  "countryLabel": "Israel"
+ },
+ "Q24572734": {
+  "qid": "Q24572734",
+  "pob": "Q753334",
+  "pobLabel": "Upper Marlboro",
+  "coord": "Point(-76.753333333 38.816388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q24761491": {
+  "qid": "Q24761491",
+  "pob": "Q38022",
+  "pobLabel": "St. Louis",
+  "coord": "Point(-90.199444444 38.626388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q24852579": {
+  "qid": "Q24852579",
+  "pob": "Q16555",
+  "pobLabel": "Houston",
+  "coord": "Point(-95.383055555 29.762777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q24200": {
+  "qid": "Q24200",
+  "pob": "Q20138",
+  "pobLabel": "Roxbury",
+  "coord": "Point(-71.095277777 42.325)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q274469": {
+  "qid": "Q274469",
+  "pob": "Q43668",
+  "pobLabel": "Louisville",
+  "coord": "Point(-85.751388888 38.256111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q275889": {
+  "qid": "Q275889",
+  "pob": "Q1492",
+  "pobLabel": "Barcelona",
+  "coord": "Point(2.176944444 41.3825)",
+  "country": "Q29",
+  "countryLabel": "Spain"
+ },
+ "Q2504840": {
+  "qid": "Q2504840",
+  "pob": "Q274327",
+  "pobLabel": "Saint-Maurice",
+  "coord": "Point(2.434722222 48.818333333)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q2519395": {
+  "qid": "Q2519395",
+  "pob": "Q2581974",
+  "pobLabel": "Norcross",
+  "coord": "Point(-84.2135309 33.9412127)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q2526170": {
+  "qid": "Q2526170",
+  "pob": "Q3549",
+  "pobLabel": "\u0160ibenik",
+  "coord": "Point(15.895555555 43.733888888)",
+  "country": "Q224",
+  "countryLabel": "Croatia"
+ },
+ "Q2614593": {
+  "qid": "Q2614593",
+  "pob": "Q719",
+  "pobLabel": "Saginaw",
+  "coord": "Point(-83.9500261 43.4199247)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q2625359": {
+  "qid": "Q2625359",
+  "pob": "Q42800",
+  "pobLabel": "Belo Horizonte",
+  "coord": "Point(-43.941944444 -19.928055555)",
+  "country": "Q155",
+  "countryLabel": "Brazil"
+ },
+ "Q2627006": {
+  "qid": "Q2627006",
+  "pob": "Q943775",
+  "pobLabel": "Gastonia",
+  "coord": "Point(-81.180277777 35.255277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q2627251": {
+  "qid": "Q2627251",
+  "pob": "Q18419",
+  "pobLabel": "Brooklyn",
+  "coord": "Point(-73.949722222 40.650833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q2629179": {
+  "qid": "Q2629179",
+  "pob": "Q1345",
+  "pobLabel": "Philadelphia",
+  "coord": "Point(-75.163611111 39.952777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q2640578": {
+  "qid": "Q2640578",
+  "pob": "Q6606",
+  "pobLabel": "Pordenone",
+  "coord": "Point(12.6563 45.9626)",
+  "country": "Q38",
+  "countryLabel": "Italy"
+ },
+ "Q2701620": {
+  "qid": "Q2701620",
+  "pob": "Q44210",
+  "pobLabel": "C\u00f3rdoba",
+  "coord": "Point(-64.183333333 -31.416666666)",
+  "country": "Q414",
+  "countryLabel": "Argentina"
+ },
+ "Q2735651": {
+  "qid": "Q2735651",
+  "pob": "Q599694",
+  "pobLabel": "East Chicago",
+  "coord": "Point(-87.4622 41.6389)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q25757154": {
+  "qid": "Q25757154",
+  "pob": "Q342803",
+  "pobLabel": "Portsmouth",
+  "coord": "Point(-76.29827 36.83543)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q26106945": {
+  "qid": "Q26106945",
+  "pob": "Q128228",
+  "pobLabel": "Killeen",
+  "coord": "Point(-97.726666666 31.105555555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q26704887": {
+  "qid": "Q26704887",
+  "pob": "Q331104",
+  "pobLabel": "Fayetteville",
+  "coord": "Point(-78.9175 35.066666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q27048881": {
+  "qid": "Q27048881",
+  "pob": "Q368045",
+  "pobLabel": "Chester",
+  "coord": "Point(-75.372777777 39.847222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q27049282": {
+  "qid": "Q27049282",
+  "pob": "Q41819",
+  "pobLabel": "Kansas City",
+  "coord": "Point(-94.583333333 39.05)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q27662581": {
+  "qid": "Q27662581",
+  "pob": "Q695511",
+  "pobLabel": "College Station",
+  "coord": "Point(-96.314444444 30.601388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q27837999": {
+  "qid": "Q27837999",
+  "pob": "Q65",
+  "pobLabel": "Los Angeles",
+  "coord": "Point(-118.24368 34.05223)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q27909430": {
+  "qid": "Q27909430",
+  "pob": "Q6346",
+  "pobLabel": "Indianapolis",
+  "coord": "Point(-86.158055555 39.768611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q27919944": {
+  "qid": "Q27919944",
+  "pob": "Q16556",
+  "pobLabel": "Phoenix",
+  "coord": "Point(-112.073888888 33.448333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q27922413": {
+  "qid": "Q27922413",
+  "pob": "Q18426",
+  "pobLabel": "The Bronx",
+  "coord": "Point(-73.873333333 40.846666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q27925506": {
+  "qid": "Q27925506",
+  "pob": "Q490584",
+  "pobLabel": "Flint",
+  "coord": "Point(-83.693333333 43.018888888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q27926032": {
+  "qid": "Q27926032",
+  "pob": "Q956932",
+  "pobLabel": "Sagarejo",
+  "coord": "Point(45.325833333 41.736944444)",
+  "country": "Q230",
+  "countryLabel": "Georgia"
+ },
+ "Q27999533": {
+  "qid": "Q27999533",
+  "pob": "Q3733",
+  "pobLabel": "Conakry",
+  "coord": "Point(-13.712222222 9.509166666)",
+  "country": "Q1006",
+  "countryLabel": "Guinea"
+ },
+ "Q28016751": {
+  "qid": "Q28016751",
+  "pob": "Q1479",
+  "pobLabel": "Bordeaux",
+  "coord": "Point(-0.579444444 44.837777777)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q28054144": {
+  "qid": "Q28054144",
+  "pob": "Q84",
+  "pobLabel": "London",
+  "coord": "Point(-0.1275 51.507222222)",
+  "country": "Q145",
+  "countryLabel": "United Kingdom"
+ },
+ "Q28151848": {
+  "qid": "Q28151848",
+  "pob": "Q80517",
+  "pobLabel": "Shreveport",
+  "coord": "Point(-93.762777777 32.508055555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q28450897": {
+  "qid": "Q28450897",
+  "pob": "Q544890",
+  "pobLabel": "Plainfield",
+  "coord": "Point(-74.416111111 40.615277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q28731753": {
+  "qid": "Q28731753",
+  "pob": "Q43199",
+  "pobLabel": "Omaha",
+  "coord": "Point(-95.9375 41.258611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q28741203": {
+  "qid": "Q28741203",
+  "pob": "Q852721",
+  "pobLabel": "Chino Hills",
+  "coord": "Point(-117.75 33.97)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q28810445": {
+  "qid": "Q28810445",
+  "pob": "Q59670",
+  "pobLabel": "Columbia",
+  "coord": "Point(-92.33407 38.95171)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q28811957": {
+  "qid": "Q28811957",
+  "pob": "Q237896",
+  "pobLabel": "Reading",
+  "coord": "Point(-75.926111111 40.341666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q28873271": {
+  "qid": "Q28873271",
+  "pob": "Q750224",
+  "pobLabel": "Strakonice",
+  "coord": "Point(13.902396874 49.261497897)",
+  "country": "Q213",
+  "countryLabel": "Czech Republic"
+ },
+ "Q28925029": {
+  "qid": "Q28925029",
+  "pob": "Q23556",
+  "pobLabel": "Atlanta",
+  "coord": "Point(-84.389722222 33.754444444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q28935742": {
+  "qid": "Q28935742",
+  "pob": "Q52474",
+  "pobLabel": "Layton",
+  "coord": "Point(-111.955277777 41.078055555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q28935925": {
+  "qid": "Q28935925",
+  "pob": "Q985515",
+  "pobLabel": "Middletown",
+  "coord": "Point(-84.375833333 39.506111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q28967738": {
+  "qid": "Q28967738",
+  "pob": "Q49241",
+  "pobLabel": "Lexington",
+  "coord": "Point(-84.458611111 38.049722222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q28972128": {
+  "qid": "Q28972128",
+  "pob": "Q51685",
+  "pobLabel": "Tempe",
+  "coord": "Point(-111.94 33.425555555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q29044421": {
+  "qid": "Q29044421",
+  "pob": "Q852684",
+  "pobLabel": "Marietta",
+  "coord": "Point(-84.540555555 33.953333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q29044852": {
+  "qid": "Q29044852",
+  "pob": "Q43668",
+  "pobLabel": "Louisville",
+  "coord": "Point(-85.751388888 38.256111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q29045021": {
+  "qid": "Q29045021",
+  "pob": "Q16555",
+  "pobLabel": "Houston",
+  "coord": "Point(-95.383055555 29.762777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q29045037": {
+  "qid": "Q29045037",
+  "pob": "Q23768",
+  "pobLabel": "Las Vegas",
+  "coord": "Point(-115.148611111 36.167222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q29045079": {
+  "qid": "Q29045079",
+  "pob": "Q16567",
+  "pobLabel": "Columbus",
+  "coord": "Point(-83.000555555 39.962222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q29045112": {
+  "qid": "Q29045112",
+  "pob": "Q49273",
+  "pobLabel": "Lubbock",
+  "coord": "Point(-101.845 33.585)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q29048308": {
+  "qid": "Q29048308",
+  "pob": "Q16552",
+  "pobLabel": "San Diego",
+  "coord": "Point(-117.1625 32.715)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q29165842": {
+  "qid": "Q29165842",
+  "pob": "Q2028813",
+  "pobLabel": "Salisbury",
+  "coord": "Point(-80.478611111 35.668333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q29166745": {
+  "qid": "Q29166745",
+  "pob": "Q38453",
+  "pobLabel": "Columbia",
+  "coord": "Point(-81.044166666 34.000555555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q25278": {
+  "qid": "Q25278",
+  "pob": "Q23556",
+  "pobLabel": "Atlanta",
+  "coord": "Point(-84.389722222 33.754444444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q297221": {
+  "qid": "Q297221",
+  "pob": "Q47164",
+  "pobLabel": "Santa Monica",
+  "coord": "Point(-118.481388888 34.021944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q309783": {
+  "qid": "Q309783",
+  "pob": "Q34863",
+  "pobLabel": "Oklahoma City",
+  "coord": "Point(-97.535277777 35.482222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q313389": {
+  "qid": "Q313389",
+  "pob": "Q3844",
+  "pobLabel": "Brazzaville",
+  "coord": "Point(15.271111111 -4.269444444)",
+  "country": "Q971",
+  "countryLabel": "Republic of the Congo"
+ },
+ "Q316243": {
+  "qid": "Q316243",
+  "pob": "Q16557",
+  "pobLabel": "Dallas",
+  "coord": "Point(-96.808888888 32.779166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q316336": {
+  "qid": "Q316336",
+  "pob": "Q168866",
+  "pobLabel": "Eski\u015fehir",
+  "coord": "Point(30.520555555 39.776666666)",
+  "country": "Q43",
+  "countryLabel": "Turkey"
+ },
+ "Q317008": {
+  "qid": "Q317008",
+  "pob": "Q1297",
+  "pobLabel": "Chicago",
+  "coord": "Point(-87.627777777 41.881944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q336030": {
+  "qid": "Q336030",
+  "pob": "Q199797",
+  "pobLabel": "Tacoma",
+  "coord": "Point(-122.4475 47.2525)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q337370": {
+  "qid": "Q337370",
+  "pob": "Q41087",
+  "pobLabel": "Raleigh",
+  "coord": "Point(-78.64 35.78)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q348618": {
+  "qid": "Q348618",
+  "pob": "Q3141",
+  "pobLabel": "Melbourne",
+  "coord": "Point(144.963055555 -37.814166666)",
+  "country": "Q408",
+  "countryLabel": "Australia"
+ },
+ "Q348734": {
+  "qid": "Q348734",
+  "pob": "Q18419",
+  "pobLabel": "Brooklyn",
+  "coord": "Point(-73.949722222 40.650833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q352114": {
+  "qid": "Q352114",
+  "pob": "Q188743",
+  "pobLabel": "Lisieux",
+  "coord": "Point(0.225555555 49.145555555)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q352159": {
+  "qid": "Q352159",
+  "pob": "Q163132",
+  "pobLabel": "Akron",
+  "coord": "Point(-81.517777777 41.073055555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q358108": {
+  "qid": "Q358108",
+  "pob": "Q8652",
+  "pobLabel": "Miami",
+  "coord": "Point(-80.193611111 25.774166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q358704": {
+  "qid": "Q358704",
+  "pob": "Q754443",
+  "pobLabel": "Cheverly",
+  "coord": "Point(-76.9135 38.9245)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q360993": {
+  "qid": "Q360993",
+  "pob": "Q6346",
+  "pobLabel": "Indianapolis",
+  "coord": "Point(-86.158055555 39.768611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q367961": {
+  "qid": "Q367961",
+  "pob": "Q6346",
+  "pobLabel": "Indianapolis",
+  "coord": "Point(-86.158055555 39.768611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q369109": {
+  "qid": "Q369109",
+  "pob": "Q2456192",
+  "pobLabel": "Cookeville",
+  "coord": "Point(-85.504295 36.164202)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q2923495": {
+  "qid": "Q2923495",
+  "pob": "Q1345",
+  "pobLabel": "Philadelphia",
+  "coord": "Point(-75.163611111 39.952777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q2979330": {
+  "qid": "Q2979330",
+  "pob": "Q71",
+  "pobLabel": "Geneva",
+  "coord": "Point(6.15 46.2)",
+  "country": "Q39",
+  "countryLabel": "Switzerland"
+ },
+ "Q3194911": {
+  "qid": "Q3194911",
+  "pob": "Q172",
+  "pobLabel": "Toronto",
+  "coord": "Point(-79.386666666 43.670277777)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q3446792": {
+  "qid": "Q3446792",
+  "pob": "Q182744",
+  "pobLabel": "Saint-Quentin",
+  "coord": "Point(3.285555555 49.847777777)",
+  "country": "Q2277",
+  "countryLabel": "Roman Empire"
+ },
+ "Q29318958": {
+  "qid": "Q29318958",
+  "pob": "Q189074",
+  "pobLabel": "Q189074",
+  "coord": "Point(-73.948372222 40.809033333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q29438680": {
+  "qid": "Q29438680",
+  "pob": "Q809580",
+  "pobLabel": "Bartow",
+  "coord": "Point(-81.839722222 27.8925)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q29452685": {
+  "qid": "Q29452685",
+  "pob": "Q12439",
+  "pobLabel": "Detroit",
+  "coord": "Point(-83.0475 42.331666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q29474884": {
+  "qid": "Q29474884",
+  "pob": "Q1016159",
+  "pobLabel": "Williamsport",
+  "coord": "Point(-77.0186 41.2444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q29796156": {
+  "qid": "Q29796156",
+  "pob": "Q18424",
+  "pobLabel": "Queens",
+  "coord": "Point(-73.828055555 40.713611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q30063347": {
+  "qid": "Q30063347",
+  "pob": "Q490584",
+  "pobLabel": "Flint",
+  "coord": "Point(-83.693333333 43.018888888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q30077055": {
+  "qid": "Q30077055",
+  "pob": "Q17042",
+  "pobLabel": "Oakland",
+  "coord": "Point(-122.25 37.8)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q30122104": {
+  "qid": "Q30122104",
+  "pob": "Q1019259",
+  "pobLabel": "Elmsford",
+  "coord": "Point(-73.82 41.055)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q30122669": {
+  "qid": "Q30122669",
+  "pob": "Q385825",
+  "pobLabel": "Parker",
+  "coord": "Point(-104.766 39.5194)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q30128275": {
+  "qid": "Q30128275",
+  "pob": "Q16555",
+  "pobLabel": "Houston",
+  "coord": "Point(-95.383055555 29.762777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q30226340": {
+  "qid": "Q30226340",
+  "pob": "Q3141",
+  "pobLabel": "Melbourne",
+  "coord": "Point(144.963055555 -37.814166666)",
+  "country": "Q408",
+  "countryLabel": "Australia"
+ },
+ "Q30278325": {
+  "qid": "Q30278325",
+  "pob": "Q41087",
+  "pobLabel": "Raleigh",
+  "coord": "Point(-78.64 35.78)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q30322415": {
+  "qid": "Q30322415",
+  "pob": "Q165247",
+  "pobLabel": "Maywood",
+  "coord": "Point(-87.843333333 41.881111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q30519348": {
+  "qid": "Q30519348",
+  "pob": "Q16555",
+  "pobLabel": "Houston",
+  "coord": "Point(-95.383055555 29.762777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q30668441": {
+  "qid": "Q30668441",
+  "pob": "Q41699",
+  "pobLabel": "Castries",
+  "coord": "Point(-60.989444444 14.010833333)",
+  "country": "Q760",
+  "countryLabel": "Saint Lucia"
+ },
+ "Q31887474": {
+  "qid": "Q31887474",
+  "pob": "Q43668",
+  "pobLabel": "Louisville",
+  "coord": "Point(-85.751388888 38.256111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q32076468": {
+  "qid": "Q32076468",
+  "pob": "Q16555",
+  "pobLabel": "Houston",
+  "coord": "Point(-95.383055555 29.762777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q32123497": {
+  "qid": "Q32123497",
+  "pob": "Q486306",
+  "pobLabel": "Pensacola",
+  "coord": "Point(-87.217222222 30.421388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q32318040": {
+  "qid": "Q32318040",
+  "pob": "Q1762839",
+  "pobLabel": "Tualatin",
+  "coord": "Point(-122.764444444 45.381388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q32786169": {
+  "qid": "Q32786169",
+  "pob": "Q172",
+  "pobLabel": "Toronto",
+  "coord": "Point(-79.386666666 43.670277777)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q32860369": {
+  "qid": "Q32860369",
+  "pob": "Q172",
+  "pobLabel": "Toronto",
+  "coord": "Point(-79.386666666 43.670277777)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q33107991": {
+  "qid": "Q33107991",
+  "pob": "Q495912",
+  "pobLabel": "Rogers County",
+  "coord": "Point(-95.6 36.37)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q33113645": {
+  "qid": "Q33113645",
+  "pob": "Q1992894",
+  "pobLabel": "Hopkins",
+  "coord": "Point(-93.462777777 44.925)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q35172580": {
+  "qid": "Q35172580",
+  "pob": "Q331397",
+  "pobLabel": "Oak Park",
+  "coord": "Point(-87.789444444 41.888333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q36777259": {
+  "qid": "Q36777259",
+  "pob": "Q17042",
+  "pobLabel": "Oakland",
+  "coord": "Point(-122.25 37.8)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q29336": {
+  "qid": "Q29336",
+  "pob": "Q60",
+  "pobLabel": "New York City",
+  "coord": "Point(-74.006111111 40.712777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q29342": {
+  "qid": "Q29342",
+  "pob": "Q65",
+  "pobLabel": "Los Angeles",
+  "coord": "Point(-118.24368 34.05223)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q29545": {
+  "qid": "Q29545",
+  "pob": "Q3886817",
+  "pobLabel": "Suitland",
+  "coord": "Point(-76.9244 38.8486)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q36159": {
+  "qid": "Q36159",
+  "pob": "Q163132",
+  "pobLabel": "Akron",
+  "coord": "Point(-81.517777777 41.073055555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q369532": {
+  "qid": "Q369532",
+  "pob": "Q437",
+  "pobLabel": "Ljubljana",
+  "coord": "Point(14.506111111 46.051388888)",
+  "country": "Q215",
+  "countryLabel": "Slovenia"
+ },
+ "Q370275": {
+  "qid": "Q370275",
+  "pob": "Q5092",
+  "pobLabel": "Baltimore",
+  "coord": "Point(-76.615 39.286388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q371193": {
+  "qid": "Q371193",
+  "pob": "Q632727",
+  "pobLabel": "Mayag\u00fcez",
+  "coord": "Point(-67.139722222 18.201111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q375525": {
+  "qid": "Q375525",
+  "pob": "Q838757",
+  "pobLabel": "Lakewood",
+  "coord": "Point(-118.12 33.8475)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q380018": {
+  "qid": "Q380018",
+  "pob": "Q189157",
+  "pobLabel": "Utena",
+  "coord": "Point(25.6 55.5)",
+  "country": "Q37",
+  "countryLabel": "Lithuania"
+ },
+ "Q386736": {
+  "qid": "Q386736",
+  "pob": "Q5092",
+  "pobLabel": "Baltimore",
+  "coord": "Point(-76.615 39.286388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q427720": {
+  "qid": "Q427720",
+  "pob": "Q23556",
+  "pobLabel": "Atlanta",
+  "coord": "Point(-84.389722222 33.754444444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q456374": {
+  "qid": "Q456374",
+  "pob": "Q487119",
+  "pobLabel": "Compton",
+  "coord": "Point(-118.225 33.896666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q460131": {
+  "qid": "Q460131",
+  "pob": "Q1319697",
+  "pobLabel": "North Hollywood",
+  "coord": "Point(-118.37806 34.17222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q464312": {
+  "qid": "Q464312",
+  "pob": "Q79875",
+  "pobLabel": "Mobile",
+  "coord": "Point(-88.052672222 30.727669444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q493115": {
+  "qid": "Q493115",
+  "pob": "Q835831",
+  "pobLabel": "Mount Vernon",
+  "coord": "Point(-73.830555555 40.914166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q498348": {
+  "qid": "Q498348",
+  "pob": "Q16555",
+  "pobLabel": "Houston",
+  "coord": "Point(-95.383055555 29.762777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q510816": {
+  "qid": "Q510816",
+  "pob": "Q23556",
+  "pobLabel": "Atlanta",
+  "coord": "Point(-84.389722222 33.754444444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q512310": {
+  "qid": "Q512310",
+  "pob": "Q3711",
+  "pobLabel": "Belgrade",
+  "coord": "Point(20.456944444 44.817777777)",
+  "country": "Q403",
+  "countryLabel": "Serbia"
+ },
+ "Q4667056": {
+  "qid": "Q4667056",
+  "pob": "Q54149",
+  "pobLabel": "Malden",
+  "coord": "Point(-71.066666666 42.425)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q4717362": {
+  "qid": "Q4717362",
+  "pob": "Q609028",
+  "pobLabel": "Antratsyt",
+  "coord": "Point(39.083333333 48.116666666)",
+  "country": "Q212",
+  "countryLabel": "Ukraine"
+ },
+ "Q4758911": {
+  "qid": "Q4758911",
+  "pob": "Q3525848",
+  "pobLabel": "Thornhill",
+  "coord": "Point(-79.424444444 43.816111111)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q4783869": {
+  "qid": "Q4783869",
+  "pob": "Q38022",
+  "pobLabel": "St. Louis",
+  "coord": "Point(-90.199444444 38.626388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q5006560": {
+  "qid": "Q5006560",
+  "pob": "Q491239",
+  "pobLabel": "Canton",
+  "coord": "Point(-81.375 40.798611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q37486462": {
+  "qid": "Q37486462",
+  "pob": "Q1963",
+  "pobLabel": "Khartoum",
+  "coord": "Point(32.52654 15.60308)",
+  "country": "Q1049",
+  "countryLabel": "Sudan"
+ },
+ "Q39070726": {
+  "qid": "Q39070726",
+  "pob": "Q34692",
+  "pobLabel": "Kingston",
+  "coord": "Point(-76.793055555 17.971388888)",
+  "country": "Q766",
+  "countryLabel": "Jamaica"
+ },
+ "Q41256213": {
+  "qid": "Q41256213",
+  "pob": "Q739011",
+  "pobLabel": "Harbor City",
+  "coord": "Point(-118.29694 33.79)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q42302125": {
+  "qid": "Q42302125",
+  "pob": "Q2573500",
+  "pobLabel": "Beit Zera",
+  "coord": "Point(35.573397222 32.688897222)",
+  "country": "Q801",
+  "countryLabel": "Israel"
+ },
+ "Q44858580": {
+  "qid": "Q44858580",
+  "pob": "Q65",
+  "pobLabel": "Los Angeles",
+  "coord": "Point(-118.24368 34.05223)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q44968365": {
+  "qid": "Q44968365",
+  "pob": "Q41819",
+  "pobLabel": "Kansas City",
+  "coord": "Point(-94.583333333 39.05)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q46994895": {
+  "qid": "Q46994895",
+  "pob": "Q1010236",
+  "pobLabel": "Norristown",
+  "coord": "Point(-75.3417 40.12)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q47006274": {
+  "qid": "Q47006274",
+  "pob": "Q3897",
+  "pobLabel": "Luanda",
+  "coord": "Point(13.234444444 -8.838333333)",
+  "country": "Q916",
+  "countryLabel": "Angola"
+ },
+ "Q47086923": {
+  "qid": "Q47086923",
+  "pob": "Q172",
+  "pobLabel": "Toronto",
+  "coord": "Point(-79.386666666 43.670277777)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q47306937": {
+  "qid": "Q47306937",
+  "pob": "Q167155",
+  "pobLabel": "Kalamazoo",
+  "coord": "Point(-85.59 42.29)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q47463922": {
+  "qid": "Q47463922",
+  "pob": "Q18013",
+  "pobLabel": "Sacramento",
+  "coord": "Point(-121.486111111 38.575277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q47492916": {
+  "qid": "Q47492916",
+  "pob": "Q1762878",
+  "pobLabel": "New Albany",
+  "coord": "Point(-85.8214 38.3019)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q47501215": {
+  "qid": "Q47501215",
+  "pob": "Q639452",
+  "pobLabel": "Lakeland",
+  "coord": "Point(-81.958888888 28.041111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q47532134": {
+  "qid": "Q47532134",
+  "pob": "Q8652",
+  "pobLabel": "Miami",
+  "coord": "Point(-80.193611111 25.774166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q48857995": {
+  "qid": "Q48857995",
+  "pob": "Q486306",
+  "pobLabel": "Pensacola",
+  "coord": "Point(-87.217222222 30.421388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q49692513": {
+  "qid": "Q49692513",
+  "pob": "Q434355",
+  "pobLabel": "Altamonte Springs",
+  "coord": "Point(-81.391944444 28.661388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q50356393": {
+  "qid": "Q50356393",
+  "pob": "Q1345",
+  "pobLabel": "Philadelphia",
+  "coord": "Point(-75.163611111 39.952777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q50363033": {
+  "qid": "Q50363033",
+  "pob": "Q16555",
+  "pobLabel": "Houston",
+  "coord": "Point(-95.383055555 29.762777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q50365734": {
+  "qid": "Q50365734",
+  "pob": "Q2581974",
+  "pobLabel": "Norcross",
+  "coord": "Point(-84.2135309 33.9412127)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q50380184": {
+  "qid": "Q50380184",
+  "pob": "Q8673",
+  "pobLabel": "Lagos",
+  "coord": "Point(3.393611111 6.456111111)",
+  "country": "Q1033",
+  "countryLabel": "Nigeria"
+ },
+ "Q50820763": {
+  "qid": "Q50820763",
+  "pob": "Q37836",
+  "pobLabel": "Milwaukee",
+  "coord": "Point(-87.95 43.05)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q50874963": {
+  "qid": "Q50874963",
+  "pob": "Q1319697",
+  "pobLabel": "North Hollywood",
+  "coord": "Point(-118.37806 34.17222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q50879812": {
+  "qid": "Q50879812",
+  "pob": "Q49266",
+  "pobLabel": "Wichita",
+  "coord": "Point(-97.336111111 37.688888888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q50938690": {
+  "qid": "Q50938690",
+  "pob": "Q49221",
+  "pobLabel": "Scottsdale",
+  "coord": "Point(-111.926111111 33.493055555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q51120738": {
+  "qid": "Q51120738",
+  "pob": "Q1377220",
+  "pobLabel": "Chesterfield Court House",
+  "coord": "Point(-77.5039 37.3764)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q51247599": {
+  "qid": "Q51247599",
+  "pob": "Q4115712",
+  "pobLabel": "Kaunas",
+  "coord": "Point(23.933333333 54.9)",
+  "country": "Q37",
+  "countryLabel": "Lithuania"
+ },
+ "Q51318989": {
+  "qid": "Q51318989",
+  "pob": "Q506586",
+  "pobLabel": "Newark",
+  "coord": "Point(-75.75 39.683333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q51337300": {
+  "qid": "Q51337300",
+  "pob": "Q1025065",
+  "pobLabel": "Sleepy Hollow",
+  "coord": "Point(-73.864444444 41.091944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q51337307": {
+  "qid": "Q51337307",
+  "pob": "Q37320",
+  "pobLabel": "Cleveland",
+  "coord": "Point(-81.694722222 41.499166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q46040": {
+  "qid": "Q46040",
+  "pob": "Q49227",
+  "pobLabel": "Winston-Salem",
+  "coord": "Point(-80.260555555 36.1025)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q49030": {
+  "qid": "Q49030",
+  "pob": "Q16565",
+  "pobLabel": "Charlotte",
+  "coord": "Point(-80.843333333 35.226944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q514562": {
+  "qid": "Q514562",
+  "pob": "Q947115",
+  "pobLabel": "Monroe",
+  "coord": "Point(-92.1183 32.5094)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q517058": {
+  "qid": "Q517058",
+  "pob": "Q695417",
+  "pobLabel": "Bremerton",
+  "coord": "Point(-122.624694444 47.565361111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q517675": {
+  "qid": "Q517675",
+  "pob": "Q6346",
+  "pobLabel": "Indianapolis",
+  "coord": "Point(-86.158055555 39.768611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q521859": {
+  "qid": "Q521859",
+  "pob": "Q30974",
+  "pobLabel": "Rouen",
+  "coord": "Point(1.1025 49.443055555)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q521931": {
+  "qid": "Q521931",
+  "pob": "Q988413",
+  "pobLabel": "Luperon pto pta",
+  "coord": "Point(-70.694444 19.795833)",
+  "country": "Q786",
+  "countryLabel": "Dominican Republic"
+ },
+ "Q552935": {
+  "qid": "Q552935",
+  "pob": "Q6346",
+  "pobLabel": "Indianapolis",
+  "coord": "Point(-86.158055555 39.768611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q553512": {
+  "qid": "Q553512",
+  "pob": "Q490584",
+  "pobLabel": "Flint",
+  "coord": "Point(-83.693333333 43.018888888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q554905": {
+  "qid": "Q554905",
+  "pob": "Q495365",
+  "pobLabel": "Rancho Cucamonga",
+  "coord": "Point(-117.579444444 34.123333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q555436": {
+  "qid": "Q555436",
+  "pob": "Q3460922",
+  "pobLabel": "North Babylon",
+  "coord": "Point(-73.321388888 40.730555555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q558663": {
+  "qid": "Q558663",
+  "pob": "Q47716",
+  "pobLabel": "Charleston",
+  "coord": "Point(-79.931944444 32.783333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q560436": {
+  "qid": "Q560436",
+  "pob": "Q1319697",
+  "pobLabel": "North Hollywood",
+  "coord": "Point(-118.37806 34.17222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q5140477": {
+  "qid": "Q5140477",
+  "pob": "Q1999182",
+  "pobLabel": "Washington",
+  "coord": "Point(-87.175 38.6583)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q5256411": {
+  "qid": "Q5256411",
+  "pob": "Q8652",
+  "pobLabel": "Miami",
+  "coord": "Point(-80.193611111 25.774166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q5289916": {
+  "qid": "Q5289916",
+  "pob": "Q6106",
+  "pobLabel": "Portland",
+  "coord": "Point(-122.679166666 45.515)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q5525214": {
+  "qid": "Q5525214",
+  "pob": "Q2284046",
+  "pobLabel": "Fishers",
+  "coord": "Point(-86.012777777 39.956111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q5569077": {
+  "qid": "Q5569077",
+  "pob": "Q184116",
+  "pobLabel": "Gary",
+  "coord": "Point(-87.345555555 41.580833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q5586369": {
+  "qid": "Q5586369",
+  "pob": "Q3201090",
+  "pobLabel": "K\u00e9b\u00e9mer",
+  "coord": "Point(-16.446426248 15.376272361)",
+  "country": "Q1041",
+  "countryLabel": "Senegal"
+ },
+ "Q51337517": {
+  "qid": "Q51337517",
+  "pob": "Q8673",
+  "pobLabel": "Lagos",
+  "coord": "Point(3.393611111 6.456111111)",
+  "country": "Q1033",
+  "countryLabel": "Nigeria"
+ },
+ "Q51337526": {
+  "qid": "Q51337526",
+  "pob": "Q506428",
+  "pobLabel": "Mission Viejo",
+  "coord": "Point(-117.656111 33.612778)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q51337534": {
+  "qid": "Q51337534",
+  "pob": "Q770470",
+  "pobLabel": "Starkville",
+  "coord": "Point(-88.81972 33.46222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q51337587": {
+  "qid": "Q51337587",
+  "pob": "Q100",
+  "pobLabel": "Boston",
+  "coord": "Point(-71.057777777 42.360277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q51557493": {
+  "qid": "Q51557493",
+  "pob": "Q43199",
+  "pobLabel": "Omaha",
+  "coord": "Point(-95.9375 41.258611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q51654259": {
+  "qid": "Q51654259",
+  "pob": "Q59670",
+  "pobLabel": "Columbia",
+  "coord": "Point(-92.33407 38.95171)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q51683022": {
+  "qid": "Q51683022",
+  "pob": "Q986369",
+  "pobLabel": "Jacksonville",
+  "coord": "Point(-77.409722222 34.759722222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q52004832": {
+  "qid": "Q52004832",
+  "pob": "Q65",
+  "pobLabel": "Los Angeles",
+  "coord": "Point(-118.24368 34.05223)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q52751104": {
+  "qid": "Q52751104",
+  "pob": "Q5945133",
+  "pobLabel": "Huntingdon Valley",
+  "coord": "Point(-75.0497 40.1167)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q53394086": {
+  "qid": "Q53394086",
+  "pob": "Q64",
+  "pobLabel": "Berlin",
+  "coord": "Point(13.383333333 52.516666666)",
+  "country": "Q183",
+  "countryLabel": "Germany"
+ },
+ "Q53397350": {
+  "qid": "Q53397350",
+  "pob": "Q184116",
+  "pobLabel": "Gary",
+  "coord": "Point(-87.345555555 41.580833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q53846950": {
+  "qid": "Q53846950",
+  "pob": "Q3495342",
+  "pobLabel": "St Mary's Hospital",
+  "coord": "Point(-0.173055555 51.517222222)",
+  "country": "Q145",
+  "countryLabel": "United Kingdom"
+ },
+ "Q53871110": {
+  "qid": "Q53871110",
+  "pob": "Q128244",
+  "pobLabel": "Waco",
+  "coord": "Point(-97.147222222 31.549166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q54311721": {
+  "qid": "Q54311721",
+  "pob": "Q24861",
+  "pobLabel": "Albany",
+  "coord": "Point(-73.766666666 42.65)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q54860931": {
+  "qid": "Q54860931",
+  "pob": "Q1771026",
+  "pobLabel": "Moon Township",
+  "coord": "Point(-80.21 40.513333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q54861294": {
+  "qid": "Q54861294",
+  "pob": "Q1297",
+  "pobLabel": "Chicago",
+  "coord": "Point(-87.627777777 41.881944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q54861489": {
+  "qid": "Q54861489",
+  "pob": "Q49239",
+  "pobLabel": "Toledo",
+  "coord": "Point(-83.537777777 41.652777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q55013949": {
+  "qid": "Q55013949",
+  "pob": "Q41087",
+  "pobLabel": "Raleigh",
+  "coord": "Point(-78.64 35.78)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q55102402": {
+  "qid": "Q55102402",
+  "pob": "Q3130",
+  "pobLabel": "Sydney",
+  "coord": "Point(151.21 -33.867777777)",
+  "country": "Q408",
+  "countryLabel": "Australia"
+ },
+ "Q55136065": {
+  "qid": "Q55136065",
+  "pob": "Q41087",
+  "pobLabel": "Raleigh",
+  "coord": "Point(-78.64 35.78)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q55138272": {
+  "qid": "Q55138272",
+  "pob": "Q16555",
+  "pobLabel": "Houston",
+  "coord": "Point(-95.383055555 29.762777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q55138460": {
+  "qid": "Q55138460",
+  "pob": "Q79489",
+  "pobLabel": "El Dorado",
+  "coord": "Point(-92.6625 33.213611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q55183425": {
+  "qid": "Q55183425",
+  "pob": "Q8673",
+  "pobLabel": "Lagos",
+  "coord": "Point(3.393611111 6.456111111)",
+  "country": "Q1033",
+  "countryLabel": "Nigeria"
+ },
+ "Q55238032": {
+  "qid": "Q55238032",
+  "pob": "Q42810",
+  "pobLabel": "Le Havre",
+  "coord": "Point(0.108055555 49.494166666)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q55356794": {
+  "qid": "Q55356794",
+  "pob": "Q1345",
+  "pobLabel": "Philadelphia",
+  "coord": "Point(-75.163611111 39.952777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q55367789": {
+  "qid": "Q55367789",
+  "pob": "Q1958011",
+  "pobLabel": "Mocksville",
+  "coord": "Point(-80.561944444 35.896388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q55368019": {
+  "qid": "Q55368019",
+  "pob": "Q1958011",
+  "pobLabel": "Mocksville",
+  "coord": "Point(-80.561944444 35.896388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q55386730": {
+  "qid": "Q55386730",
+  "pob": "Q172",
+  "pobLabel": "Toronto",
+  "coord": "Point(-79.386666666 43.670277777)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q55433150": {
+  "qid": "Q55433150",
+  "pob": "Q754475",
+  "pobLabel": "Havre de Grace",
+  "coord": "Point(-76.0975 39.5483)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q55583972": {
+  "qid": "Q55583972",
+  "pob": "Q485176",
+  "pobLabel": "Pasadena",
+  "coord": "Point(-118.143888888 34.1475)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q55614905": {
+  "qid": "Q55614905",
+  "pob": "Q23197",
+  "pobLabel": "Nashville",
+  "coord": "Point(-86.774444444 36.162222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q55641235": {
+  "qid": "Q55641235",
+  "pob": "Q201127",
+  "pobLabel": "Asbury Park",
+  "coord": "Point(-74.012222222 40.2225)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q55956317": {
+  "qid": "Q55956317",
+  "pob": "Q3564911",
+  "pobLabel": "Waat",
+  "coord": "Point(32.166667 8.156944)",
+  "country": "Q958",
+  "countryLabel": "South Sudan"
+ },
+ "Q573036": {
+  "qid": "Q573036",
+  "pob": "Q8040222",
+  "pobLabel": "Wynnewood",
+  "coord": "Point(-75.2708 40.0028)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q577502": {
+  "qid": "Q577502",
+  "pob": "Q1320403",
+  "pobLabel": "Jamaica",
+  "coord": "Point(-73.8077 40.6898)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q585866": {
+  "qid": "Q585866",
+  "pob": "Q2014975",
+  "pobLabel": "Villa Rica",
+  "coord": "Point(-84.92 33.7319)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q611560": {
+  "qid": "Q611560",
+  "pob": "Q23564",
+  "pobLabel": "Podgorica",
+  "coord": "Point(19.262777777 42.441388888)",
+  "country": "Q236",
+  "countryLabel": "Montenegro"
+ },
+ "Q622213": {
+  "qid": "Q622213",
+  "pob": "Q1020942",
+  "pobLabel": "Chatsworth",
+  "coord": "Point(-118.60028 34.25722)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q622308": {
+  "qid": "Q622308",
+  "pob": "Q17042",
+  "pobLabel": "Oakland",
+  "coord": "Point(-122.25 37.8)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q6109500": {
+  "qid": "Q6109500",
+  "pob": "Q29364",
+  "pobLabel": "Montgomery",
+  "coord": "Point(-86.3 32.3675)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q6110020": {
+  "qid": "Q6110020",
+  "pob": "Q1297",
+  "pobLabel": "Chicago",
+  "coord": "Point(-87.627777777 41.881944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q6123268": {
+  "qid": "Q6123268",
+  "pob": "Q79535",
+  "pobLabel": "Fort Smith",
+  "coord": "Point(-94.366666666 35.35)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q6180570": {
+  "qid": "Q6180570",
+  "pob": "Q6106",
+  "pobLabel": "Portland",
+  "coord": "Point(-122.679166666 45.515)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q56087018": {
+  "qid": "Q56087018",
+  "pob": "Q100",
+  "pobLabel": "Boston",
+  "coord": "Point(-71.057777777 42.360277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q56194631": {
+  "qid": "Q56194631",
+  "pob": "Q40435",
+  "pobLabel": "Buffalo",
+  "coord": "Point(-78.878055555 42.886388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q56250275": {
+  "qid": "Q56250275",
+  "pob": "Q342803",
+  "pobLabel": "Portsmouth",
+  "coord": "Point(-76.29827 36.83543)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q56254535": {
+  "qid": "Q56254535",
+  "pob": "Q60",
+  "pobLabel": "New York City",
+  "coord": "Point(-74.006111111 40.712777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q56513207": {
+  "qid": "Q56513207",
+  "pob": "Q172",
+  "pobLabel": "Toronto",
+  "coord": "Point(-79.386666666 43.670277777)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q56809232": {
+  "qid": "Q56809232",
+  "pob": "Q24639",
+  "pobLabel": "Vancouver",
+  "coord": "Point(-123.113888888 49.260833333)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q57084821": {
+  "qid": "Q57084821",
+  "pob": "Q30974",
+  "pobLabel": "Rouen",
+  "coord": "Point(1.1025 49.443055555)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q57906278": {
+  "qid": "Q57906278",
+  "pob": "Q2807",
+  "pobLabel": "Madrid",
+  "coord": "Point(-3.703333333 40.416944444)",
+  "country": "Q29",
+  "countryLabel": "Spain"
+ },
+ "Q58008659": {
+  "qid": "Q58008659",
+  "pob": "Q6106",
+  "pobLabel": "Portland",
+  "coord": "Point(-122.679166666 45.515)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q58009130": {
+  "qid": "Q58009130",
+  "pob": "Q499189",
+  "pobLabel": "Merced",
+  "coord": "Point(-120.483055555 37.302222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q58092211": {
+  "qid": "Q58092211",
+  "pob": "Q37836",
+  "pobLabel": "Milwaukee",
+  "coord": "Point(-87.95 43.05)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q58422637": {
+  "qid": "Q58422637",
+  "pob": "Q16557",
+  "pobLabel": "Dallas",
+  "coord": "Point(-96.808888888 32.779166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q58494697": {
+  "qid": "Q58494697",
+  "pob": "Q367400",
+  "pobLabel": "Goldsboro",
+  "coord": "Point(-77.995 35.383888888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q58974788": {
+  "qid": "Q58974788",
+  "pob": "Q5083",
+  "pobLabel": "Seattle",
+  "coord": "Point(-122.33 47.605)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q59209443": {
+  "qid": "Q59209443",
+  "pob": "Q340",
+  "pobLabel": "Montreal",
+  "coord": "Point(-73.5868411 45.5033426)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q59656031": {
+  "qid": "Q59656031",
+  "pob": "Q1988919",
+  "pobLabel": "Dalzell",
+  "coord": "Point(-80.429722222 34.019722222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q60323818": {
+  "qid": "Q60323818",
+  "pob": "Q49273",
+  "pobLabel": "Lubbock",
+  "coord": "Point(-101.845 33.585)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q60520696": {
+  "qid": "Q60520696",
+  "pob": "Q5092",
+  "pobLabel": "Baltimore",
+  "coord": "Point(-76.615 39.286388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q60674264": {
+  "qid": "Q60674264",
+  "pob": "Q1297",
+  "pobLabel": "Chicago",
+  "coord": "Point(-87.627777777 41.881944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q60950296": {
+  "qid": "Q60950296",
+  "pob": "Q821112",
+  "pobLabel": "Federal Way",
+  "coord": "Point(-122.34 47.315)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q60951627": {
+  "qid": "Q60951627",
+  "pob": "Q23556",
+  "pobLabel": "Atlanta",
+  "coord": "Point(-84.389722222 33.754444444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q60963199": {
+  "qid": "Q60963199",
+  "pob": "Q40347",
+  "pobLabel": "Norman",
+  "coord": "Point(-97.443611111 35.220833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q61173132": {
+  "qid": "Q61173132",
+  "pob": "Q49218",
+  "pobLabel": "Rochester",
+  "coord": "Point(-77.611388888 43.165555555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q61244130": {
+  "qid": "Q61244130",
+  "pob": "Q12439",
+  "pobLabel": "Detroit",
+  "coord": "Point(-83.0475 42.331666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q61660709": {
+  "qid": "Q61660709",
+  "pob": "Q60",
+  "pobLabel": "New York City",
+  "coord": "Point(-74.006111111 40.712777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q61677596": {
+  "qid": "Q61677596",
+  "pob": "Q621377",
+  "pobLabel": "Apple Valley",
+  "coord": "Point(-93.2175 44.731944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q61959905": {
+  "qid": "Q61959905",
+  "pob": "Q182877",
+  "pobLabel": "Greenfield",
+  "coord": "Point(-87.995833333 42.963055555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q61989472": {
+  "qid": "Q61989472",
+  "pob": "Q204561",
+  "pobLabel": "Modesto",
+  "coord": "Point(-120.994444444 37.661388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q62015280": {
+  "qid": "Q62015280",
+  "pob": "Q984264",
+  "pobLabel": "Franklin",
+  "coord": "Point(-86.8575 35.929166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q62031912": {
+  "qid": "Q62031912",
+  "pob": "Q5083",
+  "pobLabel": "Seattle",
+  "coord": "Point(-122.33 47.605)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q62072476": {
+  "qid": "Q62072476",
+  "pob": "Q597",
+  "pobLabel": "Lisbon",
+  "coord": "Point(-9.139016 38.708042)",
+  "country": "Q45",
+  "countryLabel": "Portugal"
+ },
+ "Q62113739": {
+  "qid": "Q62113739",
+  "pob": "Q3711",
+  "pobLabel": "Belgrade",
+  "coord": "Point(20.456944444 44.817777777)",
+  "country": "Q403",
+  "countryLabel": "Serbia"
+ },
+ "Q62597403": {
+  "qid": "Q62597403",
+  "pob": "Q1778780",
+  "pobLabel": "Greenwood",
+  "coord": "Point(-86.118055555 39.611388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q62719191": {
+  "qid": "Q62719191",
+  "pob": "Q483219",
+  "pobLabel": "Bountiful",
+  "coord": "Point(-111.871666666 40.879722222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q62764548": {
+  "qid": "Q62764548",
+  "pob": "Q18419",
+  "pobLabel": "Brooklyn",
+  "coord": "Point(-73.949722222 40.650833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q62764597": {
+  "qid": "Q62764597",
+  "pob": "Q184587",
+  "pobLabel": "Grand Rapids",
+  "coord": "Point(-85.667777777 42.963333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q62860683": {
+  "qid": "Q62860683",
+  "pob": "Q16557",
+  "pobLabel": "Dallas",
+  "coord": "Point(-96.808888888 32.779166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q59547": {
+  "qid": "Q59547",
+  "pob": "Q34404",
+  "pobLabel": "New Orleans",
+  "coord": "Point(-90.078333333 29.976111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q60118": {
+  "qid": "Q60118",
+  "pob": "Q42220",
+  "pobLabel": "Sant'Angelo Lodigiano",
+  "coord": "Point(9.409722222 45.238888888)",
+  "country": "Q38",
+  "countryLabel": "Italy"
+ },
+ "Q60478": {
+  "qid": "Q60478",
+  "pob": "Q16555",
+  "pobLabel": "Houston",
+  "coord": "Point(-95.383055555 29.762777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q659886": {
+  "qid": "Q659886",
+  "pob": "Q69401",
+  "pobLabel": "Morges",
+  "coord": "Point(6.498611111 46.509447222)",
+  "country": "Q39",
+  "countryLabel": "Switzerland"
+ },
+ "Q671294": {
+  "qid": "Q671294",
+  "pob": "Q39042",
+  "pobLabel": "Cheyenne",
+  "coord": "Point(-104.801944444 41.145555555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q693463": {
+  "qid": "Q693463",
+  "pob": "Q2026400",
+  "pobLabel": "Kelford",
+  "coord": "Point(-77.221666666 36.180833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q698125": {
+  "qid": "Q698125",
+  "pob": "Q233467",
+  "pobLabel": "Gisborne",
+  "coord": "Point(178.017777777 -38.6625)",
+  "country": "Q664",
+  "countryLabel": "New Zealand"
+ },
+ "Q714058": {
+  "qid": "Q714058",
+  "pob": "Q818338",
+  "pobLabel": "Benton Harbor",
+  "coord": "Point(-86.454166666 42.116666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q715618": {
+  "qid": "Q715618",
+  "pob": "Q72",
+  "pobLabel": "Zurich",
+  "coord": "Point(8.541111111 47.374444444)",
+  "country": "Q39",
+  "countryLabel": "Switzerland"
+ },
+ "Q716316": {
+  "qid": "Q716316",
+  "pob": "Q34404",
+  "pobLabel": "New Orleans",
+  "coord": "Point(-90.078333333 29.976111111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q6372315": {
+  "qid": "Q6372315",
+  "pob": "Q1428659",
+  "pobLabel": "Piscataway",
+  "coord": "Point(-74.399166666 40.499166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q6437162": {
+  "qid": "Q6437162",
+  "pob": "Q49146",
+  "pobLabel": "New London",
+  "coord": "Point(-72.10104 41.354069)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q6451040": {
+  "qid": "Q6451040",
+  "pob": "Q60",
+  "pobLabel": "New York City",
+  "coord": "Point(-74.006111111 40.712777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q6758454": {
+  "qid": "Q6758454",
+  "pob": "Q976183",
+  "pobLabel": "Flower Mound",
+  "coord": "Point(-97.078888888 33.031666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q6783608": {
+  "qid": "Q6783608",
+  "pob": "Q49268",
+  "pobLabel": "Fort Wayne",
+  "coord": "Point(-85.13915 41.08045)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q6829140": {
+  "qid": "Q6829140",
+  "pob": "Q1193968",
+  "pobLabel": "Hamilton",
+  "coord": "Point(-70.854788888 42.619708333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q6848154": {
+  "qid": "Q6848154",
+  "pob": "Q988741",
+  "pobLabel": "St. Louis Park",
+  "coord": "Point(-93.364875 44.9486)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q7045462": {
+  "qid": "Q7045462",
+  "pob": "Q54132",
+  "pobLabel": "Haverhill",
+  "coord": "Point(-71.083333333 42.783333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q7109779": {
+  "qid": "Q7109779",
+  "pob": "Q38022",
+  "pobLabel": "St. Louis",
+  "coord": "Point(-90.199444444 38.626388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q62869978": {
+  "qid": "Q62869978",
+  "pob": "Q41819",
+  "pobLabel": "Kansas City",
+  "coord": "Point(-94.583333333 39.05)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q62894989": {
+  "qid": "Q62894989",
+  "pob": "Q49218",
+  "pobLabel": "Rochester",
+  "coord": "Point(-77.611388888 43.165555555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q63112754": {
+  "qid": "Q63112754",
+  "pob": "Q217432",
+  "pobLabel": "Port Harcourt",
+  "coord": "Point(7.016316 4.765466)",
+  "country": "Q1033",
+  "countryLabel": "Nigeria"
+ },
+ "Q63117693": {
+  "qid": "Q63117693",
+  "pob": "Q6346",
+  "pobLabel": "Indianapolis",
+  "coord": "Point(-86.158055555 39.768611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q63119820": {
+  "qid": "Q63119820",
+  "pob": "Q529958",
+  "pobLabel": "Craven County",
+  "coord": "Point(-77.069166666 35.109166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q63133148": {
+  "qid": "Q63133148",
+  "pob": "Q108861",
+  "pobLabel": "King County",
+  "coord": "Point(-121.84 47.47)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q63190352": {
+  "qid": "Q63190352",
+  "pob": "Q936741",
+  "pobLabel": "Oshkosh",
+  "coord": "Point(-88.561111111 44.024166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q63199388": {
+  "qid": "Q63199388",
+  "pob": "Q79867",
+  "pobLabel": "Birmingham",
+  "coord": "Point(-86.809444444 33.5175)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q63351770": {
+  "qid": "Q63351770",
+  "pob": "Q487999",
+  "pobLabel": "Gainesville",
+  "coord": "Point(-82.336111111 29.665277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q64009534": {
+  "qid": "Q64009534",
+  "pob": "Q838785",
+  "pobLabel": "Temecula",
+  "coord": "Point(-117.123611111 33.503333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q64009749": {
+  "qid": "Q64009749",
+  "pob": "Q65",
+  "pobLabel": "Los Angeles",
+  "coord": "Point(-118.24368 34.05223)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q64010142": {
+  "qid": "Q64010142",
+  "pob": "Q23556",
+  "pobLabel": "Atlanta",
+  "coord": "Point(-84.389722222 33.754444444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q64010219": {
+  "qid": "Q64010219",
+  "pob": "Q574192",
+  "pobLabel": "Greenville",
+  "coord": "Point(-82.385555555 34.844444444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q64744025": {
+  "qid": "Q64744025",
+  "pob": "Q113602",
+  "pobLabel": "Dixon",
+  "coord": "Point(-89.485 41.8461)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q64748342": {
+  "qid": "Q64748342",
+  "pob": "Q580487",
+  "pobLabel": "West Chicago",
+  "coord": "Point(-88.2419807 41.9021603)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q64822039": {
+  "qid": "Q64822039",
+  "pob": "Q494564",
+  "pobLabel": "St. Lucie County",
+  "coord": "Point(-80.44 27.38)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q65030600": {
+  "qid": "Q65030600",
+  "pob": "Q768007",
+  "pobLabel": "Southaven",
+  "coord": "Point(-90.0035 34.987388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q65030944": {
+  "qid": "Q65030944",
+  "pob": "Q17943",
+  "pobLabel": "Arlington",
+  "coord": "Point(-97.122839 32.705033)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q65658814": {
+  "qid": "Q65658814",
+  "pob": "Q34932",
+  "pobLabel": "Brisbane",
+  "coord": "Point(153.027777777 -27.467777777)",
+  "country": "Q408",
+  "countryLabel": "Australia"
+ },
+ "Q65929905": {
+  "qid": "Q65929905",
+  "pob": "Q494711",
+  "pobLabel": "Lancaster",
+  "coord": "Point(-118.154166666 34.686944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q65952023": {
+  "qid": "Q65952023",
+  "pob": "Q577695",
+  "pobLabel": "Hickory Hills",
+  "coord": "Point(-87.8269 41.7239)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q66071852": {
+  "qid": "Q66071852",
+  "pob": "Q499203",
+  "pobLabel": "Yakima",
+  "coord": "Point(-120.507777777 46.601944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q66133404": {
+  "qid": "Q66133404",
+  "pob": "Q201095",
+  "pobLabel": "Giresun",
+  "coord": "Point(38.416666666 40.9)",
+  "country": "Q43",
+  "countryLabel": "Turkey"
+ },
+ "Q66187310": {
+  "qid": "Q66187310",
+  "pob": "Q998675",
+  "pobLabel": "Wausau",
+  "coord": "Point(-89.633333333 44.95)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q66309754": {
+  "qid": "Q66309754",
+  "pob": "Q23556",
+  "pobLabel": "Atlanta",
+  "coord": "Point(-84.389722222 33.754444444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q66309762": {
+  "qid": "Q66309762",
+  "pob": "Q3300932",
+  "pobLabel": "Brentwood",
+  "coord": "Point(-73.2442 40.7817)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q66391607": {
+  "qid": "Q66391607",
+  "pob": "Q204381",
+  "pobLabel": "Goma",
+  "coord": "Point(29.22286 -1.6641)",
+  "country": "Q974",
+  "countryLabel": "Democratic Republic of the Congo"
+ },
+ "Q66459298": {
+  "qid": "Q66459298",
+  "pob": "Q163749",
+  "pobLabel": "West Palm Beach",
+  "coord": "Point(-80.064166666 26.709722222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q67605606": {
+  "qid": "Q67605606",
+  "pob": "Q2467",
+  "pobLabel": "Nassau",
+  "coord": "Point(-77.338611111 25.078055555)",
+  "country": "Q778",
+  "countryLabel": "The Bahamas"
+ },
+ "Q67609172": {
+  "qid": "Q67609172",
+  "pob": "Q266438",
+  "pobLabel": "Aurora",
+  "coord": "Point(-79.466666666 44.0)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q69308603": {
+  "qid": "Q69308603",
+  "pob": "Q11974",
+  "pobLabel": "Las Palmas de Gran Canaria",
+  "coord": "Point(-15.431388888 28.127222222)",
+  "country": "Q29",
+  "countryLabel": "Spain"
+ },
+ "Q69374631": {
+  "qid": "Q69374631",
+  "pob": "Q128244",
+  "pobLabel": "Waco",
+  "coord": "Point(-97.147222222 31.549166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q70520489": {
+  "qid": "Q70520489",
+  "pob": "Q862645",
+  "pobLabel": "Edmond",
+  "coord": "Point(-97.464916666 35.657138888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q65039": {
+  "qid": "Q65039",
+  "pob": "Q1345",
+  "pobLabel": "Philadelphia",
+  "coord": "Point(-75.163611111 39.952777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q717344": {
+  "qid": "Q717344",
+  "pob": "Q93347",
+  "pobLabel": "Mostar",
+  "coord": "Point(17.8075 43.343611111)",
+  "country": "Q225",
+  "countryLabel": "Bosnia and Herzegovina"
+ },
+ "Q717573": {
+  "qid": "Q717573",
+  "pob": "Q199797",
+  "pobLabel": "Tacoma",
+  "coord": "Point(-122.4475 47.2525)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q732350": {
+  "qid": "Q732350",
+  "pob": "Q34144",
+  "pobLabel": "Grand Forks",
+  "coord": "Point(-97.0325 47.925277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q736301": {
+  "qid": "Q736301",
+  "pob": "Q187593",
+  "pobLabel": "Lubumbashi",
+  "coord": "Point(27.482777777 -11.664166666)",
+  "country": "Q974",
+  "countryLabel": "Democratic Republic of the Congo"
+ },
+ "Q744920": {
+  "qid": "Q744920",
+  "pob": "Q108037",
+  "pobLabel": "Valmiera",
+  "coord": "Point(25.423055555 57.538055555)",
+  "country": "Q211",
+  "countryLabel": "Latvia"
+ },
+ "Q781176": {
+  "qid": "Q781176",
+  "pob": "Q47164",
+  "pobLabel": "Santa Monica",
+  "coord": "Point(-118.481388888 34.021944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q7308203": {
+  "qid": "Q7308203",
+  "pob": "Q5092",
+  "pobLabel": "Baltimore",
+  "coord": "Point(-76.615 39.286388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q7357002": {
+  "qid": "Q7357002",
+  "pob": "Q1811669",
+  "pobLabel": "Landover",
+  "coord": "Point(-76.8967 38.9339)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q7383906": {
+  "qid": "Q7383906",
+  "pob": "Q1136771",
+  "pobLabel": "Frankston",
+  "coord": "Point(145.135 -38.158)",
+  "country": "Q408",
+  "countryLabel": "Australia"
+ },
+ "Q7456454": {
+  "qid": "Q7456454",
+  "pob": "Q16565",
+  "pobLabel": "Charlotte",
+  "coord": "Point(-80.843333333 35.226944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q7614435": {
+  "qid": "Q7614435",
+  "pob": "Q208948",
+  "pobLabel": "Rotorua",
+  "coord": "Point(176.251388888 -38.137777777)",
+  "country": "Q664",
+  "countryLabel": "New Zealand"
+ },
+ "Q7823453": {
+  "qid": "Q7823453",
+  "pob": "Q1687279",
+  "pobLabel": "Watts",
+  "coord": "Point(-118.241666666 33.941666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q7926203": {
+  "qid": "Q7926203",
+  "pob": "Q755741",
+  "pobLabel": "Silver Spring",
+  "coord": "Point(-77.020791 39.002441)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q8021424": {
+  "qid": "Q8021424",
+  "pob": "Q1823205",
+  "pobLabel": "Spearville",
+  "coord": "Point(-99.7553 37.8489)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q72941595": {
+  "qid": "Q72941595",
+  "pob": "Q237281",
+  "pobLabel": "Le Chesnay",
+  "coord": "Point(2.130277777 48.820277777)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q74839687": {
+  "qid": "Q74839687",
+  "pob": "Q79535",
+  "pobLabel": "Fort Smith",
+  "coord": "Point(-94.366666666 35.35)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q74880977": {
+  "qid": "Q74880977",
+  "pob": "Q172",
+  "pobLabel": "Toronto",
+  "coord": "Point(-79.386666666 43.670277777)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q75060241": {
+  "qid": "Q75060241",
+  "pob": "Q18419",
+  "pobLabel": "Brooklyn",
+  "coord": "Point(-73.949722222 40.650833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q75656968": {
+  "qid": "Q75656968",
+  "pob": "Q139564",
+  "pobLabel": "Atlantic City",
+  "coord": "Point(-74.425 39.3625)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q76438339": {
+  "qid": "Q76438339",
+  "pob": "Q36091",
+  "pobLabel": "Minneapolis",
+  "coord": "Point(-93.269166666 44.981944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q77273282": {
+  "qid": "Q77273282",
+  "pob": "Q28218",
+  "pobLabel": "Baton Rouge",
+  "coord": "Point(-91.178611111 30.4475)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q77445037": {
+  "qid": "Q77445037",
+  "pob": "Q16565",
+  "pobLabel": "Charlotte",
+  "coord": "Point(-80.843333333 35.226944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q78170313": {
+  "qid": "Q78170313",
+  "pob": "Q548664",
+  "pobLabel": "Richmond",
+  "coord": "Point(-84.890555555 39.830277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q78170389": {
+  "qid": "Q78170389",
+  "pob": "Q1261675",
+  "pobLabel": "Meridianville",
+  "coord": "Point(-86.578373 34.869312)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q79052337": {
+  "qid": "Q79052337",
+  "pob": "Q61",
+  "pobLabel": "Washington, D.C.",
+  "coord": "Point(-77.036666666 38.895)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q79666036": {
+  "qid": "Q79666036",
+  "pob": "Q49218",
+  "pobLabel": "Rochester",
+  "coord": "Point(-77.611388888 43.165555555)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q79871145": {
+  "qid": "Q79871145",
+  "pob": "Q1055845",
+  "pobLabel": "Edmonds",
+  "coord": "Point(-122.346666666 47.806944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q79898028": {
+  "qid": "Q79898028",
+  "pob": "Q3155671",
+  "pobLabel": "Reserve",
+  "coord": "Point(-90.5533 30.0625)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q80713297": {
+  "qid": "Q80713297",
+  "pob": "Q199797",
+  "pobLabel": "Tacoma",
+  "coord": "Point(-122.4475 47.2525)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q81878354": {
+  "qid": "Q81878354",
+  "pob": "Q178093",
+  "pobLabel": "Poughkeepsie",
+  "coord": "Point(-73.930555555 41.705277777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q82831609": {
+  "qid": "Q82831609",
+  "pob": "Q47716",
+  "pobLabel": "Charleston",
+  "coord": "Point(-79.931944444 32.783333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q82831682": {
+  "qid": "Q82831682",
+  "pob": "Q18419",
+  "pobLabel": "Brooklyn",
+  "coord": "Point(-73.949722222 40.650833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q82831692": {
+  "qid": "Q82831692",
+  "pob": "Q1858545",
+  "pobLabel": "Suwanee",
+  "coord": "Point(-84.072893 34.051447)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q82831721": {
+  "qid": "Q82831721",
+  "pob": "Q28848",
+  "pobLabel": "Saint Paul",
+  "coord": "Point(-93.093611111 44.944166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q84302381": {
+  "qid": "Q84302381",
+  "pob": "Q128069",
+  "pobLabel": "Syracuse",
+  "coord": "Point(-76.144423 43.046899)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q84360117": {
+  "qid": "Q84360117",
+  "pob": "Q60",
+  "pobLabel": "New York City",
+  "coord": "Point(-74.006111111 40.712777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q84554649": {
+  "qid": "Q84554649",
+  "pob": "Q819678",
+  "pobLabel": "Yanai",
+  "coord": "Point(132.101555555 33.963861111)",
+  "country": "Q17",
+  "countryLabel": "Japan"
+ },
+ "Q84598789": {
+  "qid": "Q84598789",
+  "pob": "Q821112",
+  "pobLabel": "Federal Way",
+  "coord": "Point(-122.34 47.315)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q85738924": {
+  "qid": "Q85738924",
+  "pob": "Q582212",
+  "pobLabel": "Cedar Falls",
+  "coord": "Point(-92.446388888 42.523611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q85792426": {
+  "qid": "Q85792426",
+  "pob": "Q16565",
+  "pobLabel": "Charlotte",
+  "coord": "Point(-80.843333333 35.226944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q85792514": {
+  "qid": "Q85792514",
+  "pob": "Q49233",
+  "pobLabel": "Orlando",
+  "coord": "Point(-81.386666666 28.533611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q85889241": {
+  "qid": "Q85889241",
+  "pob": "Q2581974",
+  "pobLabel": "Norcross",
+  "coord": "Point(-84.2135309 33.9412127)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q86754547": {
+  "qid": "Q86754547",
+  "pob": "Q494690",
+  "pobLabel": "Carson",
+  "coord": "Point(-118.259722222 33.839722222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q87451745": {
+  "qid": "Q87451745",
+  "pob": "Q79519",
+  "pobLabel": "Dothan",
+  "coord": "Point(-85.407222222 31.227222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q88234141": {
+  "qid": "Q88234141",
+  "pob": "Q36091",
+  "pobLabel": "Minneapolis",
+  "coord": "Point(-93.269166666 44.981944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q88387056": {
+  "qid": "Q88387056",
+  "pob": "Q694545",
+  "pobLabel": "Bowling Green",
+  "coord": "Point(-86.444444444 36.981666666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q88799464": {
+  "qid": "Q88799464",
+  "pob": "Q128375",
+  "pobLabel": "Richardson",
+  "coord": "Point(-96.729722222 32.948333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q88964138": {
+  "qid": "Q88964138",
+  "pob": "Q38022",
+  "pobLabel": "St. Louis",
+  "coord": "Point(-90.199444444 38.626388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q89094739": {
+  "qid": "Q89094739",
+  "pob": "Q41819",
+  "pobLabel": "Kansas City",
+  "coord": "Point(-94.583333333 39.05)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q89162230": {
+  "qid": "Q89162230",
+  "pob": "Q3141",
+  "pobLabel": "Melbourne",
+  "coord": "Point(144.963055555 -37.814166666)",
+  "country": "Q408",
+  "countryLabel": "Australia"
+ },
+ "Q897000": {
+  "qid": "Q897000",
+  "pob": "Q38022",
+  "pobLabel": "St. Louis",
+  "coord": "Point(-90.199444444 38.626388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q918596": {
+  "qid": "Q918596",
+  "pob": "Q1297",
+  "pobLabel": "Chicago",
+  "coord": "Point(-87.627777777 41.881944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q919197": {
+  "qid": "Q919197",
+  "pob": "Q6346",
+  "pobLabel": "Indianapolis",
+  "coord": "Point(-86.158055555 39.768611111)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q921340": {
+  "qid": "Q921340",
+  "pob": "Q219526",
+  "pobLabel": "Fayetteville",
+  "coord": "Point(-94.160833333 36.076388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q926248": {
+  "qid": "Q926248",
+  "pob": "Q49243",
+  "pobLabel": "Riverside",
+  "coord": "Point(-117.3725 33.982222222)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q928950": {
+  "qid": "Q928950",
+  "pob": "Q975",
+  "pobLabel": "San Antonio",
+  "coord": "Point(-98.493888888 29.425)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q931300": {
+  "qid": "Q931300",
+  "pob": "Q960005",
+  "pobLabel": "Grandview",
+  "coord": "Point(-94.5225 38.885)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q935879": {
+  "qid": "Q935879",
+  "pob": "Q165972",
+  "pobLabel": "Fort Lauderdale",
+  "coord": "Point(-80.141944444 26.135833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q947932": {
+  "qid": "Q947932",
+  "pob": "Q6106",
+  "pobLabel": "Portland",
+  "coord": "Point(-122.679166666 45.515)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q952921": {
+  "qid": "Q952921",
+  "pob": "Q3114",
+  "pobLabel": "Canberra",
+  "coord": "Point(149.126944444 -35.293055555)",
+  "country": "Q408",
+  "countryLabel": "Australia"
+ },
+ "Q966111": {
+  "qid": "Q966111",
+  "pob": "Q2686587",
+  "pobLabel": "Prague 4",
+  "coord": "Point(14.440277777 50.062222222)",
+  "country": "Q213",
+  "countryLabel": "Czech Republic"
+ },
+ "Q973121": {
+  "qid": "Q973121",
+  "pob": "Q488940",
+  "pobLabel": "Palmdale",
+  "coord": "Point(-118.116666666 34.579444444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q973212": {
+  "qid": "Q973212",
+  "pob": "Q44198",
+  "pobLabel": "Brampton",
+  "coord": "Point(-79.766666666 43.683333333)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q974603": {
+  "qid": "Q974603",
+  "pob": "Q1345",
+  "pobLabel": "Philadelphia",
+  "coord": "Point(-75.163611111 39.952777777)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q975474": {
+  "qid": "Q975474",
+  "pob": "Q5112",
+  "pobLabel": "Adelaide",
+  "coord": "Point(138.6 -34.9275)",
+  "country": "Q408",
+  "countryLabel": "Australia"
+ },
+ "Q994442": {
+  "qid": "Q994442",
+  "pob": "Q3200",
+  "pobLabel": "Salzgitter",
+  "coord": "Point(10.359305555 52.150277777)",
+  "country": "Q183",
+  "countryLabel": "Germany"
+ },
+ "Q8991894": {
+  "qid": "Q8991894",
+  "pob": "Q1524",
+  "pobLabel": "Athens",
+  "coord": "Point(23.728055555 37.984166666)",
+  "country": "Q41",
+  "countryLabel": "Greece"
+ },
+ "Q8991893": {
+  "qid": "Q8991893",
+  "pob": "Q1524",
+  "pobLabel": "Athens",
+  "coord": "Point(23.728055555 37.984166666)",
+  "country": "Q41",
+  "countryLabel": "Greece"
+ },
+ "Q89432720": {
+  "qid": "Q89432720",
+  "pob": "Q8673",
+  "pobLabel": "Lagos",
+  "coord": "Point(3.393611111 6.456111111)",
+  "country": "Q1033",
+  "countryLabel": "Nigeria"
+ },
+ "Q89443831": {
+  "qid": "Q89443831",
+  "pob": "Q49219",
+  "pobLabel": "Irvine",
+  "coord": "Point(-117.7925 33.684166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q90327686": {
+  "qid": "Q90327686",
+  "pob": "Q7985390",
+  "pobLabel": "West Hills",
+  "coord": "Point(-118.639 34.2064)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q90729622": {
+  "qid": "Q90729622",
+  "pob": "Q47430",
+  "pobLabel": "Green Bay",
+  "coord": "Point(-88.013333333 44.513333333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q91140197": {
+  "qid": "Q91140197",
+  "pob": "Q340",
+  "pobLabel": "Montreal",
+  "coord": "Point(-73.5868411 45.5033426)",
+  "country": "Q16",
+  "countryLabel": "Canada"
+ },
+ "Q91330335": {
+  "qid": "Q91330335",
+  "pob": "Q49229",
+  "pobLabel": "Durham",
+  "coord": "Point(-78.898611111 35.994166666)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q92198887": {
+  "qid": "Q92198887",
+  "pob": "Q5083",
+  "pobLabel": "Seattle",
+  "coord": "Point(-122.33 47.605)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q93383872": {
+  "qid": "Q93383872",
+  "pob": "Q1969316",
+  "pobLabel": "Shelbyville",
+  "coord": "Point(-86.4522 35.4889)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q93781008": {
+  "qid": "Q93781008",
+  "pob": "Q38022",
+  "pobLabel": "St. Louis",
+  "coord": "Point(-90.199444444 38.626388888)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q94329024": {
+  "qid": "Q94329024",
+  "pob": "Q184159",
+  "pobLabel": "Niort",
+  "coord": "Point(-0.462222222 46.325)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q96002098": {
+  "qid": "Q96002098",
+  "pob": "Q754452",
+  "pobLabel": "Glen Burnie",
+  "coord": "Point(-76.6106 39.16)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q96374318": {
+  "qid": "Q96374318",
+  "pob": "Q200578",
+  "pobLabel": "Yokosuka",
+  "coord": "Point(139.672083333 35.281305555)",
+  "country": "Q17",
+  "countryLabel": "Japan"
+ },
+ "Q96622793": {
+  "qid": "Q96622793",
+  "pob": "Q18419",
+  "pobLabel": "Brooklyn",
+  "coord": "Point(-73.949722222 40.650833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q96755147": {
+  "qid": "Q96755147",
+  "pob": "Q205638",
+  "pobLabel": "Villeneuve-sur-Lot",
+  "coord": "Point(0.704166666 44.406944444)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q97154115": {
+  "qid": "Q97154115",
+  "pob": "Q33405",
+  "pobLabel": "Little Rock",
+  "coord": "Point(-92.288055555 34.744444444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q97185180": {
+  "qid": "Q97185180",
+  "pob": "Q18419",
+  "pobLabel": "Brooklyn",
+  "coord": "Point(-73.949722222 40.650833333)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q97359395": {
+  "qid": "Q97359395",
+  "pob": "Q49231",
+  "pobLabel": "Norfolk",
+  "coord": "Point(-76.285277777 36.846944444)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q97411335": {
+  "qid": "Q97411335",
+  "pob": "Q3733",
+  "pobLabel": "Conakry",
+  "coord": "Point(-13.712222222 9.509166666)",
+  "country": "Q1006",
+  "countryLabel": "Guinea"
+ },
+ "Q97495355": {
+  "qid": "Q97495355",
+  "pob": "Q90",
+  "pobLabel": "Paris",
+  "coord": "Point(2.352222222 48.856666666)",
+  "country": "Q142",
+  "countryLabel": "France"
+ },
+ "Q98216023": {
+  "qid": "Q98216023",
+  "pob": "Q746073",
+  "pobLabel": "Livno",
+  "coord": "Point(17.008055555 43.826944444)",
+  "country": "Q225",
+  "countryLabel": "Bosnia and Herzegovina"
+ },
+ "Q98686661": {
+  "qid": "Q98686661",
+  "pob": "Q49238",
+  "pobLabel": "Greensboro",
+  "coord": "Point(-79.790277777 36.0725)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ },
+ "Q98841297": {
+  "qid": "Q98841297",
+  "pob": "Q2751",
+  "pobLabel": "Siena",
+  "coord": "Point(11.331388888 43.318333333)",
+  "country": "Q38",
+  "countryLabel": "Italy"
+ },
+ "Q99457659": {
+  "qid": "Q99457659",
+  "pob": "Q5170040",
+  "pobLabel": "Cordova",
+  "coord": "Point(-89.8 35.2)",
+  "country": "Q30",
+  "countryLabel": "United States"
+ }
+}

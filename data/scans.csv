@@ -1,0 +1,7 @@
+scan_id,name,ran_at,players_scanned,mismatches_found,method
+nba-bridge-2026-10-15,NBA 3-leg bridge sweep,2026-10-15,741,3,"ESPN Core vs NBA stats vs bbref, date-part comparison, fail-closed quarantine"
+nba-roster-surface-2026-10-15,ESPN roster cross-surface scan,2026-10-15,627,0,roster dateOfBirth vs Core dateOfBirth; 0 divergences
+nba-wikidata-thirdleg-2026-10-15,Wikidata P569 third-leg triangulation,2026-10-15,737,1,P569 vs ESPN/NBA consensus; 1 third-party outlier (Bowman)
+nba-displaydob-2026-10-15,displayDOB vs ISO scan,2026-10-15,741,0,"locale displayDOB vs Core ISO date-part, ambiguity-aware; 0 divergences"
+nba-timezone-2026-10-15,Timezone-stratified scan,2026-10-15,61,0,3-5 players x 17 UTC buckets; TZ mechanism killed generally
+wnba-scan-2026-10-15,WNBA DOB scan,2026-10-15,221,2,ESPN vs bbref/Wikidata+independents (no stats-ID bridge); 2 ESPN-wrong

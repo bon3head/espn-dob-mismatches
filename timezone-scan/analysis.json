@@ -1,0 +1,94 @@
+{
+ "bucket_rates": {
+  "0": {
+   "mismatches": 0,
+   "total": 9
+  },
+  "1": {
+   "mismatches": 0,
+   "total": 87
+  },
+  "2": {
+   "mismatches": 0,
+   "total": 21
+  },
+  "3": {
+   "mismatches": 0,
+   "total": 8
+  },
+  "4": {
+   "mismatches": 0,
+   "total": 4
+  },
+  "5": {
+   "mismatches": 1,
+   "total": 277
+  },
+  "6": {
+   "mismatches": 0,
+   "total": 208
+  },
+  "7": {
+   "mismatches": 0,
+   "total": 11
+  },
+  "8": {
+   "mismatches": 0,
+   "total": 96
+  },
+  "9": {
+   "mismatches": 0,
+   "total": 4
+  },
+  "9.5": {
+   "mismatches": 0,
+   "total": 1
+  },
+  "10": {
+   "mismatches": 2,
+   "total": 13
+  },
+  "12": {
+   "mismatches": 0,
+   "total": 2
+  }
+ },
+ "mismatches": [
+  {
+   "espn_id": 4600663,
+   "bbref": "edeyza01",
+   "qid": "Q106817973",
+   "birthplace": "Toronto",
+   "country": "Canada",
+   "utc_offset": -5,
+   "espn_dob": "2002-03-14",
+   "nba_dob": "2002-05-14",
+   "delta_days_espn_minus_nba": -61
+  },
+  {
+   "espn_id": 5157066,
+   "bbref": "furphjo01",
+   "qid": "Q124624089",
+   "birthplace": "Melbourne",
+   "country": "Australia",
+   "utc_offset": 10,
+   "espn_dob": "2004-12-07",
+   "nba_dob": "2004-12-08",
+   "delta_days_espn_minus_nba": -1
+  },
+  {
+   "espn_id": 4278783,
+   "bbref": "magnawi01",
+   "qid": "Q65658814",
+   "birthplace": "Brisbane",
+   "country": "Australia",
+   "utc_offset": 10,
+   "espn_dob": "1998-07-10",
+   "nba_dob": "1998-06-10",
+   "delta_days_espn_minus_nba": 30
+  }
+ ],
+ "fisher_all_mismatch_p_ge9_vs_lt9": 0.002,
+ "fisher_daylevel_p_ge9_vs_lt9": 0.027,
+ "note": "p-values are post-hoc (hypothesis formed after observing 2/3 mismatches at UTC+10); Test1 confounded by month-level Magnay case"
+}

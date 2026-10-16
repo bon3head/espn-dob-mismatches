@@ -1,0 +1,53 @@
+{
+ "bridge": {},
+ "raw_bindings": {
+  "924": [
+   {
+    "qid": "Q1891397",
+    "label": "Monty Williams",
+    "stats": "42",
+    "bbref": "w/willimo01"
+   }
+  ],
+  "1054": [
+   {
+    "qid": "Q2274050",
+    "label": "\u00d3scar Torres",
+    "stats": "2351",
+    "bbref": "t/torreos01"
+   }
+  ],
+  "887": [
+   {
+    "qid": "Q2348633",
+    "label": "Rex Walters",
+    "stats": "777",
+    "bbref": "w/waltere01"
+   }
+  ],
+  "981": [
+   {
+    "qid": "Q317037",
+    "label": "Kwame Brown",
+    "stats": "2198",
+    "bbref": "b/brownkw01"
+   }
+  ],
+  "869": [
+   {
+    "qid": "Q555127",
+    "label": "Keith Van Horn",
+    "stats": "1496",
+    "bbref": "v/vanhoke01"
+   }
+  ],
+  "1068": [
+   {
+    "qid": "Q1607991",
+    "label": "Byron Houston",
+    "stats": "780",
+    "bbref": "h/houstby01"
+   }
+  ]
+ }
+}

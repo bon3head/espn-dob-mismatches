@@ -1,0 +1,1422 @@
+{
+ "athletes": {
+  "869": {
+   "espn_id": "869",
+   "name": "DeWanna Bonner",
+   "roster_dob": "1987-08-21",
+   "team": "20"
+  },
+  "5208983": {
+   "espn_id": "5208983",
+   "name": "Isobel Borlase",
+   "roster_dob": "2004-09-12",
+   "team": "20"
+  },
+  "3142250": {
+   "espn_id": "3142250",
+   "name": "Jordin Canada",
+   "roster_dob": "1995-08-11",
+   "team": "20"
+  },
+  "3058901": {
+   "espn_id": "3058901",
+   "name": "Allisha Gray",
+   "roster_dob": "1995-01-12",
+   "team": "20"
+  },
+  "4398915": {
+   "espn_id": "4398915",
+   "name": "Naz Hillmon",
+   "roster_dob": "2000-04-05",
+   "team": "20"
+  },
+  "4398674": {
+   "espn_id": "4398674",
+   "name": "Rhyne Howard",
+   "roster_dob": "2000-04-29",
+   "team": "20"
+  },
+  "3058895": {
+   "espn_id": "3058895",
+   "name": "Brionna Jones",
+   "roster_dob": "1995-12-18",
+   "team": "20"
+  },
+  "5017721": {
+   "espn_id": "5017721",
+   "name": "Sika Kone",
+   "roster_dob": "2002-07-13",
+   "team": "20"
+  },
+  "5105740": {
+   "espn_id": "5105740",
+   "name": "Indya Nivar",
+   "roster_dob": "2004-01-16",
+   "team": "20"
+  },
+  "5108587": {
+   "espn_id": "5108587",
+   "name": "Madina Okot",
+   "roster_dob": "2004-08-23",
+   "team": "20"
+  },
+  "4433431": {
+   "espn_id": "4433431",
+   "name": "Te-Hina Paopao",
+   "roster_dob": "2002-08-21",
+   "team": "20"
+  },
+  "4433402": {
+   "espn_id": "4433402",
+   "name": "Angel Reese",
+   "roster_dob": "2002-05-06",
+   "team": "20"
+  },
+  "5209602": {
+   "espn_id": "5209602",
+   "name": "Matilde Villa",
+   "roster_dob": "2004-12-09",
+   "team": "20"
+  },
+  "3058893": {
+   "espn_id": "3058893",
+   "name": "Shatori Walker-Kimbrough",
+   "roster_dob": "1995-05-18",
+   "team": "20"
+  },
+  "2566186": {
+   "espn_id": "2566186",
+   "name": "Rachel Banham",
+   "roster_dob": "1993-07-15",
+   "team": "19"
+  },
+  "4433405": {
+   "espn_id": "4433405",
+   "name": "Kamilla Cardoso",
+   "roster_dob": "2001-04-30",
+   "team": "19"
+  },
+  "4066548": {
+   "espn_id": "4066548",
+   "name": "DiJonai Carrington",
+   "roster_dob": "1998-01-08",
+   "team": "19"
+  },
+  "2529137": {
+   "espn_id": "2529137",
+   "name": "Natasha Cloud",
+   "roster_dob": "1992-02-22",
+   "team": "19"
+  },
+  "4433433": {
+   "espn_id": "4433433",
+   "name": "Aicha Coulibaly",
+   "roster_dob": "2001-10-18",
+   "team": "19"
+  },
+  "2491205": {
+   "espn_id": "2491205",
+   "name": "Skylar Diggins",
+   "roster_dob": "1990-08-02",
+   "team": "19"
+  },
+  "4433630": {
+   "espn_id": "4433630",
+   "name": "Rickea Jackson",
+   "roster_dob": "2001-03-16",
+   "team": "19"
+  },
+  "4858656": {
+   "espn_id": "4858656",
+   "name": "Gabriela Jaquez",
+   "roster_dob": "2003-11-19",
+   "team": "19"
+  },
+  "4599199": {
+   "espn_id": "4599199",
+   "name": "Morgan Maly",
+   "roster_dob": "2002-01-25",
+   "team": "19"
+  },
+  "4398907": {
+   "espn_id": "4398907",
+   "name": "Kate Martin",
+   "roster_dob": "2000-06-05",
+   "team": "19"
+  },
+  "4432865": {
+   "espn_id": "4432865",
+   "name": "Jacy Sheldon",
+   "roster_dob": "2000-08-23",
+   "team": "19"
+  },
+  "3142010": {
+   "espn_id": "3142010",
+   "name": "Azura Stevens",
+   "roster_dob": "1996-02-01",
+   "team": "19"
+  },
+  "4594786": {
+   "espn_id": "4594786",
+   "name": "Sydney Taylor",
+   "roster_dob": "2001-06-21",
+   "team": "19"
+  },
+  "981": {
+   "espn_id": "981",
+   "name": "Courtney Vandersloot",
+   "roster_dob": "1989-02-08",
+   "team": "19"
+  },
+  "2566081": {
+   "espn_id": "2566081",
+   "name": "Elizabeth Williams",
+   "roster_dob": "1993-06-23",
+   "team": "19"
+  },
+  "5345319": {
+   "espn_id": "5345319",
+   "name": "Nell Angloma",
+   "roster_dob": "2006-06-12",
+   "team": "18"
+  },
+  "5105732": {
+   "espn_id": "5105732",
+   "name": "Raegan Beers",
+   "roster_dob": "2003-07-23",
+   "team": "18"
+  },
+  "3922628": {
+   "espn_id": "3922628",
+   "name": "Kennedy Burke",
+   "roster_dob": "1997-02-14",
+   "team": "18"
+  },
+  "4433408": {
+   "espn_id": "4433408",
+   "name": "Aaliyah Edwards",
+   "roster_dob": "2002-07-09",
+   "team": "18"
+  },
+  "2490553": {
+   "espn_id": "2490553",
+   "name": "Brittney Griner",
+   "roster_dob": "1990-10-18",
+   "team": "18"
+  },
+  "5106232": {
+   "espn_id": "5106232",
+   "name": "Ashlon Jackson",
+   "roster_dob": "2004-01-06",
+   "team": "18"
+  },
+  "4898898": {
+   "espn_id": "4898898",
+   "name": "Gianna Kneepkens",
+   "roster_dob": "2003-03-04",
+   "team": "18"
+  },
+  "5208981": {
+   "espn_id": "5208981",
+   "name": "Leila Lacan",
+   "roster_dob": "2004-06-02",
+   "team": "18"
+  },
+  "4703609": {
+   "espn_id": "4703609",
+   "name": "Charlisse Leger-Walker",
+   "roster_dob": "2001-09-15",
+   "team": "18"
+  },
+  "4433792": {
+   "espn_id": "4433792",
+   "name": "Rayah Marshall",
+   "roster_dob": "2003-11-15",
+   "team": "18"
+  },
+  "4433635": {
+   "espn_id": "4433635",
+   "name": "Diamond Miller",
+   "roster_dob": "2001-02-11",
+   "team": "18"
+  },
+  "4398966": {
+   "espn_id": "4398966",
+   "name": "Olivia Nelson-Ododa",
+   "roster_dob": "2000-08-17",
+   "team": "18"
+  },
+  "4433514": {
+   "espn_id": "4433514",
+   "name": "Saniya Rivers",
+   "roster_dob": "2003-03-04",
+   "team": "18"
+  },
+  "4433412": {
+   "espn_id": "4433412",
+   "name": "Hailey Van Lith",
+   "roster_dob": "2001-09-09",
+   "team": "18"
+  },
+  "4433730": {
+   "espn_id": "4433730",
+   "name": "Paige Bueckers",
+   "roster_dob": "2001-10-20",
+   "team": "3"
+  },
+  "924": {
+   "espn_id": "924",
+   "name": "Alysha Clark",
+   "roster_dob": "1987-07-07",
+   "team": "3"
+  },
+  "4433790": {
+   "espn_id": "4433790",
+   "name": "Azzi Fudd",
+   "roster_dob": "2002-11-11",
+   "team": "3"
+  },
+  "4433807": {
+   "espn_id": "4433807",
+   "name": "Aziaha James",
+   "roster_dob": "2002-11-19",
+   "team": "3"
+  },
+  "4595910": {
+   "espn_id": "4595910",
+   "name": "Haley Jones",
+   "roster_dob": "2001-05-23",
+   "team": "3"
+  },
+  "4433410": {
+   "espn_id": "4433410",
+   "name": "Deja Kelly",
+   "roster_dob": "2001-09-08",
+   "team": "3"
+  },
+  "4790266": {
+   "espn_id": "4790266",
+   "name": "Awak Kuier",
+   "roster_dob": "2001-08-19",
+   "team": "3"
+  },
+  "3920741": {
+   "espn_id": "3920741",
+   "name": "Kitija Laksa",
+   "roster_dob": "1996-05-21",
+   "team": "3"
+  },
+  "3904577": {
+   "espn_id": "3904577",
+   "name": "Arike Ogunbowale",
+   "roster_dob": "1997-03-02",
+   "team": "3"
+  },
+  "3906949": {
+   "espn_id": "3906949",
+   "name": "Jessica Shepard",
+   "roster_dob": "1996-09-11",
+   "team": "3"
+  },
+  "4399415": {
+   "espn_id": "4399415",
+   "name": "Maddy Siegrist",
+   "roster_dob": "2000-05-22",
+   "team": "3"
+  },
+  "2529047": {
+   "espn_id": "2529047",
+   "name": "Odyssey Sims",
+   "roster_dob": "1992-07-13",
+   "team": "3"
+  },
+  "3913881": {
+   "espn_id": "3913881",
+   "name": "Alanna Smith",
+   "roster_dob": "1996-09-10",
+   "team": "3"
+  },
+  "5345473": {
+   "espn_id": "5345473",
+   "name": "Costanza Verona",
+   "roster_dob": "1999-08-06",
+   "team": "3"
+  },
+  "4398965": {
+   "espn_id": "4398965",
+   "name": "Christyn Williams",
+   "roster_dob": "2000-05-20",
+   "team": "3"
+  },
+  "4336633": {
+   "espn_id": "4336633",
+   "name": "Li Yueru",
+   "roster_dob": "1999-03-28",
+   "team": "3"
+  },
+  "4432834": {
+   "espn_id": "4432834",
+   "name": "Laeticia Amihere",
+   "roster_dob": "2001-07-10",
+   "team": "129689"
+  },
+  "4398935": {
+   "espn_id": "4398935",
+   "name": "Veronica Burton",
+   "roster_dob": "2000-07-12",
+   "team": "129689"
+  },
+  "4065780": {
+   "espn_id": "4065780",
+   "name": "Kaila Charles",
+   "roster_dob": "1998-03-23",
+   "team": "129689"
+  },
+  "4899328": {
+   "espn_id": "4899328",
+   "name": "Kaitlyn Chen",
+   "roster_dob": "2002-02-22",
+   "team": "129689"
+  },
+  "5447776": {
+   "espn_id": "5447776",
+   "name": "Aminata Gueye",
+   "roster_dob": "2002-07-10",
+   "team": "129689"
+  },
+  "1054": {
+   "espn_id": "1054",
+   "name": "Tiffany Hayes",
+   "roster_dob": "1989-09-20",
+   "team": "129689"
+  },
+  "5277552": {
+   "espn_id": "5277552",
+   "name": "Juste Jocyte",
+   "roster_dob": "2005-11-19",
+   "team": "129689"
+  },
+  "4433634": {
+   "espn_id": "4433634",
+   "name": "Ashten Prechtel",
+   "roster_dob": "2001-05-11",
+   "team": "129689"
+  },
+  "4790263": {
+   "espn_id": "4790263",
+   "name": "Iliana Rupert",
+   "roster_dob": "2001-07-12",
+   "team": "129689"
+  },
+  "4790264": {
+   "espn_id": "4790264",
+   "name": "Janelle Salaun",
+   "roster_dob": "2001-09-05",
+   "team": "129689"
+  },
+  "4398577": {
+   "espn_id": "4398577",
+   "name": "Miela Sowah",
+   "roster_dob": "2000-06-04",
+   "team": "129689"
+  },
+  "2590093": {
+   "espn_id": "2590093",
+   "name": "Kiah Stokes",
+   "roster_dob": "1993-03-30",
+   "team": "129689"
+  },
+  "2529622": {
+   "espn_id": "2529622",
+   "name": "Kayla Thornton",
+   "roster_dob": "1992-10-20",
+   "team": "129689"
+  },
+  "3142328": {
+   "espn_id": "3142328",
+   "name": "Gabby Williams",
+   "roster_dob": "1996-09-09",
+   "team": "129689"
+  },
+  "4257500": {
+   "espn_id": "4257500",
+   "name": "Cecilia Zandalasini",
+   "roster_dob": "1996-03-16",
+   "team": "129689"
+  },
+  "3142255": {
+   "espn_id": "3142255",
+   "name": "Monique Billings",
+   "roster_dob": "1996-05-02",
+   "team": "5"
+  },
+  "4432831": {
+   "espn_id": "4432831",
+   "name": "Aliyah Boston",
+   "roster_dob": "2001-12-11",
+   "team": "5"
+  },
+  "4433403": {
+   "espn_id": "4433403",
+   "name": "Caitlin Clark",
+   "roster_dob": "2002-01-22",
+   "team": "5"
+  },
+  "3907781": {
+   "espn_id": "3907781",
+   "name": "Sophie Cunningham",
+   "roster_dob": "1996-08-16",
+   "team": "5"
+  },
+  "4898383": {
+   "espn_id": "4898383",
+   "name": "Bree Hall",
+   "roster_dob": "2003-06-28",
+   "team": "5"
+  },
+  "4065760": {
+   "espn_id": "4065760",
+   "name": "Tyasha Harris",
+   "roster_dob": "1998-05-01",
+   "team": "5"
+  },
+  "3142055": {
+   "espn_id": "3142055",
+   "name": "Myisha Hines-Allen",
+   "roster_dob": "1995-05-30",
+   "team": "5"
+  },
+  "4398829": {
+   "espn_id": "4398829",
+   "name": "Lexie Hull",
+   "roster_dob": "1999-09-13",
+   "team": "5"
+  },
+  "4433797": {
+   "espn_id": "4433797",
+   "name": "Raven Johnson",
+   "roster_dob": "2003-03-04",
+   "team": "5"
+  },
+  "3142191": {
+   "espn_id": "3142191",
+   "name": "Kelsey Mitchell",
+   "roster_dob": "1995-11-12",
+   "team": "5"
+  },
+  "4433744": {
+   "espn_id": "4433744",
+   "name": "Michelle Onyiah",
+   "roster_dob": "2003-03-12",
+   "team": "5"
+  },
+  "3056672": {
+   "espn_id": "3056672",
+   "name": "Mercedes Russell",
+   "roster_dob": "1995-07-27",
+   "team": "5"
+  },
+  "4433546": {
+   "espn_id": "4433546",
+   "name": "Makayla Timpson",
+   "roster_dob": "2002-09-20",
+   "team": "5"
+  },
+  "5105731": {
+   "espn_id": "5105731",
+   "name": "Grace VanSlooten",
+   "roster_dob": "2004-06-16",
+   "team": "5"
+  },
+  "4433633": {
+   "espn_id": "4433633",
+   "name": "Kierstan Bell",
+   "roster_dob": "2000-03-16",
+   "team": "17"
+  },
+  "3916514": {
+   "espn_id": "3916514",
+   "name": "Kalani Brown",
+   "roster_dob": "1997-03-21",
+   "team": "17"
+  },
+  "4281190": {
+   "espn_id": "4281190",
+   "name": "Dana Evans",
+   "roster_dob": "1998-08-01",
+   "team": "17"
+  },
+  "2529122": {
+   "espn_id": "2529122",
+   "name": "Chelsea Gray",
+   "roster_dob": "1992-10-08",
+   "team": "17"
+  },
+  "4609797": {
+   "espn_id": "4609797",
+   "name": "Ta'Niya Latson",
+   "roster_dob": "2003-12-26",
+   "team": "17"
+  },
+  "2987869": {
+   "espn_id": "2987869",
+   "name": "Jewell Loyd",
+   "roster_dob": "1993-10-05",
+   "team": "17"
+  },
+  "2529458": {
+   "espn_id": "2529458",
+   "name": "Cheyenne Parker-Tyus",
+   "roster_dob": "1992-08-22",
+   "team": "17"
+  },
+  "4682855": {
+   "espn_id": "4682855",
+   "name": "Justine Pissott",
+   "roster_dob": "2004-02-04",
+   "team": "17"
+  },
+  "4398776": {
+   "espn_id": "4398776",
+   "name": "NaLyssa Smith",
+   "roster_dob": "2000-08-08",
+   "team": "17"
+  },
+  "3099736": {
+   "espn_id": "3099736",
+   "name": "Stephanie Talbot",
+   "roster_dob": "1994-06-15",
+   "team": "17"
+  },
+  "3142086": {
+   "espn_id": "3142086",
+   "name": "Brianna Turner",
+   "roster_dob": "1996-07-05",
+   "team": "17"
+  },
+  "3149391": {
+   "espn_id": "3149391",
+   "name": "A'ja Wilson",
+   "roster_dob": "1996-08-08",
+   "team": "17"
+  },
+  "5220104": {
+   "espn_id": "5220104",
+   "name": "Mai Yamamoto",
+   "roster_dob": "1999-10-23",
+   "team": "17"
+  },
+  "4065870": {
+   "espn_id": "4065870",
+   "name": "Jackie Young",
+   "roster_dob": "1997-09-16",
+   "team": "17"
+  },
+  "5274110": {
+   "espn_id": "5274110",
+   "name": "Monique Akoa Makani",
+   "roster_dob": "2001-02-04",
+   "team": "6"
+  },
+  "3146151": {
+   "espn_id": "3146151",
+   "name": "Ariel Atkins",
+   "roster_dob": "1996-07-30",
+   "team": "6"
+  },
+  "4433404": {
+   "espn_id": "4433404",
+   "name": "Cameron Brink",
+   "roster_dob": "2001-12-31",
+   "team": "6"
+  },
+  "4398764": {
+   "espn_id": "4398764",
+   "name": "Rae Burrell",
+   "roster_dob": "2000-06-21",
+   "team": "6"
+  },
+  "2284331": {
+   "espn_id": "2284331",
+   "name": "Emma Cannon",
+   "roster_dob": "1989-06-01",
+   "team": "6"
+  },
+  "5105729": {
+   "espn_id": "5105729",
+   "name": "Chance Gray",
+   "roster_dob": "2004-07-06",
+   "team": "6"
+  },
+  "2566106": {
+   "espn_id": "2566106",
+   "name": "Dearica Hamby",
+   "roster_dob": "1993-11-06",
+   "team": "6"
+  },
+  "4565515": {
+   "espn_id": "4565515",
+   "name": "Tonie Morgan",
+   "roster_dob": "2004-07-16",
+   "team": "6"
+  },
+  "5106170": {
+   "espn_id": "5106170",
+   "name": "Ndjakalenga Mwenentanda",
+   "roster_dob": "2003-11-24",
+   "team": "6"
+  },
+  "4597509": {
+   "espn_id": "4597509",
+   "name": "Aaliyah Nye",
+   "roster_dob": "2002-08-14",
+   "team": "6"
+  },
+  "1068": {
+   "espn_id": "1068",
+   "name": "Nneka Ogwumike",
+   "roster_dob": "1990-07-02",
+   "team": "6"
+  },
+  "4874375": {
+   "espn_id": "4874375",
+   "name": "Jihyun Park",
+   "roster_dob": "2000-04-07",
+   "team": "6"
+  },
+  "4433808": {
+   "espn_id": "4433808",
+   "name": "Shyanne Sellers",
+   "roster_dob": "2003-04-24",
+   "team": "6"
+  },
+  "2491214": {
+   "espn_id": "2491214",
+   "name": "Erica Wheeler",
+   "roster_dob": "1991-05-02",
+   "team": "6"
+  },
+  "4280877": {
+   "espn_id": "4280877",
+   "name": "Chloe Bibby",
+   "roster_dob": "1998-06-15",
+   "team": "8"
+  },
+  "3054590": {
+   "espn_id": "3054590",
+   "name": "Nia Brodie",
+   "roster_dob": "1995-06-11",
+   "team": "8"
+  },
+  "5208984": {
+   "espn_id": "5208984",
+   "name": "Elena Buenavida",
+   "roster_dob": "2004-03-08",
+   "team": "8"
+  },
+  "4280850": {
+   "espn_id": "4280850",
+   "name": "Maya Caldwell",
+   "roster_dob": "1998-12-15",
+   "team": "8"
+  },
+  "3917450": {
+   "espn_id": "3917450",
+   "name": "Napheesa Collier",
+   "roster_dob": "1996-09-23",
+   "team": "8"
+  },
+  "4873358": {
+   "espn_id": "4873358",
+   "name": "Antonia Delaere",
+   "roster_dob": "1994-08-01",
+   "team": "8"
+  },
+  "2529130": {
+   "espn_id": "2529130",
+   "name": "Natasha Howard",
+   "roster_dob": "1991-09-02",
+   "team": "8"
+  },
+  "5345478": {
+   "espn_id": "5345478",
+   "name": "Eliska Joklova",
+   "roster_dob": "2001-10-01",
+   "team": "8"
+  },
+  "4398938": {
+   "espn_id": "4398938",
+   "name": "Dorka Juhasz",
+   "roster_dob": "1999-12-18",
+   "team": "8"
+  },
+  "4596309": {
+   "espn_id": "4596309",
+   "name": "Liatu King",
+   "roster_dob": "2002-02-10",
+   "team": "8"
+  },
+  "5278237": {
+   "espn_id": "5278237",
+   "name": "Anastasiia Olairi Kosu",
+   "roster_dob": "2005-04-21",
+   "team": "8"
+  },
+  "2529205": {
+   "espn_id": "2529205",
+   "name": "Kayla McBride",
+   "roster_dob": "1992-06-25",
+   "team": "8"
+  },
+  "4066553": {
+   "espn_id": "4066553",
+   "name": "Aari McDonald",
+   "roster_dob": "1998-08-20",
+   "team": "8"
+  },
+  "4433791": {
+   "espn_id": "4433791",
+   "name": "Olivia Miles",
+   "roster_dob": "2003-01-29",
+   "team": "8"
+  },
+  "2987891": {
+   "espn_id": "2987891",
+   "name": "Courtney Williams",
+   "roster_dob": "1994-05-11",
+   "team": "8"
+  },
+  "3102133": {
+   "espn_id": "3102133",
+   "name": "Rebecca Allen",
+   "roster_dob": "1992-11-06",
+   "team": "9"
+  },
+  "5345320": {
+   "espn_id": "5345320",
+   "name": "Pauline Astier",
+   "roster_dob": "2002-02-15",
+   "team": "9"
+  },
+  "4398589": {
+   "espn_id": "4398589",
+   "name": "Elizabeth Balogun",
+   "roster_dob": "2000-09-09",
+   "team": "9"
+  },
+  "4790258": {
+   "espn_id": "4790258",
+   "name": "Raquel Carrera",
+   "roster_dob": "2001-10-31",
+   "team": "9"
+  },
+  "4790260": {
+   "espn_id": "4790260",
+   "name": "Marine Fauthoux",
+   "roster_dob": "2001-01-23",
+   "team": "9"
+  },
+  "4683006": {
+   "espn_id": "4683006",
+   "name": "Leonie Fiebich",
+   "roster_dob": "2000-01-10",
+   "team": "9"
+  },
+  "2327695": {
+   "espn_id": "2327695",
+   "name": "Rebekah Gardner",
+   "roster_dob": "1990-07-09",
+   "team": "9"
+  },
+  "4066533": {
+   "espn_id": "4066533",
+   "name": "Sabrina Ionescu",
+   "roster_dob": "1997-12-06",
+   "team": "9"
+  },
+  "4038379": {
+   "espn_id": "4038379",
+   "name": "Marine Johannes",
+   "roster_dob": "1995-01-21",
+   "team": "9"
+  },
+  "2999101": {
+   "espn_id": "2999101",
+   "name": "Jonquel Jones",
+   "roster_dob": "1994-01-05",
+   "team": "9"
+  },
+  "4281930": {
+   "espn_id": "4281930",
+   "name": "Anneli Maley",
+   "roster_dob": "1998-09-01",
+   "team": "9"
+  },
+  "4281929": {
+   "espn_id": "4281929",
+   "name": "Satou Sabally",
+   "roster_dob": "1998-04-25",
+   "team": "9"
+  },
+  "4433416": {
+   "espn_id": "4433416",
+   "name": "Madison Scott",
+   "roster_dob": "2001-12-27",
+   "team": "9"
+  },
+  "2998928": {
+   "espn_id": "2998928",
+   "name": "Breanna Stewart",
+   "roster_dob": "1994-08-27",
+   "team": "9"
+  },
+  "4337216": {
+   "espn_id": "4337216",
+   "name": "Han Xu",
+   "roster_dob": "1999-10-31",
+   "team": "9"
+  },
+  "3919496": {
+   "espn_id": "3919496",
+   "name": "Valeriane Ayayi",
+   "roster_dob": "1994-04-29",
+   "team": "11"
+  },
+  "5345524": {
+   "espn_id": "5345524",
+   "name": "Noemie Brochant",
+   "roster_dob": "1999-10-25",
+   "team": "11"
+  },
+  "4688629": {
+   "espn_id": "4688629",
+   "name": "Shay Ciezki",
+   "roster_dob": "2003-11-26",
+   "team": "11"
+  },
+  "2998938": {
+   "espn_id": "2998938",
+   "name": "Kahleah Copper",
+   "roster_dob": "1994-08-28",
+   "team": "11"
+  },
+  "4698730": {
+   "espn_id": "4698730",
+   "name": "Kara Dunn",
+   "roster_dob": "2003-12-06",
+   "team": "11"
+  },
+  "4399342": {
+   "espn_id": "4399342",
+   "name": "Lexi Held",
+   "roster_dob": "1999-12-28",
+   "team": "11"
+  },
+  "4873359": {
+   "espn_id": "4873359",
+   "name": "Kyara Linskens",
+   "roster_dob": "1996-11-13",
+   "team": "11"
+  },
+  "4068042": {
+   "espn_id": "4068042",
+   "name": "Natasha Mack",
+   "roster_dob": "1997-11-03",
+   "team": "11"
+  },
+  "3906769": {
+   "espn_id": "3906769",
+   "name": "Jovana Nogic",
+   "roster_dob": "1997-12-17",
+   "team": "11"
+  },
+  "3065570": {
+   "espn_id": "3065570",
+   "name": "Kelsey Plum",
+   "roster_dob": "1994-08-24",
+   "team": "11"
+  },
+  "4433542": {
+   "espn_id": "4433542",
+   "name": "Saylor Poffenbarger",
+   "roster_dob": "2003-04-14",
+   "team": "11"
+  },
+  "4704594": {
+   "espn_id": "4704594",
+   "name": "Marta Suarez",
+   "roster_dob": "2002-05-07",
+   "team": "11"
+  },
+  "2529140": {
+   "espn_id": "2529140",
+   "name": "Alyssa Thomas",
+   "roster_dob": "1992-04-12",
+   "team": "11"
+  },
+  "4433424": {
+   "espn_id": "4433424",
+   "name": "Maddy Westbeld",
+   "roster_dob": "2002-02-10",
+   "team": "11"
+  },
+  "887": {
+   "espn_id": "887",
+   "name": "Sami Whitcomb",
+   "roster_dob": "1988-07-20",
+   "team": "11"
+  },
+  "4703794": {
+   "espn_id": "4703794",
+   "name": "Sarah Ashlee Barker",
+   "roster_dob": "2001-09-10",
+   "team": "132052"
+  },
+  "5105406": {
+   "espn_id": "5105406",
+   "name": "Frieda Buhner",
+   "roster_dob": "2004-05-28",
+   "team": "132052"
+  },
+  "3906972": {
+   "espn_id": "3906972",
+   "name": "Bridget Carleton",
+   "roster_dob": "1997-05-22",
+   "team": "132052"
+  },
+  "3934218": {
+   "espn_id": "3934218",
+   "name": "Megan DiLeo",
+   "roster_dob": "1996-12-13",
+   "team": "132052"
+  },
+  "4398729": {
+   "espn_id": "4398729",
+   "name": "Emily Engstler",
+   "roster_dob": "2000-05-01",
+   "team": "132052"
+  },
+  "4433795": {
+   "espn_id": "4433795",
+   "name": "Sania Feagin",
+   "roster_dob": "2003-03-15",
+   "team": "132052"
+  },
+  "4682797": {
+   "espn_id": "4682797",
+   "name": "Luisa Geiselsoder",
+   "roster_dob": "2000-02-10",
+   "team": "132052"
+  },
+  "5108051": {
+   "espn_id": "5108051",
+   "name": "Jordan Harrison",
+   "roster_dob": "2004-04-26",
+   "team": "132052"
+  },
+  "5208982": {
+   "espn_id": "5208982",
+   "name": "Carla Leite",
+   "roster_dob": "2004-04-16",
+   "team": "132052"
+  },
+  "5346554": {
+   "espn_id": "5346554",
+   "name": "Teja Oblak",
+   "roster_dob": "1990-12-20",
+   "team": "132052"
+  },
+  "3142242": {
+   "espn_id": "3142242",
+   "name": "Amy Okonkwo",
+   "roster_dob": "1996-08-26",
+   "team": "132052"
+  },
+  "4433293": {
+   "espn_id": "4433293",
+   "name": "Charisma Osborne",
+   "roster_dob": "2001-07-03",
+   "team": "132052"
+  },
+  "5209202": {
+   "espn_id": "5209202",
+   "name": "Nyadiew Puoch",
+   "roster_dob": "2004-06-23",
+   "team": "132052"
+  },
+  "3056730": {
+   "espn_id": "3056730",
+   "name": "Karlie Samuelson",
+   "roster_dob": "1995-05-10",
+   "team": "132052"
+  },
+  "5108550": {
+   "espn_id": "5108550",
+   "name": "Serah Williams",
+   "roster_dob": "2004-01-17",
+   "team": "132052"
+  },
+  "4433690": {
+   "espn_id": "4433690",
+   "name": "Holly Winterburn",
+   "roster_dob": "2000-10-01",
+   "team": "132052"
+  },
+  "4432832": {
+   "espn_id": "4432832",
+   "name": "Zia Cooke",
+   "roster_dob": "2001-01-09",
+   "team": "14"
+  },
+  "2529183": {
+   "espn_id": "2529183",
+   "name": "Stefanie Dolson",
+   "roster_dob": "1992-01-08",
+   "team": "14"
+  },
+  "5345325": {
+   "espn_id": "5345325",
+   "name": "Awa Fam",
+   "roster_dob": "2006-06-17",
+   "team": "14"
+  },
+  "3906753": {
+   "espn_id": "3906753",
+   "name": "Natisha Hiedeman",
+   "roster_dob": "1997-02-10",
+   "team": "14"
+  },
+  "4433643": {
+   "espn_id": "4433643",
+   "name": "Mackenzie Holmes",
+   "roster_dob": "2000-11-01",
+   "team": "14"
+  },
+  "4432830": {
+   "espn_id": "4432830",
+   "name": "Jordan Horston",
+   "roster_dob": "2001-05-21",
+   "team": "14"
+  },
+  "4698736": {
+   "espn_id": "4698736",
+   "name": "Flau'jae Johnson",
+   "roster_dob": "2003-11-03",
+   "team": "14"
+  },
+  "4420318": {
+   "espn_id": "4420318",
+   "name": "Ezi Magbegor",
+   "roster_dob": "1999-08-13",
+   "team": "14"
+  },
+  "5106222": {
+   "espn_id": "5106222",
+   "name": "Taina Mair",
+   "roster_dob": "2003-11-20",
+   "team": "14"
+  },
+  "5220150": {
+   "espn_id": "5220150",
+   "name": "Dominique Malonga",
+   "roster_dob": "2005-11-16",
+   "team": "14"
+  },
+  "5017726": {
+   "espn_id": "5017726",
+   "name": "Jade Melbourne",
+   "roster_dob": "2002-08-18",
+   "team": "14"
+  },
+  "3917453": {
+   "espn_id": "3917453",
+   "name": "Katie Lou Samuelson",
+   "roster_dob": "1997-06-13",
+   "team": "14"
+  },
+  "4433386": {
+   "espn_id": "4433386",
+   "name": "Jaylyn Sherrod",
+   "roster_dob": "2001-10-21",
+   "team": "14"
+  },
+  "4898400": {
+   "espn_id": "4898400",
+   "name": "Taylor Thierry",
+   "roster_dob": "2003-01-08",
+   "team": "14"
+  },
+  "4001679": {
+   "espn_id": "4001679",
+   "name": "Julie Allemand",
+   "roster_dob": "1996-07-07",
+   "team": "131935"
+  },
+  "5364343": {
+   "espn_id": "5364343",
+   "name": "Ornella Bankole",
+   "roster_dob": "1997-09-17",
+   "team": "131935"
+  },
+  "5017605": {
+   "espn_id": "5017605",
+   "name": "Kamila Borkowska",
+   "roster_dob": "2002-06-26",
+   "team": "131935"
+  },
+  "3910470": {
+   "espn_id": "3910470",
+   "name": "Maria Conde",
+   "roster_dob": "1997-01-14",
+   "team": "131935"
+  },
+  "2569044": {
+   "espn_id": "2569044",
+   "name": "Temi Fagbenle",
+   "roster_dob": "1992-09-08",
+   "team": "131935"
+  },
+  "4898548": {
+   "espn_id": "4898548",
+   "name": "Maria Gakdeng",
+   "roster_dob": "2003-06-09",
+   "team": "131935"
+  },
+  "4398766": {
+   "espn_id": "4398766",
+   "name": "Zaay Green",
+   "roster_dob": "2000-03-25",
+   "team": "131935"
+  },
+  "2566453": {
+   "espn_id": "2566453",
+   "name": "Isabelle Harrison",
+   "roster_dob": "1993-09-27",
+   "team": "131935"
+  },
+  "5345444": {
+   "espn_id": "5345444",
+   "name": "Laura Juskaite",
+   "roster_dob": "1997-09-22",
+   "team": "131935"
+  },
+  "4434020": {
+   "espn_id": "4434020",
+   "name": "Teonni Key",
+   "roster_dob": "2003-07-10",
+   "team": "131935"
+  },
+  "3904576": {
+   "espn_id": "3904576",
+   "name": "Marina Mabrey",
+   "roster_dob": "1996-09-14",
+   "team": "131935"
+  },
+  "4684384": {
+   "espn_id": "4684384",
+   "name": "Aneesah Morrow",
+   "roster_dob": "2003-02-02",
+   "team": "131935"
+  },
+  "3142327": {
+   "espn_id": "3142327",
+   "name": "Kia Nurse",
+   "roster_dob": "1996-02-22",
+   "team": "131935"
+  },
+  "4565505": {
+   "espn_id": "4565505",
+   "name": "Kiki Rice",
+   "roster_dob": "2004-01-14",
+   "team": "131935"
+  },
+  "4398768": {
+   "espn_id": "4398768",
+   "name": "Nyara Sabally",
+   "roster_dob": "2000-02-26",
+   "team": "131935"
+  },
+  "2988756": {
+   "espn_id": "2988756",
+   "name": "Brittney Sykes",
+   "roster_dob": "1994-02-07",
+   "team": "131935"
+  },
+  "4704180": {
+   "espn_id": "4704180",
+   "name": "Georgia Amoore",
+   "roster_dob": "2001-04-03",
+   "team": "16"
+  },
+  "4398911": {
+   "espn_id": "4398911",
+   "name": "Shakira Austin",
+   "roster_dob": "2000-07-25",
+   "team": "16"
+  },
+  "5105737": {
+   "espn_id": "5105737",
+   "name": "Lauren Betts",
+   "roster_dob": "2003-10-15",
+   "team": "16"
+  },
+  "4433524": {
+   "espn_id": "4433524",
+   "name": "Sonia Citron",
+   "roster_dob": "2003-10-22",
+   "team": "16"
+  },
+  "4433411": {
+   "espn_id": "4433411",
+   "name": "Angela Dugalic",
+   "roster_dob": "2001-12-29",
+   "team": "16"
+  },
+  "5208985": {
+   "espn_id": "5208985",
+   "name": "Alicia Florez",
+   "roster_dob": "2004-04-19",
+   "team": "16"
+  },
+  "4433523": {
+   "espn_id": "4433523",
+   "name": "Rori Harmon",
+   "roster_dob": "2003-01-29",
+   "team": "16"
+  },
+  "4898384": {
+   "espn_id": "4898384",
+   "name": "Kiki Iriafen",
+   "roster_dob": "2003-08-26",
+   "team": "16"
+  },
+  "2593770": {
+   "espn_id": "2593770",
+   "name": "Betnijah Laney-Hamilton",
+   "roster_dob": "1993-10-29",
+   "team": "16"
+  },
+  "5106145": {
+   "espn_id": "5106145",
+   "name": "Darianna Littlepage-Buggs",
+   "roster_dob": "2003-09-23",
+   "team": "16"
+  },
+  "4583144": {
+   "espn_id": "4583144",
+   "name": "Cotie McMahon",
+   "roster_dob": "2004-05-04",
+   "team": "16"
+  },
+  "4433815": {
+   "espn_id": "4433815",
+   "name": "Lucy Olsen",
+   "roster_dob": "2003-05-26",
+   "team": "16"
+  },
+  "4282173": {
+   "espn_id": "4282173",
+   "name": "Michaela Onyenwere",
+   "roster_dob": "1999-08-10",
+   "team": "16"
+  },
+  "5122345": {
+   "espn_id": "5122345",
+   "name": "Cassandre Prosper",
+   "roster_dob": "2005-06-25",
+   "team": "16"
+  }
+ },
+ "fetch_log": [
+  {
+   "team": "20",
+   "ts": "2026-10-15T22:46:38.227548+00:00",
+   "status": "ok",
+   "n": 14
+  },
+  {
+   "team": "19",
+   "ts": "2026-10-15T22:46:42.019548+00:00",
+   "status": "ok",
+   "n": 15
+  },
+  {
+   "team": "18",
+   "ts": "2026-10-15T22:46:45.765431+00:00",
+   "status": "ok",
+   "n": 14
+  },
+  {
+   "team": "3",
+   "ts": "2026-10-15T22:46:50.630855+00:00",
+   "status": "ok",
+   "n": 16
+  },
+  {
+   "team": "129689",
+   "ts": "2026-10-15T22:46:55.299516+00:00",
+   "status": "ok",
+   "n": 15
+  },
+  {
+   "team": "5",
+   "ts": "2026-10-15T22:47:00.380434+00:00",
+   "status": "ok",
+   "n": 14
+  },
+  {
+   "team": "17",
+   "ts": "2026-10-15T22:47:04.494533+00:00",
+   "status": "ok",
+   "n": 14
+  },
+  {
+   "team": "6",
+   "ts": "2026-10-15T22:47:08.508041+00:00",
+   "status": "ok",
+   "n": 14
+  },
+  {
+   "team": "8",
+   "ts": "2026-10-15T22:47:12.732437+00:00",
+   "status": "ok",
+   "n": 15
+  },
+  {
+   "team": "9",
+   "ts": "2026-10-15T22:47:17.653179+00:00",
+   "status": "ok",
+   "n": 15
+  },
+  {
+   "team": "11",
+   "ts": "2026-10-15T22:47:22.750483+00:00",
+   "status": "ok",
+   "n": 15
+  },
+  {
+   "team": "132052",
+   "ts": "2026-10-15T22:47:29.213564+00:00",
+   "status": "ok",
+   "n": 16
+  },
+  {
+   "team": "14",
+   "ts": "2026-10-15T22:47:33.870832+00:00",
+   "status": "ok",
+   "n": 14
+  },
+  {
+   "team": "131935",
+   "ts": "2026-10-15T22:47:37.853525+00:00",
+   "status": "ok",
+   "n": 16
+  },
+  {
+   "team": "16",
+   "ts": "2026-10-15T22:47:43.604655+00:00",
+   "status": "ok",
+   "n": 14
+  }
+ ]
+}

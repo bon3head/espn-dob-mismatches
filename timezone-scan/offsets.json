@@ -1,0 +1,5189 @@
+{
+ "Q100243211": {
+  "offset": -6,
+  "place": "Centreville",
+  "country": "United States",
+  "lon": -90.1039,
+  "method": "country+lon"
+ },
+ "Q100268254": {
+  "offset": -5,
+  "place": "Fayetteville",
+  "country": "United States",
+  "lon": -84.461666666,
+  "method": "country+lon"
+ },
+ "Q100744432": {
+  "offset": -5,
+  "place": "Toronto",
+  "country": "Canada",
+  "lon": -79.386666666,
+  "method": "country+lon"
+ },
+ "Q100746620": {
+  "offset": -6,
+  "place": "Nashville",
+  "country": "United States",
+  "lon": -86.774444444,
+  "method": "country+lon"
+ },
+ "Q100752182": {
+  "offset": -5,
+  "place": "Concord",
+  "country": "United States",
+  "lon": -80.6006,
+  "method": "country+lon"
+ },
+ "Q100756612": {
+  "offset": -8,
+  "place": "Seaside",
+  "country": "United States",
+  "lon": -121.844722222,
+  "method": "country+lon"
+ },
+ "Q100759022": {
+  "offset": -6,
+  "place": "Burlington",
+  "country": "United States",
+  "lon": -95.7456,
+  "method": "country+lon"
+ },
+ "Q100762367": {
+  "offset": -6,
+  "place": "Huntsville",
+  "country": "United States",
+  "lon": -86.586111111,
+  "method": "country+lon"
+ },
+ "Q100766917": {
+  "offset": -5,
+  "place": "Pontiac",
+  "country": "United States",
+  "lon": -83.2925,
+  "method": "country+lon"
+ },
+ "Q100767165": {
+  "offset": 1,
+  "place": "Brussels",
+  "country": "Belgium",
+  "lon": 4.351666666,
+  "method": "country"
+ },
+ "Q100767691": {
+  "offset": -7,
+  "place": "South Jordan",
+  "country": "United States",
+  "lon": -111.960833333,
+  "method": "country+lon"
+ },
+ "Q100768560": {
+  "offset": -5,
+  "place": "Pembroke Pines",
+  "country": "United States",
+  "lon": -80.313611111,
+  "method": "country+lon"
+ },
+ "Q100768908": {
+  "offset": -5,
+  "place": "Staten Island",
+  "country": "United States",
+  "lon": -74.146944444,
+  "method": "country+lon"
+ },
+ "Q100768909": {
+  "offset": -5,
+  "place": "Staten Island",
+  "country": "United States",
+  "lon": -74.146944444,
+  "method": "country+lon"
+ },
+ "Q100777931": {
+  "offset": -6,
+  "place": "Plainfield",
+  "country": "United States",
+  "lon": -88.2028,
+  "method": "country+lon"
+ },
+ "Q100783235": {
+  "offset": -5,
+  "place": "Upper Marlboro",
+  "country": "United States",
+  "lon": -76.753333333,
+  "method": "country+lon"
+ },
+ "Q100783911": {
+  "offset": -5,
+  "place": "Providence",
+  "country": "United States",
+  "lon": -71.41283,
+  "method": "country+lon"
+ },
+ "Q100785250": {
+  "offset": -8,
+  "place": "Glendale",
+  "country": "United States",
+  "lon": -118.25,
+  "method": "country+lon"
+ },
+ "Q100800048": {
+  "offset": -8,
+  "place": "San Bernardino",
+  "country": "United States",
+  "lon": -117.292222222,
+  "method": "country+lon"
+ },
+ "Q100807991": {
+  "offset": -5,
+  "place": "Wilmington",
+  "country": "United States",
+  "lon": -75.551388888,
+  "method": "country+lon"
+ },
+ "Q100818328": {
+  "offset": -8,
+  "place": "Los Angeles",
+  "country": "United States",
+  "lon": -118.24368,
+  "method": "country+lon"
+ },
+ "Q100830053": {
+  "offset": -6,
+  "place": "Birmingham",
+  "country": "United States",
+  "lon": -86.809444444,
+  "method": "country+lon"
+ },
+ "Q100831053": {
+  "offset": -6,
+  "place": "Dallas",
+  "country": "United States",
+  "lon": -96.808888888,
+  "method": "country+lon"
+ },
+ "Q100863058": {
+  "offset": -6,
+  "place": "Roeland Park",
+  "country": "United States",
+  "lon": -94.6392,
+  "method": "country+lon"
+ },
+ "Q100872164": {
+  "offset": 1,
+  "place": "Douala",
+  "country": "Cameroon",
+  "lon": 9.7,
+  "method": "country"
+ },
+ "Q100874540": {
+  "offset": -8,
+  "place": "Pasadena",
+  "country": "United States",
+  "lon": -118.143888888,
+  "method": "country+lon"
+ },
+ "Q100880225": {
+  "offset": -6,
+  "place": "Cottage Grove",
+  "country": "United States",
+  "lon": -92.943888888,
+  "method": "country+lon"
+ },
+ "Q100881311": {
+  "offset": -5,
+  "place": "Cincinnati",
+  "country": "United States",
+  "lon": -84.5125,
+  "method": "country+lon"
+ },
+ "Q100884789": {
+  "offset": -8,
+  "place": "Anaheim",
+  "country": "United States",
+  "lon": -117.889722222,
+  "method": "country+lon"
+ },
+ "Q100885338": {
+  "offset": -5,
+  "place": "Hinesville",
+  "country": "United States",
+  "lon": -81.6117,
+  "method": "country+lon"
+ },
+ "Q100889412": {
+  "offset": -5,
+  "place": "Durham",
+  "country": "United States",
+  "lon": -78.898611111,
+  "method": "country+lon"
+ },
+ "Q100894129": {
+  "offset": 1,
+  "place": "Benin City",
+  "country": "Nigeria",
+  "lon": 5.6145,
+  "method": "country"
+ },
+ "Q100901254": {
+  "offset": -8,
+  "place": "Portland",
+  "country": "United States",
+  "lon": -122.679166666,
+  "method": "country+lon"
+ },
+ "Q100901501": {
+  "offset": -5,
+  "place": "Philadelphia",
+  "country": "United States",
+  "lon": -75.163611111,
+  "method": "country+lon"
+ },
+ "Q100903059": {
+  "offset": 1,
+  "place": "Amsterdam",
+  "country": "Netherlands",
+  "lon": 4.883333333,
+  "method": "country"
+ },
+ "Q100903226": {
+  "offset": -5,
+  "place": "Mentor",
+  "country": "United States",
+  "lon": -81.341944444,
+  "method": "country+lon"
+ },
+ "Q100909225": {
+  "offset": -6,
+  "place": "Newark",
+  "country": "United States",
+  "lon": -91.444722222,
+  "method": "country+lon"
+ },
+ "Q100917336": {
+  "offset": -8,
+  "place": "Las Vegas",
+  "country": "United States",
+  "lon": -115.148611111,
+  "method": "country+lon"
+ },
+ "Q100917521": {
+  "offset": -6,
+  "place": "Minneapolis",
+  "country": "United States",
+  "lon": -93.269166666,
+  "method": "country+lon"
+ },
+ "Q100919920": {
+  "offset": -6,
+  "place": "Dallas",
+  "country": "United States",
+  "lon": -96.808888888,
+  "method": "country+lon"
+ },
+ "Q100920277": {
+  "offset": -6,
+  "place": "Hastings",
+  "country": "United States",
+  "lon": -98.391666666,
+  "method": "country+lon"
+ },
+ "Q100921874": {
+  "offset": -6,
+  "place": "Chicago",
+  "country": "United States",
+  "lon": -87.627777777,
+  "method": "country+lon"
+ },
+ "Q100922242": {
+  "offset": -5,
+  "place": "Atlanta",
+  "country": "United States",
+  "lon": -84.389722222,
+  "method": "country+lon"
+ },
+ "Q100923193": {
+  "offset": -6,
+  "place": "Minneapolis",
+  "country": "United States",
+  "lon": -93.269166666,
+  "method": "country+lon"
+ },
+ "Q100923648": {
+  "offset": -5,
+  "place": "Summerville",
+  "country": "United States",
+  "lon": -80.17565,
+  "method": "country+lon"
+ },
+ "Q100924114": {
+  "offset": -6,
+  "place": "Evansville",
+  "country": "United States",
+  "lon": -87.555833333,
+  "method": "country+lon"
+ },
+ "Q100925863": {
+  "offset": -5,
+  "place": "Davidsonville",
+  "country": "United States",
+  "lon": -76.6283,
+  "method": "country+lon"
+ },
+ "Q100925911": {
+  "offset": -5,
+  "place": "Davidsonville",
+  "country": "United States",
+  "lon": -76.6283,
+  "method": "country+lon"
+ },
+ "Q100944690": {
+  "offset": -6,
+  "place": "Richardson",
+  "country": "United States",
+  "lon": -96.729722222,
+  "method": "country+lon"
+ },
+ "Q100949112": {
+  "offset": 1,
+  "place": "Frankfurt",
+  "country": "Germany",
+  "lon": 8.682222222,
+  "method": "country"
+ },
+ "Q1022508": {
+  "offset": -6,
+  "place": "Dallas",
+  "country": "United States",
+  "lon": -96.808888888,
+  "method": "country+lon"
+ },
+ "Q10345662": {
+  "offset": -8,
+  "place": "Mission Hills",
+  "country": "United States",
+  "lon": -120.43611,
+  "method": "country+lon"
+ },
+ "Q10516040": {
+  "offset": -5,
+  "place": "Columbus",
+  "country": "United States",
+  "lon": -83.000555555,
+  "method": "country+lon"
+ },
+ "Q100949184": {
+  "offset": -6,
+  "place": "Norman",
+  "country": "United States",
+  "lon": -97.443611111,
+  "method": "country+lon"
+ },
+ "Q100956580": {
+  "offset": -6,
+  "place": "Milwaukee",
+  "country": "United States",
+  "lon": -87.95,
+  "method": "country+lon"
+ },
+ "Q100957464": {
+  "offset": -7,
+  "place": "Denver",
+  "country": "United States",
+  "lon": -104.984722222,
+  "method": "country+lon"
+ },
+ "Q100958543": {
+  "offset": -5,
+  "place": "Toledo",
+  "country": "United States",
+  "lon": -83.537777777,
+  "method": "country+lon"
+ },
+ "Q100959608": {
+  "offset": -6,
+  "place": "Dallas",
+  "country": "United States",
+  "lon": -96.808888888,
+  "method": "country+lon"
+ },
+ "Q100983694": {
+  "offset": -6,
+  "place": "Northport",
+  "country": "United States",
+  "lon": -87.592222222,
+  "method": "country+lon"
+ },
+ "Q100987066": {
+  "offset": -8,
+  "place": "Encino",
+  "country": "United States",
+  "lon": -118.500280555,
+  "method": "country+lon"
+ },
+ "Q103497700": {
+  "offset": -5,
+  "place": "Greenville",
+  "country": "United States",
+  "lon": -77.3725,
+  "method": "country+lon"
+ },
+ "Q104081164": {
+  "offset": -5,
+  "place": "Detroit",
+  "country": "United States",
+  "lon": -83.0475,
+  "method": "country+lon"
+ },
+ "Q104621930": {
+  "offset": -6,
+  "place": "Guymon",
+  "country": "United States",
+  "lon": -101.479444444,
+  "method": "country+lon"
+ },
+ "Q104698929": {
+  "offset": -5,
+  "place": "Sharon Hill",
+  "country": "United States",
+  "lon": -75.2711,
+  "method": "country+lon"
+ },
+ "Q105013647": {
+  "offset": -5,
+  "place": "Montreal",
+  "country": "Canada",
+  "lon": -73.5868411,
+  "method": "country+lon"
+ },
+ "Q105925605": {
+  "offset": 1,
+  "place": "Ans",
+  "country": "Belgium",
+  "lon": 5.52,
+  "method": "country"
+ },
+ "Q106123797": {
+  "offset": -5,
+  "place": "Mississauga",
+  "country": "Canada",
+  "lon": -79.65,
+  "method": "country+lon"
+ },
+ "Q106328397": {
+  "offset": 0,
+  "place": "Leicester",
+  "country": "United Kingdom",
+  "lon": -1.133055555,
+  "method": "country"
+ },
+ "Q106486426": {
+  "offset": -5,
+  "place": "Atlanta",
+  "country": "United States",
+  "lon": -84.389722222,
+  "method": "country+lon"
+ },
+ "Q106641631": {
+  "offset": -8,
+  "place": "Beverly Hills",
+  "country": "United States",
+  "lon": -118.399444444,
+  "method": "country+lon"
+ },
+ "Q106782830": {
+  "offset": -5,
+  "place": "Pontiac",
+  "country": "United States",
+  "lon": -83.2925,
+  "method": "country+lon"
+ },
+ "Q106804749": {
+  "offset": -6,
+  "place": "Omaha",
+  "country": "United States",
+  "lon": -95.9375,
+  "method": "country+lon"
+ },
+ "Q106817948": {
+  "offset": -5,
+  "place": "Augusta",
+  "country": "United States",
+  "lon": -81.975,
+  "method": "country+lon"
+ },
+ "Q106817954": {
+  "offset": -8,
+  "place": "Las Vegas",
+  "country": "United States",
+  "lon": -115.148611111,
+  "method": "country+lon"
+ },
+ "Q106817973": {
+  "offset": -5,
+  "place": "Toronto",
+  "country": "Canada",
+  "lon": -79.386666666,
+  "method": "country+lon"
+ },
+ "Q106817980": {
+  "offset": -5,
+  "place": "Eustis",
+  "country": "United States",
+  "lon": -81.681944444,
+  "method": "country+lon"
+ },
+ "Q106818050": {
+  "offset": -6,
+  "place": "South Bend",
+  "country": "United States",
+  "lon": -86.250277777,
+  "method": "country+lon"
+ },
+ "Q106818127": {
+  "offset": -5,
+  "place": "Trenton",
+  "country": "United States",
+  "lon": -74.765833333,
+  "method": "country+lon"
+ },
+ "Q106818128": {
+  "offset": -5,
+  "place": "Portsmouth",
+  "country": "United States",
+  "lon": -76.29827,
+  "method": "country+lon"
+ },
+ "Q106818157": {
+  "offset": -7,
+  "place": "Colorado Springs",
+  "country": "United States",
+  "lon": -104.791944444,
+  "method": "country+lon"
+ },
+ "Q106818165": {
+  "offset": -5,
+  "place": "Sugar Hill",
+  "country": "United States",
+  "lon": -84.044166666,
+  "method": "country+lon"
+ },
+ "Q106818169": {
+  "offset": -5,
+  "place": "Montreal",
+  "country": "Canada",
+  "lon": -73.5868411,
+  "method": "country+lon"
+ },
+ "Q106818294": {
+  "offset": -6,
+  "place": "Cedar Rapids",
+  "country": "United States",
+  "lon": -91.668611111,
+  "method": "country+lon"
+ },
+ "Q106818507": {
+  "offset": -6,
+  "place": "Austin",
+  "country": "United States",
+  "lon": -97.733333333,
+  "method": "country+lon"
+ },
+ "Q106818559": {
+  "offset": -6,
+  "place": "St. Louis",
+  "country": "United States",
+  "lon": -90.199444444,
+  "method": "country+lon"
+ },
+ "Q106818582": {
+  "offset": -7,
+  "place": "Mesa",
+  "country": "United States",
+  "lon": -111.831388888,
+  "method": "country+lon"
+ },
+ "Q106818762": {
+  "offset": -8,
+  "place": "Spring Valley",
+  "country": "United States",
+  "lon": -122.596,
+  "method": "country+lon"
+ },
+ "Q106818866": {
+  "offset": -5,
+  "place": "Durham",
+  "country": "United States",
+  "lon": -78.898611111,
+  "method": "country+lon"
+ },
+ "Q106818889": {
+  "offset": -6,
+  "place": "Wichita",
+  "country": "United States",
+  "lon": -97.336111111,
+  "method": "country+lon"
+ },
+ "Q106819050": {
+  "offset": 1,
+  "place": "Munich",
+  "country": "Germany",
+  "lon": 11.575,
+  "method": "country"
+ },
+ "Q106819078": {
+  "offset": -5,
+  "place": "Mississauga",
+  "country": "Canada",
+  "lon": -79.65,
+  "method": "country+lon"
+ },
+ "Q106819095": {
+  "offset": 1,
+  "place": "Nacka",
+  "country": "Sweden",
+  "lon": 18.163889,
+  "method": "country"
+ },
+ "Q106928080": {
+  "offset": -5,
+  "place": "Marietta",
+  "country": "United States",
+  "lon": -84.540555555,
+  "method": "country+lon"
+ },
+ "Q107093740": {
+  "offset": -3,
+  "place": "Bras\u00edlia",
+  "country": "Brazil",
+  "lon": -47.882777777,
+  "method": "country+lon"
+ },
+ "Q107295154": {
+  "offset": -6,
+  "place": "Dallas",
+  "country": "United States",
+  "lon": -96.808888888,
+  "method": "country+lon"
+ },
+ "Q107302659": {
+  "offset": -6,
+  "place": "Arlington Heights",
+  "country": "United States",
+  "lon": -87.980833333,
+  "method": "country+lon"
+ },
+ "Q107308380": {
+  "offset": 10,
+  "place": "Bendigo",
+  "country": "Australia",
+  "lon": 144.266666666,
+  "method": "country+lon"
+ },
+ "Q107354848": {
+  "offset": -6,
+  "place": "La Crosse",
+  "country": "United States",
+  "lon": -91.233055555,
+  "method": "country+lon"
+ },
+ "Q107369667": {
+  "offset": -5,
+  "place": "Pendleton",
+  "country": "United States",
+  "lon": -82.780833333,
+  "method": "country+lon"
+ },
+ "Q108435173": {
+  "offset": -5,
+  "place": "London",
+  "country": "Canada",
+  "lon": -81.2497,
+  "method": "country+lon"
+ },
+ "Q115915": {
+  "offset": 1,
+  "place": "Tuzla",
+  "country": "Bosnia and Herzegovina",
+  "lon": 18.675193,
+  "method": "country"
+ },
+ "Q10862660": {
+  "offset": 1,
+  "place": "Brunswick",
+  "country": "Germany",
+  "lon": 10.521111111,
+  "method": "country"
+ },
+ "Q108435545": {
+  "offset": -5,
+  "place": "Hickory",
+  "country": "United States",
+  "lon": -81.328333333,
+  "method": "country+lon"
+ },
+ "Q108459600": {
+  "offset": -5,
+  "place": "Cumberland",
+  "country": "United States",
+  "lon": -71.432777777,
+  "method": "country+lon"
+ },
+ "Q108576613": {
+  "offset": -6,
+  "place": "Lewisville",
+  "country": "United States",
+  "lon": -97.0061,
+  "method": "country+lon"
+ },
+ "Q108756368": {
+  "offset": 1,
+  "place": "Saint-Maurice",
+  "country": "France",
+  "lon": 2.434722222,
+  "method": "country"
+ },
+ "Q109669843": {
+  "offset": 1,
+  "place": "M\u00e1laga",
+  "country": "Spain",
+  "lon": -4.416666666,
+  "method": "country"
+ },
+ "Q110278938": {
+  "offset": -5,
+  "place": "Aurora",
+  "country": "Canada",
+  "lon": -79.466666666,
+  "method": "country+lon"
+ },
+ "Q111022872": {
+  "offset": -5,
+  "place": "Columbus",
+  "country": "United States",
+  "lon": -83.000555555,
+  "method": "country+lon"
+ },
+ "Q111231195": {
+  "offset": -5,
+  "place": "Philadelphia",
+  "country": "United States",
+  "lon": -75.163611111,
+  "method": "country+lon"
+ },
+ "Q111231664": {
+  "offset": -5,
+  "place": "Middletown",
+  "country": "United States",
+  "lon": -72.651111111,
+  "method": "country+lon"
+ },
+ "Q111511684": {
+  "offset": 1,
+  "place": "Fr\u00e4schels",
+  "country": "Switzerland",
+  "lon": 7.2,
+  "method": "country"
+ },
+ "Q111942676": {
+  "offset": -6,
+  "place": "Jacksonville",
+  "country": "United States",
+  "lon": -92.115277777,
+  "method": "country+lon"
+ },
+ "Q112277896": {
+  "offset": -6,
+  "place": "Wichita",
+  "country": "United States",
+  "lon": -97.336111111,
+  "method": "country+lon"
+ },
+ "Q112573170": {
+  "offset": -5,
+  "place": "Boca Raton",
+  "country": "United States",
+  "lon": -80.1,
+  "method": "country+lon"
+ },
+ "Q112581331": {
+  "offset": -5,
+  "place": "Detroit",
+  "country": "United States",
+  "lon": -83.0475,
+  "method": "country+lon"
+ },
+ "Q112625459": {
+  "offset": -5,
+  "place": "Dumont",
+  "country": "United States",
+  "lon": -73.9924,
+  "method": "country+lon"
+ },
+ "Q112687854": {
+  "offset": -6,
+  "place": "Fort Smith",
+  "country": "United States",
+  "lon": -94.366666666,
+  "method": "country+lon"
+ },
+ "Q112724651": {
+  "offset": -5,
+  "place": "Scarborough",
+  "country": "Canada",
+  "lon": -79.2446,
+  "method": "country+lon"
+ },
+ "Q113240286": {
+  "offset": -5,
+  "place": "Odenton",
+  "country": "United States",
+  "lon": -76.6997,
+  "method": "country+lon"
+ },
+ "Q114413486": {
+  "offset": -8,
+  "place": "Oakland",
+  "country": "United States",
+  "lon": -122.25,
+  "method": "country+lon"
+ },
+ "Q114414145": {
+  "offset": -6,
+  "place": "Dallas",
+  "country": "United States",
+  "lon": -96.808888888,
+  "method": "country+lon"
+ },
+ "Q114426424": {
+  "offset": 1,
+  "place": "Strasbourg",
+  "country": "France",
+  "lon": 7.752222222,
+  "method": "country"
+ },
+ "Q114433117": {
+  "offset": -8,
+  "place": "Oakland",
+  "country": "United States",
+  "lon": -122.25,
+  "method": "country+lon"
+ },
+ "Q114453793": {
+  "offset": 1,
+  "place": "Madrid",
+  "country": "Spain",
+  "lon": -3.703333333,
+  "method": "country"
+ },
+ "Q114655492": {
+  "offset": -5,
+  "place": "Baltimore",
+  "country": "United States",
+  "lon": -76.615,
+  "method": "country+lon"
+ },
+ "Q115492038": {
+  "offset": -5,
+  "place": "Newport",
+  "country": "United States",
+  "lon": -69.273888888,
+  "method": "country+lon"
+ },
+ "Q115492041": {
+  "offset": -6,
+  "place": "Overland Park",
+  "country": "United States",
+  "lon": -94.680697222,
+  "method": "country+lon"
+ },
+ "Q115492105": {
+  "offset": -5,
+  "place": "Columbia",
+  "country": "United States",
+  "lon": -81.044166666,
+  "method": "country+lon"
+ },
+ "Q115492226": {
+  "offset": -5,
+  "place": "Gaithersburg",
+  "country": "United States",
+  "lon": -77.1929215,
+  "method": "country+lon"
+ },
+ "Q115492262": {
+  "offset": -6,
+  "place": "North Little Rock",
+  "country": "United States",
+  "lon": -92.266388888,
+  "method": "country+lon"
+ },
+ "Q115581689": {
+  "offset": -6,
+  "place": "Cedar Rapids",
+  "country": "United States",
+  "lon": -91.668611111,
+  "method": "country+lon"
+ },
+ "Q115807227": {
+  "offset": -6,
+  "place": "Duncanville",
+  "country": "United States",
+  "lon": -96.9114,
+  "method": "country+lon"
+ },
+ "Q115810482": {
+  "offset": -6,
+  "place": "Nashville",
+  "country": "United States",
+  "lon": -86.774444444,
+  "method": "country+lon"
+ },
+ "Q116186160": {
+  "offset": -5,
+  "place": "Fort Lauderdale",
+  "country": "United States",
+  "lon": -80.141944444,
+  "method": "country+lon"
+ },
+ "Q116258755": {
+  "offset": -5,
+  "place": "Orlando",
+  "country": "United States",
+  "lon": -81.386666666,
+  "method": "country+lon"
+ },
+ "Q116360316": {
+  "offset": -6,
+  "place": "Greenfield",
+  "country": "United States",
+  "lon": -87.995833333,
+  "method": "country+lon"
+ },
+ "Q116407129": {
+  "offset": -6,
+  "place": "Chicago",
+  "country": "United States",
+  "lon": -87.627777777,
+  "method": "country+lon"
+ },
+ "Q116407174": {
+  "offset": -5,
+  "place": "Covington",
+  "country": "United States",
+  "lon": -83.866666666,
+  "method": "country+lon"
+ },
+ "Q116407295": {
+  "offset": -5,
+  "place": "Philadelphia",
+  "country": "United States",
+  "lon": -75.163611111,
+  "method": "country+lon"
+ },
+ "Q116407634": {
+  "offset": -8,
+  "place": "San Luis Obispo",
+  "country": "United States",
+  "lon": -120.663055555,
+  "method": "country+lon"
+ },
+ "Q116407910": {
+  "offset": -5,
+  "place": "Atlanta",
+  "country": "United States",
+  "lon": -84.389722222,
+  "method": "country+lon"
+ },
+ "Q116407941": {
+  "offset": -6,
+  "place": "Duncanville",
+  "country": "United States",
+  "lon": -96.9114,
+  "method": "country+lon"
+ },
+ "Q116407947": {
+  "offset": -8,
+  "place": "Sacramento",
+  "country": "United States",
+  "lon": -121.486111111,
+  "method": "country+lon"
+ },
+ "Q116407954": {
+  "offset": -6,
+  "place": "Dallas",
+  "country": "United States",
+  "lon": -96.808888888,
+  "method": "country+lon"
+ },
+ "Q116408003": {
+  "offset": -5,
+  "place": "London",
+  "country": "United States",
+  "lon": -84.0842,
+  "method": "country+lon"
+ },
+ "Q116447764": {
+  "offset": 1,
+  "place": "Saint-Cloud",
+  "country": "France",
+  "lon": 2.215277777,
+  "method": "country"
+ },
+ "Q116687537": {
+  "offset": -6,
+  "place": "Chicago",
+  "country": "United States",
+  "lon": -87.627777777,
+  "method": "country+lon"
+ },
+ "Q116763883": {
+  "offset": -6,
+  "place": "DeSoto",
+  "country": "United States",
+  "lon": -96.8589,
+  "method": "country+lon"
+ },
+ "Q116774562": {
+  "offset": -5,
+  "place": "Spartanburg",
+  "country": "United States",
+  "lon": -81.934722222,
+  "method": "country+lon"
+ },
+ "Q129041": {
+  "offset": -5,
+  "place": "Brooklyn",
+  "country": "United States",
+  "lon": -73.949722222,
+  "method": "country+lon"
+ },
+ "Q1277708": {
+  "offset": 1,
+  "place": "Boljevac",
+  "country": "Serbia",
+  "lon": 21.951944444,
+  "method": "country"
+ },
+ "Q1282320": {
+  "offset": -5,
+  "place": "Washington, D.C.",
+  "country": "United States",
+  "lon": -77.036666666,
+  "method": "country+lon"
+ },
+ "Q1317442": {
+  "offset": -6,
+  "place": "Birmingham",
+  "country": "United States",
+  "lon": -86.809444444,
+  "method": "country+lon"
+ },
+ "Q1354036": {
+  "offset": -6,
+  "place": "Memphis",
+  "country": "United States",
+  "lon": -90.051944444,
+  "method": "country+lon"
+ },
+ "Q12058834": {
+  "offset": -8,
+  "place": "San Jose",
+  "country": "United States",
+  "lon": -121.872777777,
+  "method": "country+lon"
+ },
+ "Q12269620": {
+  "offset": 1,
+  "place": "Pescara",
+  "country": "Italy",
+  "lon": 14.214188888,
+  "method": "country"
+ },
+ "Q117262884": {
+  "offset": -5,
+  "place": "Sebring",
+  "country": "United States",
+  "lon": -81.444444444,
+  "method": "country+lon"
+ },
+ "Q117268111": {
+  "offset": -5,
+  "place": "Bristol",
+  "country": "United States",
+  "lon": -72.940555555,
+  "method": "country+lon"
+ },
+ "Q117359974": {
+  "offset": 2,
+  "place": "Johannesburg",
+  "country": "South Africa",
+  "lon": 28.041638888,
+  "method": "country"
+ },
+ "Q118235978": {
+  "offset": 3,
+  "place": "Moscow",
+  "country": "Russia",
+  "lon": 37.6175,
+  "method": "country+lon"
+ },
+ "Q118237185": {
+  "offset": 1,
+  "place": "Bordeaux",
+  "country": "France",
+  "lon": -0.579444444,
+  "method": "country"
+ },
+ "Q118315779": {
+  "offset": 2,
+  "place": "Vilnius",
+  "country": "Lithuania",
+  "lon": 25.28,
+  "method": "country"
+ },
+ "Q118496603": {
+  "offset": -5,
+  "place": "Staten Island",
+  "country": "United States",
+  "lon": -74.146944444,
+  "method": "country+lon"
+ },
+ "Q118918039": {
+  "offset": -6,
+  "place": "Dallas",
+  "country": "United States",
+  "lon": -96.808888888,
+  "method": "country+lon"
+ },
+ "Q119949059": {
+  "offset": -6,
+  "place": "Terre Haute",
+  "country": "United States",
+  "lon": -87.389762,
+  "method": "country+lon"
+ },
+ "Q120671600": {
+  "offset": -6,
+  "place": "Glencoe",
+  "country": "United States",
+  "lon": -87.7608,
+  "method": "country+lon"
+ },
+ "Q120727118": {
+  "offset": 1,
+  "place": "Paris",
+  "country": "France",
+  "lon": 2.352222222,
+  "method": "country"
+ },
+ "Q120753257": {
+  "offset": -5,
+  "place": "Franklin Lakes",
+  "country": "United States",
+  "lon": -74.207777777,
+  "method": "country+lon"
+ },
+ "Q121367318": {
+  "offset": 2,
+  "place": "Rumbek",
+  "country": "South Sudan",
+  "lon": 29.683333333,
+  "method": "country"
+ },
+ "Q122617931": {
+  "offset": 1,
+  "place": "Paris",
+  "country": "France",
+  "lon": 2.352222222,
+  "method": "country"
+ },
+ "Q123155481": {
+  "offset": 1,
+  "place": "Aigle",
+  "country": "Switzerland",
+  "lon": 6.9646,
+  "method": "country"
+ },
+ "Q123266149": {
+  "offset": -5,
+  "place": "Baldwin",
+  "country": "United States",
+  "lon": -73.6125,
+  "method": "country+lon"
+ },
+ "Q123416102": {
+  "offset": -6,
+  "place": "Fargo",
+  "country": "United States",
+  "lon": -96.789444444,
+  "method": "country+lon"
+ },
+ "Q123455591": {
+  "offset": -5,
+  "place": "Atlanta",
+  "country": "United States",
+  "lon": -84.389722222,
+  "method": "country+lon"
+ },
+ "Q123532991": {
+  "offset": -5,
+  "place": "Baltimore",
+  "country": "United States",
+  "lon": -76.615,
+  "method": "country+lon"
+ },
+ "Q123533017": {
+  "offset": -5,
+  "place": "Bimini",
+  "country": "The Bahamas",
+  "lon": -79.25,
+  "method": "country"
+ },
+ "Q123560799": {
+  "offset": -6,
+  "place": "Chattanooga",
+  "country": "United States",
+  "lon": -85.267222222,
+  "method": "country+lon"
+ },
+ "Q123666661": {
+  "offset": -6,
+  "place": "Milwaukee",
+  "country": "United States",
+  "lon": -87.95,
+  "method": "country+lon"
+ },
+ "Q124285681": {
+  "offset": -8,
+  "place": "Panorama City",
+  "country": "United States",
+  "lon": -118.44889,
+  "method": "country+lon"
+ },
+ "Q124370526": {
+  "offset": 1,
+  "place": "Brussels metropolitan area",
+  "country": "Belgium",
+  "lon": 4.3525,
+  "method": "country"
+ },
+ "Q124545788": {
+  "offset": -6,
+  "place": "Allen",
+  "country": "United States",
+  "lon": -96.663055555,
+  "method": "country+lon"
+ },
+ "Q124624089": {
+  "offset": 10,
+  "place": "Melbourne",
+  "country": "Australia",
+  "lon": 144.963055555,
+  "method": "country+lon"
+ },
+ "Q124655262": {
+  "offset": -5,
+  "place": "Baltimore",
+  "country": "United States",
+  "lon": -76.615,
+  "method": "country+lon"
+ },
+ "Q124788522": {
+  "offset": -5,
+  "place": "Columbia",
+  "country": "United States",
+  "lon": -81.044166666,
+  "method": "country+lon"
+ },
+ "Q124795308": {
+  "offset": -5,
+  "place": "Miami",
+  "country": "United States",
+  "lon": -80.193611111,
+  "method": "country+lon"
+ },
+ "Q125140895": {
+  "offset": 1,
+  "place": "Cr\u00e9teil",
+  "country": "France",
+  "lon": 2.453055555,
+  "method": "country"
+ },
+ "Q125930121": {
+  "offset": -8,
+  "place": "Sacramento",
+  "country": "United States",
+  "lon": -121.486111111,
+  "method": "country+lon"
+ },
+ "Q126198688": {
+  "offset": -5,
+  "place": "West Palm Beach",
+  "country": "United States",
+  "lon": -80.064166666,
+  "method": "country+lon"
+ },
+ "Q126902785": {
+  "offset": -8,
+  "place": "Fresno",
+  "country": "United States",
+  "lon": -119.792222222,
+  "method": "country+lon"
+ },
+ "Q127428045": {
+  "offset": 8,
+  "place": "Zibo",
+  "country": "People's Republic of China",
+  "lon": 118.049722,
+  "method": "country"
+ },
+ "Q127690215": {
+  "offset": 1,
+  "place": "Paris",
+  "country": "France",
+  "lon": 2.352222222,
+  "method": "country"
+ },
+ "Q130355819": {
+  "offset": -5,
+  "place": "Kitchener",
+  "country": "Canada",
+  "lon": -80.483333333,
+  "method": "country+lon"
+ },
+ "Q131344354": {
+  "offset": -6,
+  "place": "Joliet",
+  "country": "United States",
+  "lon": -88.0834,
+  "method": "country+lon"
+ },
+ "Q131392043": {
+  "offset": -8,
+  "place": "Fresno",
+  "country": "United States",
+  "lon": -119.792222222,
+  "method": "country+lon"
+ },
+ "Q131448114": {
+  "offset": 1,
+  "place": "S\u00e9lestat",
+  "country": "France",
+  "lon": 7.454166666,
+  "method": "country"
+ },
+ "Q131672929": {
+  "offset": -5,
+  "place": "Brooklyn",
+  "country": "United States",
+  "lon": -73.949722222,
+  "method": "country+lon"
+ },
+ "Q132889075": {
+  "offset": -6,
+  "place": "South Bend",
+  "country": "United States",
+  "lon": -86.250277777,
+  "method": "country+lon"
+ },
+ "Q133189753": {
+  "offset": -5,
+  "place": "Fairburn",
+  "country": "United States",
+  "lon": -84.5814,
+  "method": "country+lon"
+ },
+ "Q135102256": {
+  "offset": -8,
+  "place": "Riverside",
+  "country": "United States",
+  "lon": -117.3725,
+  "method": "country+lon"
+ },
+ "Q136678": {
+  "offset": -8,
+  "place": "Los Angeles",
+  "country": "United States",
+  "lon": -118.24368,
+  "method": "country+lon"
+ },
+ "Q136816": {
+  "offset": -6,
+  "place": "Springfield",
+  "country": "United States",
+  "lon": -89.645,
+  "method": "country+lon"
+ },
+ "Q166871": {
+  "offset": -5,
+  "place": "The Bronx",
+  "country": "United States",
+  "lon": -73.873333333,
+  "method": "country+lon"
+ },
+ "Q1364223": {
+  "offset": -5,
+  "place": "Woodbridge",
+  "country": "United States",
+  "lon": -77.2608,
+  "method": "country+lon"
+ },
+ "Q1476337": {
+  "offset": 1,
+  "place": "W\u00fcrzburg",
+  "country": "Germany",
+  "lon": 9.929444444,
+  "method": "country"
+ },
+ "Q1554023": {
+  "offset": 1,
+  "place": "Madrid",
+  "country": "Spain",
+  "lon": -3.703333333,
+  "method": "country"
+ },
+ "Q1653956": {
+  "offset": 1,
+  "place": "Reggio Emilia",
+  "country": "Italy",
+  "lon": 10.633333333,
+  "method": "country"
+ },
+ "Q13562909": {
+  "offset": -5,
+  "place": "Thomaston",
+  "country": "United States",
+  "lon": -84.333333333,
+  "method": "country+lon"
+ },
+ "Q13605936": {
+  "offset": -8,
+  "place": "Ventura",
+  "country": "United States",
+  "lon": -119.254206,
+  "method": "country+lon"
+ },
+ "Q13605982": {
+  "offset": -8,
+  "place": "Los Angeles",
+  "country": "United States",
+  "lon": -118.24368,
+  "method": "country+lon"
+ },
+ "Q13641280": {
+  "offset": 1,
+  "place": "Kraljevo",
+  "country": "Serbia",
+  "lon": 20.686975,
+  "method": "country"
+ },
+ "Q13860876": {
+  "offset": 1,
+  "place": "Ohrid",
+  "country": "North Macedonia",
+  "lon": 20.801944444,
+  "method": "country"
+ },
+ "Q14324358": {
+  "offset": -6,
+  "place": "Bellwood",
+  "country": "United States",
+  "lon": -87.8764,
+  "method": "country+lon"
+ },
+ "Q14469440": {
+  "offset": 10,
+  "place": "Melbourne",
+  "country": "Australia",
+  "lon": 144.963055555,
+  "method": "country+lon"
+ },
+ "Q14834367": {
+  "offset": 2,
+  "place": "Liep\u0101ja",
+  "country": "Latvia",
+  "lon": 21.011111111,
+  "method": "country"
+ },
+ "Q14901752": {
+  "offset": 2,
+  "place": "Cherkasy",
+  "country": "Ukraine",
+  "lon": 32.059722222,
+  "method": "country"
+ },
+ "Q15214945": {
+  "offset": -8,
+  "place": "Lancaster",
+  "country": "United States",
+  "lon": -118.154166666,
+  "method": "country+lon"
+ },
+ "Q15623860": {
+  "offset": -6,
+  "place": "Dallas",
+  "country": "United States",
+  "lon": -96.808888888,
+  "method": "country+lon"
+ },
+ "Q15908942": {
+  "offset": -8,
+  "place": "Renton",
+  "country": "United States",
+  "lon": -122.203444444,
+  "method": "country+lon"
+ },
+ "Q15920046": {
+  "offset": 1,
+  "place": "Yaound\u00e9",
+  "country": "Cameroon",
+  "lon": 11.518055555,
+  "method": "country"
+ },
+ "Q16199705": {
+  "offset": -6,
+  "place": "Chicago",
+  "country": "United States",
+  "lon": -87.627777777,
+  "method": "country+lon"
+ },
+ "Q16226914": {
+  "offset": -5,
+  "place": "Columbia",
+  "country": "United States",
+  "lon": -81.044166666,
+  "method": "country+lon"
+ },
+ "Q16226957": {
+  "offset": -8,
+  "place": "Woodland Hills",
+  "country": "United States",
+  "lon": -118.605,
+  "method": "country+lon"
+ },
+ "Q16227185": {
+  "offset": -5,
+  "place": "Washington, D.C.",
+  "country": "United States",
+  "lon": -77.036666666,
+  "method": "country+lon"
+ },
+ "Q16227284": {
+  "offset": -5,
+  "place": "Tarboro",
+  "country": "United States",
+  "lon": -77.545833333,
+  "method": "country+lon"
+ },
+ "Q16227291": {
+  "offset": -8,
+  "place": "Chelan",
+  "country": "United States",
+  "lon": -120.021388888,
+  "method": "country+lon"
+ },
+ "Q16227425": {
+  "offset": -6,
+  "place": "Meridian",
+  "country": "United States",
+  "lon": -88.703666666,
+  "method": "country+lon"
+ },
+ "Q16227726": {
+  "offset": -6,
+  "place": "Lisle",
+  "country": "United States",
+  "lon": -88.0883,
+  "method": "country+lon"
+ },
+ "Q16228087": {
+  "offset": -5,
+  "place": "Columbus",
+  "country": "United States",
+  "lon": -83.000555555,
+  "method": "country+lon"
+ },
+ "Q16228369": {
+  "offset": -5,
+  "place": "Pittsburgh",
+  "country": "United States",
+  "lon": -80.0,
+  "method": "country+lon"
+ },
+ "Q16228417": {
+  "offset": -5,
+  "place": "Savannah",
+  "country": "United States",
+  "lon": -81.103888888,
+  "method": "country+lon"
+ },
+ "Q16228709": {
+  "offset": -6,
+  "place": "Chicago",
+  "country": "United States",
+  "lon": -87.627777777,
+  "method": "country+lon"
+ },
+ "Q16235967": {
+  "offset": -5,
+  "place": "Durham",
+  "country": "United States",
+  "lon": -78.898611111,
+  "method": "country+lon"
+ },
+ "Q16236628": {
+  "offset": -6,
+  "place": "Rockford",
+  "country": "United States",
+  "lon": -89.094,
+  "method": "country+lon"
+ },
+ "Q16236763": {
+  "offset": 1,
+  "place": "Priboj",
+  "country": "Serbia",
+  "lon": 19.53333333,
+  "method": "country"
+ },
+ "Q16237074": {
+  "offset": -5,
+  "place": "Detroit",
+  "country": "United States",
+  "lon": -83.0475,
+  "method": "country+lon"
+ },
+ "Q16239572": {
+  "offset": -8,
+  "place": "Anaheim",
+  "country": "United States",
+  "lon": -117.889722222,
+  "method": "country+lon"
+ },
+ "Q16240120": {
+  "offset": 2,
+  "place": "Wau",
+  "country": "South Sudan",
+  "lon": 27.983333333,
+  "method": "country"
+ },
+ "Q16661017": {
+  "offset": -8,
+  "place": "San Diego",
+  "country": "United States",
+  "lon": -117.1625,
+  "method": "country+lon"
+ },
+ "Q16730417": {
+  "offset": -6,
+  "place": "Burnsville",
+  "country": "United States",
+  "lon": -93.2775,
+  "method": "country+lon"
+ },
+ "Q16847519": {
+  "offset": -6,
+  "place": "Gretna",
+  "country": "United States",
+  "lon": -90.0542,
+  "method": "country+lon"
+ },
+ "Q16910147": {
+  "offset": 1,
+  "place": "Kinshasa",
+  "country": "Democratic Republic of the Congo",
+  "lon": 15.311944444,
+  "method": "country+lon"
+ },
+ "Q17180552": {
+  "offset": -5,
+  "place": "Arlington",
+  "country": "United States",
+  "lon": -71.156944444,
+  "method": "country+lon"
+ },
+ "Q17281073": {
+  "offset": 1,
+  "place": "Sombor",
+  "country": "Serbia",
+  "lon": 19.12,
+  "method": "country"
+ },
+ "Q17282759": {
+  "offset": -3,
+  "place": "Q4035",
+  "country": "Brazil",
+  "lon": -46.791944444,
+  "method": "country+lon"
+ },
+ "Q17294972": {
+  "offset": -5,
+  "place": "Toronto",
+  "country": "Canada",
+  "lon": -79.386666666,
+  "method": "country+lon"
+ },
+ "Q17302809": {
+  "offset": -5,
+  "place": "Q49255",
+  "country": "United States",
+  "lon": -82.458611111,
+  "method": "country+lon"
+ },
+ "Q17305698": {
+  "offset": -5,
+  "place": "Montreal",
+  "country": "Canada",
+  "lon": -73.5868411,
+  "method": "country+lon"
+ },
+ "Q17305725": {
+  "offset": -5,
+  "place": "New Brunswick",
+  "country": "United States",
+  "lon": -74.444444444,
+  "method": "country+lon"
+ },
+ "Q17306022": {
+  "offset": -5,
+  "place": "Chester",
+  "country": "United States",
+  "lon": -75.372777777,
+  "method": "country+lon"
+ },
+ "Q179906": {
+  "offset": -6,
+  "place": "Birmingham",
+  "country": "United States",
+  "lon": -86.809444444,
+  "method": "country+lon"
+ },
+ "Q196185": {
+  "offset": -8,
+  "place": "Long Beach",
+  "country": "United States",
+  "lon": -118.195555555,
+  "method": "country+lon"
+ },
+ "Q205326": {
+  "offset": -6,
+  "place": "Chicago",
+  "country": "United States",
+  "lon": -87.627777777,
+  "method": "country+lon"
+ },
+ "Q1890505": {
+  "offset": -5,
+  "place": "Raleigh",
+  "country": "United States",
+  "lon": -78.64,
+  "method": "country+lon"
+ },
+ "Q2024753": {
+  "offset": 1,
+  "place": "Dubrovnik",
+  "country": "Croatia",
+  "lon": 18.108333333,
+  "method": "country"
+ },
+ "Q17386097": {
+  "offset": -6,
+  "place": "Houston",
+  "country": "United States",
+  "lon": -95.383055555,
+  "method": "country+lon"
+ },
+ "Q17403499": {
+  "offset": -6,
+  "place": "Bedford",
+  "country": "United States",
+  "lon": -97.1397,
+  "method": "country+lon"
+ },
+ "Q17465755": {
+  "offset": -5,
+  "place": "Norcross",
+  "country": "United States",
+  "lon": -84.2135309,
+  "method": "country+lon"
+ },
+ "Q17466552": {
+  "offset": -5,
+  "place": "Methuen",
+  "country": "United States",
+  "lon": -71.191388888,
+  "method": "country+lon"
+ },
+ "Q17492383": {
+  "offset": 9,
+  "place": "Yokohama",
+  "country": "Japan",
+  "lon": 139.634222222,
+  "method": "country"
+ },
+ "Q17513432": {
+  "offset": -6,
+  "place": "Saskatoon",
+  "country": "Canada",
+  "lon": -106.683333333,
+  "method": "country+lon"
+ },
+ "Q18043905": {
+  "offset": -6,
+  "place": "Baton Rouge",
+  "country": "United States",
+  "lon": -91.178611111,
+  "method": "country+lon"
+ },
+ "Q18129444": {
+  "offset": 5,
+  "place": "Tashkent",
+  "country": "Uzbekistan",
+  "lon": 69.279722222,
+  "method": "country"
+ },
+ "Q18564189": {
+  "offset": -6,
+  "place": "Milwaukee",
+  "country": "United States",
+  "lon": -87.95,
+  "method": "country+lon"
+ },
+ "Q18619686": {
+  "offset": -6,
+  "place": "New Orleans",
+  "country": "United States",
+  "lon": -90.078333333,
+  "method": "country+lon"
+ },
+ "Q18638003": {
+  "offset": 10,
+  "place": "Melbourne",
+  "country": "Australia",
+  "lon": 144.963055555,
+  "method": "country+lon"
+ },
+ "Q18638186": {
+  "offset": -6,
+  "place": "Houston",
+  "country": "United States",
+  "lon": -95.383055555,
+  "method": "country+lon"
+ },
+ "Q18644229": {
+  "offset": 1,
+  "place": "Madrid",
+  "country": "Spain",
+  "lon": -3.703333333,
+  "method": "country"
+ },
+ "Q18706123": {
+  "offset": -8,
+  "place": "Los Angeles",
+  "country": "United States",
+  "lon": -118.24368,
+  "method": "country+lon"
+ },
+ "Q18749170": {
+  "offset": -6,
+  "place": "Louisville",
+  "country": "United States",
+  "lon": -85.751388888,
+  "method": "country+lon"
+ },
+ "Q18921278": {
+  "offset": -6,
+  "place": "Ruston",
+  "country": "United States",
+  "lon": -92.638694444,
+  "method": "country+lon"
+ },
+ "Q18921708": {
+  "offset": 0,
+  "place": "Dakar",
+  "country": "Senegal",
+  "lon": -17.432,
+  "method": "country"
+ },
+ "Q19286282": {
+  "offset": -8,
+  "place": "Eugene",
+  "country": "United States",
+  "lon": -123.0925,
+  "method": "country+lon"
+ },
+ "Q19310495": {
+  "offset": 3,
+  "place": "Istanbul",
+  "country": "Turkey",
+  "lon": 28.960277777,
+  "method": "country"
+ },
+ "Q19605398": {
+  "offset": -5,
+  "place": "Akron",
+  "country": "United States",
+  "lon": -81.517777777,
+  "method": "country+lon"
+ },
+ "Q19663167": {
+  "offset": -5,
+  "place": "Freeport",
+  "country": "The Bahamas",
+  "lon": -78.66,
+  "method": "country"
+ },
+ "Q19664817": {
+  "offset": -5,
+  "place": "Marietta",
+  "country": "United States",
+  "lon": -84.540555555,
+  "method": "country+lon"
+ },
+ "Q19667582": {
+  "offset": -6,
+  "place": "Little Rock",
+  "country": "United States",
+  "lon": -92.288055555,
+  "method": "country+lon"
+ },
+ "Q19706820": {
+  "offset": 2,
+  "place": "Vantaa",
+  "country": "Finland",
+  "lon": 25.040277777,
+  "method": "country"
+ },
+ "Q19757619": {
+  "offset": -8,
+  "place": "San Diego",
+  "country": "United States",
+  "lon": -117.1625,
+  "method": "country+lon"
+ },
+ "Q19844712": {
+  "offset": 1,
+  "place": "Ljubljana",
+  "country": "Slovenia",
+  "lon": 14.506111111,
+  "method": "country"
+ },
+ "Q19864241": {
+  "offset": -5,
+  "place": "Montross",
+  "country": "United States",
+  "lon": -76.8261,
+  "method": "country+lon"
+ },
+ "Q19864618": {
+  "offset": -5,
+  "place": "Q16568",
+  "country": "United States",
+  "lon": -81.65,
+  "method": "country+lon"
+ },
+ "Q19865640": {
+  "offset": -5,
+  "place": "Lansing",
+  "country": "United States",
+  "lon": -84.5467,
+  "method": "country+lon"
+ },
+ "Q19868265": {
+  "offset": -5,
+  "place": "Lansing",
+  "country": "United States",
+  "lon": -84.5467,
+  "method": "country+lon"
+ },
+ "Q19880297": {
+  "offset": -6,
+  "place": "Lockport",
+  "country": "United States",
+  "lon": -88.0291862,
+  "method": "country+lon"
+ },
+ "Q19880865": {
+  "offset": -5,
+  "place": "Kinston",
+  "country": "United States",
+  "lon": -77.585,
+  "method": "country+lon"
+ },
+ "Q19895687": {
+  "offset": -5,
+  "place": "Port-au-Prince",
+  "country": "Haiti",
+  "lon": -72.340277777,
+  "method": "country"
+ },
+ "Q19968768": {
+  "offset": 1,
+  "place": "Cannes",
+  "country": "France",
+  "lon": 7.021388888,
+  "method": "country"
+ },
+ "Q19979256": {
+  "offset": -8,
+  "place": "Seattle",
+  "country": "United States",
+  "lon": -122.33,
+  "method": "country+lon"
+ },
+ "Q20031362": {
+  "offset": -6,
+  "place": "Grand Rapids",
+  "country": "United States",
+  "lon": -85.667777777,
+  "method": "country+lon"
+ },
+ "Q20031584": {
+  "offset": -5,
+  "place": "Youngstown",
+  "country": "Ohio",
+  "lon": -80.649166666,
+  "method": "country+lon"
+ },
+ "Q20268371": {
+  "offset": -6,
+  "place": "Memphis",
+  "country": "United States",
+  "lon": -90.051944444,
+  "method": "country+lon"
+ },
+ "Q20540520": {
+  "offset": -6,
+  "place": "Edmond",
+  "country": "United States",
+  "lon": -97.464916666,
+  "method": "country+lon"
+ },
+ "Q20639748": {
+  "offset": -8,
+  "place": "Long Beach",
+  "country": "United States",
+  "lon": -118.195555555,
+  "method": "country+lon"
+ },
+ "Q20657373": {
+  "offset": -6,
+  "place": "Grand Rapids",
+  "country": "United States",
+  "lon": -85.667777777,
+  "method": "country+lon"
+ },
+ "Q20676045": {
+  "offset": 10,
+  "place": "Melbourne",
+  "country": "Australia",
+  "lon": 144.963055555,
+  "method": "country+lon"
+ },
+ "Q20711111": {
+  "offset": -5,
+  "place": "Kitchener",
+  "country": "Canada",
+  "lon": -80.483333333,
+  "method": "country+lon"
+ },
+ "Q20711278": {
+  "offset": -5,
+  "place": "Wrentham",
+  "country": "United States",
+  "lon": -71.328611111,
+  "method": "country+lon"
+ },
+ "Q20714917": {
+  "offset": 1,
+  "place": "Vienna",
+  "country": "Austria",
+  "lon": 16.3725,
+  "method": "country"
+ },
+ "Q212421": {
+  "offset": 1,
+  "place": "El Masnou",
+  "country": "Spain",
+  "lon": 2.317777777,
+  "method": "country"
+ },
+ "Q222851": {
+  "offset": -6,
+  "place": "Ames",
+  "country": "United States",
+  "lon": -93.631586,
+  "method": "country+lon"
+ },
+ "Q245990": {
+  "offset": 1,
+  "place": "Belgrade",
+  "country": "Serbia",
+  "lon": 20.456944444,
+  "method": "country"
+ },
+ "Q2260799": {
+  "offset": -5,
+  "place": "Philadelphia",
+  "country": "United States",
+  "lon": -75.163611111,
+  "method": "country+lon"
+ },
+ "Q2407571": {
+  "offset": -5,
+  "place": "Pickering",
+  "country": "Canada",
+  "lon": -79.130833333,
+  "method": "country+lon"
+ },
+ "Q2413455": {
+  "offset": -6,
+  "place": "Baton Rouge",
+  "country": "United States",
+  "lon": -91.178611111,
+  "method": "country+lon"
+ },
+ "Q2434352": {
+  "offset": 10,
+  "place": "Maryborough",
+  "country": "Australia",
+  "lon": 143.735,
+  "method": "country+lon"
+ },
+ "Q2481543": {
+  "offset": -5,
+  "place": "Islip",
+  "country": "United States",
+  "lon": -73.198888888,
+  "method": "country+lon"
+ },
+ "Q20730894": {
+  "offset": 2,
+  "place": "C\u0113sis",
+  "country": "Latvia",
+  "lon": 25.274722222,
+  "method": "country"
+ },
+ "Q20744974": {
+  "offset": -5,
+  "place": "Baltimore",
+  "country": "United States",
+  "lon": -76.615,
+  "method": "country+lon"
+ },
+ "Q20979199": {
+  "offset": -5,
+  "place": "Lakeland",
+  "country": "United States",
+  "lon": -81.958888888,
+  "method": "country+lon"
+ },
+ "Q21039421": {
+  "offset": 0,
+  "place": "Kayes",
+  "country": "Mali",
+  "lon": -11.43675,
+  "method": "country"
+ },
+ "Q21063118": {
+  "offset": -8,
+  "place": "Bakersfield",
+  "country": "United States",
+  "lon": -119.018888888,
+  "method": "country+lon"
+ },
+ "Q21063926": {
+  "offset": -6,
+  "place": "San Marcos",
+  "country": "United States",
+  "lon": -97.938888888,
+  "method": "country+lon"
+ },
+ "Q21066254": {
+  "offset": -5,
+  "place": "Winston-Salem",
+  "country": "United States",
+  "lon": -80.260555555,
+  "method": "country+lon"
+ },
+ "Q21209177": {
+  "offset": 1,
+  "place": "Koper",
+  "country": "Slovenia",
+  "lon": 13.7306571,
+  "method": "country"
+ },
+ "Q21260552": {
+  "offset": -5,
+  "place": "Rochester",
+  "country": "United States",
+  "lon": -77.611388888,
+  "method": "country+lon"
+ },
+ "Q21294876": {
+  "offset": 1,
+  "place": "Dreux",
+  "country": "France",
+  "lon": 1.365555555,
+  "method": "country"
+ },
+ "Q21620668": {
+  "offset": -5,
+  "place": "Pinetown",
+  "country": "United States",
+  "lon": -76.861388888,
+  "method": "country+lon"
+ },
+ "Q21621315": {
+  "offset": -6,
+  "place": "New Orleans",
+  "country": "United States",
+  "lon": -90.078333333,
+  "method": "country+lon"
+ },
+ "Q21621362": {
+  "offset": -5,
+  "place": "Charlotte",
+  "country": "United States",
+  "lon": -80.843333333,
+  "method": "country+lon"
+ },
+ "Q21621436": {
+  "offset": -5,
+  "place": "Silver Spring",
+  "country": "United States",
+  "lon": -77.020791,
+  "method": "country+lon"
+ },
+ "Q21621551": {
+  "offset": -5,
+  "place": "Washington, D.C.",
+  "country": "United States",
+  "lon": -77.036666666,
+  "method": "country+lon"
+ },
+ "Q21622110": {
+  "offset": -6,
+  "place": "Jonesboro",
+  "country": "United States",
+  "lon": -90.7,
+  "method": "country+lon"
+ },
+ "Q21623063": {
+  "offset": -6,
+  "place": "St. Louis",
+  "country": "United States",
+  "lon": -90.199444444,
+  "method": "country+lon"
+ },
+ "Q22005682": {
+  "offset": -6,
+  "place": "Baton Rouge",
+  "country": "United States",
+  "lon": -91.178611111,
+  "method": "country+lon"
+ },
+ "Q22073886": {
+  "offset": -5,
+  "place": "York",
+  "country": "United States",
+  "lon": -70.648611111,
+  "method": "country+lon"
+ },
+ "Q22096360": {
+  "offset": -6,
+  "place": "Decatur",
+  "country": "United States",
+  "lon": -88.944166666,
+  "method": "country+lon"
+ },
+ "Q22666644": {
+  "offset": -5,
+  "place": "Petersburg",
+  "country": "United States",
+  "lon": -77.400417,
+  "method": "country+lon"
+ },
+ "Q22957491": {
+  "offset": 2,
+  "place": "Khartoum",
+  "country": "Sudan",
+  "lon": 32.52654,
+  "method": "country"
+ },
+ "Q22958459": {
+  "offset": -5,
+  "place": "Nassau",
+  "country": "The Bahamas",
+  "lon": -77.338611111,
+  "method": "country"
+ },
+ "Q22959154": {
+  "offset": 1,
+  "place": "Q208713",
+  "country": "Belgium",
+  "lon": 4.366944444,
+  "method": "country"
+ },
+ "Q22959347": {
+  "offset": 9,
+  "place": "Toyama",
+  "country": "Japan",
+  "lon": 137.213694444,
+  "method": "country"
+ },
+ "Q22999836": {
+  "offset": 1,
+  "place": "Berlin",
+  "country": "Germany",
+  "lon": 13.383333333,
+  "method": "country"
+ },
+ "Q23302710": {
+  "offset": -5,
+  "place": "Charlotte",
+  "country": "United States",
+  "lon": -80.843333333,
+  "method": "country+lon"
+ },
+ "Q23302754": {
+  "offset": -5,
+  "place": "Mississauga",
+  "country": "Canada",
+  "lon": -79.65,
+  "method": "country+lon"
+ },
+ "Q23541220": {
+  "offset": 1,
+  "place": "Douala",
+  "country": "Cameroon",
+  "lon": 9.7,
+  "method": "country"
+ },
+ "Q23542695": {
+  "offset": -8,
+  "place": "Anaheim",
+  "country": "United States",
+  "lon": -117.889722222,
+  "method": "country+lon"
+ },
+ "Q23761524": {
+  "offset": 1,
+  "place": "Mostar",
+  "country": "Bosnia and Herzegovina",
+  "lon": 17.8075,
+  "method": "country"
+ },
+ "Q23762310": {
+  "offset": 1,
+  "place": "Paris",
+  "country": "France",
+  "lon": 2.352222222,
+  "method": "country"
+ },
+ "Q23771652": {
+  "offset": -8,
+  "place": "Sacramento",
+  "country": "United States",
+  "lon": -121.486111111,
+  "method": "country+lon"
+ },
+ "Q23800231": {
+  "offset": -5,
+  "place": "Philadelphia",
+  "country": "United States",
+  "lon": -75.163611111,
+  "method": "country+lon"
+ },
+ "Q23880401": {
+  "offset": -8,
+  "place": "North Las Vegas",
+  "country": "United States",
+  "lon": -115.121583333,
+  "method": "country+lon"
+ },
+ "Q24006188": {
+  "offset": -8,
+  "place": "Seattle",
+  "country": "United States",
+  "lon": -122.33,
+  "method": "country+lon"
+ },
+ "Q24006239": {
+  "offset": -5,
+  "place": "Atlanta",
+  "country": "United States",
+  "lon": -84.389722222,
+  "method": "country+lon"
+ },
+ "Q24439139": {
+  "offset": 2,
+  "place": "Tel Aviv",
+  "country": "Israel",
+  "lon": 34.78,
+  "method": "country"
+ },
+ "Q24572734": {
+  "offset": -5,
+  "place": "Upper Marlboro",
+  "country": "United States",
+  "lon": -76.753333333,
+  "method": "country+lon"
+ },
+ "Q24761491": {
+  "offset": -6,
+  "place": "St. Louis",
+  "country": "United States",
+  "lon": -90.199444444,
+  "method": "country+lon"
+ },
+ "Q24852579": {
+  "offset": -6,
+  "place": "Houston",
+  "country": "United States",
+  "lon": -95.383055555,
+  "method": "country+lon"
+ },
+ "Q24200": {
+  "offset": -5,
+  "place": "Roxbury",
+  "country": "United States",
+  "lon": -71.095277777,
+  "method": "country+lon"
+ },
+ "Q274469": {
+  "offset": -6,
+  "place": "Louisville",
+  "country": "United States",
+  "lon": -85.751388888,
+  "method": "country+lon"
+ },
+ "Q275889": {
+  "offset": 1,
+  "place": "Barcelona",
+  "country": "Spain",
+  "lon": 2.176944444,
+  "method": "country"
+ },
+ "Q2504840": {
+  "offset": 1,
+  "place": "Saint-Maurice",
+  "country": "France",
+  "lon": 2.434722222,
+  "method": "country"
+ },
+ "Q2519395": {
+  "offset": -5,
+  "place": "Norcross",
+  "country": "United States",
+  "lon": -84.2135309,
+  "method": "country+lon"
+ },
+ "Q2526170": {
+  "offset": 1,
+  "place": "\u0160ibenik",
+  "country": "Croatia",
+  "lon": 15.895555555,
+  "method": "country"
+ },
+ "Q2614593": {
+  "offset": -5,
+  "place": "Saginaw",
+  "country": "United States",
+  "lon": -83.9500261,
+  "method": "country+lon"
+ },
+ "Q2625359": {
+  "offset": -3,
+  "place": "Belo Horizonte",
+  "country": "Brazil",
+  "lon": -43.941944444,
+  "method": "country+lon"
+ },
+ "Q2627006": {
+  "offset": -5,
+  "place": "Gastonia",
+  "country": "United States",
+  "lon": -81.180277777,
+  "method": "country+lon"
+ },
+ "Q2627251": {
+  "offset": -5,
+  "place": "Brooklyn",
+  "country": "United States",
+  "lon": -73.949722222,
+  "method": "country+lon"
+ },
+ "Q2629179": {
+  "offset": -5,
+  "place": "Philadelphia",
+  "country": "United States",
+  "lon": -75.163611111,
+  "method": "country+lon"
+ },
+ "Q2640578": {
+  "offset": 1,
+  "place": "Pordenone",
+  "country": "Italy",
+  "lon": 12.6563,
+  "method": "country"
+ },
+ "Q2701620": {
+  "offset": -3,
+  "place": "C\u00f3rdoba",
+  "country": "Argentina",
+  "lon": -64.183333333,
+  "method": "country"
+ },
+ "Q2735651": {
+  "offset": -6,
+  "place": "East Chicago",
+  "country": "United States",
+  "lon": -87.4622,
+  "method": "country+lon"
+ },
+ "Q25757154": {
+  "offset": -5,
+  "place": "Portsmouth",
+  "country": "United States",
+  "lon": -76.29827,
+  "method": "country+lon"
+ },
+ "Q26106945": {
+  "offset": -6,
+  "place": "Killeen",
+  "country": "United States",
+  "lon": -97.726666666,
+  "method": "country+lon"
+ },
+ "Q26704887": {
+  "offset": -5,
+  "place": "Fayetteville",
+  "country": "United States",
+  "lon": -78.9175,
+  "method": "country+lon"
+ },
+ "Q27048881": {
+  "offset": -5,
+  "place": "Chester",
+  "country": "United States",
+  "lon": -75.372777777,
+  "method": "country+lon"
+ },
+ "Q27049282": {
+  "offset": -6,
+  "place": "Kansas City",
+  "country": "United States",
+  "lon": -94.583333333,
+  "method": "country+lon"
+ },
+ "Q27662581": {
+  "offset": -6,
+  "place": "College Station",
+  "country": "United States",
+  "lon": -96.314444444,
+  "method": "country+lon"
+ },
+ "Q27837999": {
+  "offset": -8,
+  "place": "Los Angeles",
+  "country": "United States",
+  "lon": -118.24368,
+  "method": "country+lon"
+ },
+ "Q27909430": {
+  "offset": -6,
+  "place": "Indianapolis",
+  "country": "United States",
+  "lon": -86.158055555,
+  "method": "country+lon"
+ },
+ "Q27919944": {
+  "offset": -7,
+  "place": "Phoenix",
+  "country": "United States",
+  "lon": -112.073888888,
+  "method": "country+lon"
+ },
+ "Q27922413": {
+  "offset": -5,
+  "place": "The Bronx",
+  "country": "United States",
+  "lon": -73.873333333,
+  "method": "country+lon"
+ },
+ "Q27925506": {
+  "offset": -5,
+  "place": "Flint",
+  "country": "United States",
+  "lon": -83.693333333,
+  "method": "country+lon"
+ },
+ "Q27926032": {
+  "offset": 4,
+  "place": "Sagarejo",
+  "country": "Georgia",
+  "lon": 45.325833333,
+  "method": "country"
+ },
+ "Q27999533": {
+  "offset": 0,
+  "place": "Conakry",
+  "country": "Guinea",
+  "lon": -13.712222222,
+  "method": "country"
+ },
+ "Q28016751": {
+  "offset": 1,
+  "place": "Bordeaux",
+  "country": "France",
+  "lon": -0.579444444,
+  "method": "country"
+ },
+ "Q28054144": {
+  "offset": 0,
+  "place": "London",
+  "country": "United Kingdom",
+  "lon": -0.1275,
+  "method": "country"
+ },
+ "Q28151848": {
+  "offset": -6,
+  "place": "Shreveport",
+  "country": "United States",
+  "lon": -93.762777777,
+  "method": "country+lon"
+ },
+ "Q28450897": {
+  "offset": -5,
+  "place": "Plainfield",
+  "country": "United States",
+  "lon": -74.416111111,
+  "method": "country+lon"
+ },
+ "Q28731753": {
+  "offset": -6,
+  "place": "Omaha",
+  "country": "United States",
+  "lon": -95.9375,
+  "method": "country+lon"
+ },
+ "Q28741203": {
+  "offset": -8,
+  "place": "Chino Hills",
+  "country": "United States",
+  "lon": -117.75,
+  "method": "country+lon"
+ },
+ "Q28810445": {
+  "offset": -6,
+  "place": "Columbia",
+  "country": "United States",
+  "lon": -92.33407,
+  "method": "country+lon"
+ },
+ "Q28811957": {
+  "offset": -5,
+  "place": "Reading",
+  "country": "United States",
+  "lon": -75.926111111,
+  "method": "country+lon"
+ },
+ "Q28873271": {
+  "offset": 1,
+  "place": "Strakonice",
+  "country": "Czech Republic",
+  "lon": 13.902396874,
+  "method": "country"
+ },
+ "Q28925029": {
+  "offset": -5,
+  "place": "Atlanta",
+  "country": "United States",
+  "lon": -84.389722222,
+  "method": "country+lon"
+ },
+ "Q28935742": {
+  "offset": -7,
+  "place": "Layton",
+  "country": "United States",
+  "lon": -111.955277777,
+  "method": "country+lon"
+ },
+ "Q28935925": {
+  "offset": -5,
+  "place": "Middletown",
+  "country": "United States",
+  "lon": -84.375833333,
+  "method": "country+lon"
+ },
+ "Q28967738": {
+  "offset": -5,
+  "place": "Lexington",
+  "country": "United States",
+  "lon": -84.458611111,
+  "method": "country+lon"
+ },
+ "Q28972128": {
+  "offset": -7,
+  "place": "Tempe",
+  "country": "United States",
+  "lon": -111.94,
+  "method": "country+lon"
+ },
+ "Q29044421": {
+  "offset": -5,
+  "place": "Marietta",
+  "country": "United States",
+  "lon": -84.540555555,
+  "method": "country+lon"
+ },
+ "Q29044852": {
+  "offset": -6,
+  "place": "Louisville",
+  "country": "United States",
+  "lon": -85.751388888,
+  "method": "country+lon"
+ },
+ "Q29045021": {
+  "offset": -6,
+  "place": "Houston",
+  "country": "United States",
+  "lon": -95.383055555,
+  "method": "country+lon"
+ },
+ "Q29045037": {
+  "offset": -8,
+  "place": "Las Vegas",
+  "country": "United States",
+  "lon": -115.148611111,
+  "method": "country+lon"
+ },
+ "Q29045079": {
+  "offset": -5,
+  "place": "Columbus",
+  "country": "United States",
+  "lon": -83.000555555,
+  "method": "country+lon"
+ },
+ "Q29045112": {
+  "offset": -6,
+  "place": "Lubbock",
+  "country": "United States",
+  "lon": -101.845,
+  "method": "country+lon"
+ },
+ "Q29048308": {
+  "offset": -8,
+  "place": "San Diego",
+  "country": "United States",
+  "lon": -117.1625,
+  "method": "country+lon"
+ },
+ "Q29165842": {
+  "offset": -5,
+  "place": "Salisbury",
+  "country": "United States",
+  "lon": -80.478611111,
+  "method": "country+lon"
+ },
+ "Q29166745": {
+  "offset": -5,
+  "place": "Columbia",
+  "country": "United States",
+  "lon": -81.044166666,
+  "method": "country+lon"
+ },
+ "Q25278": {
+  "offset": -5,
+  "place": "Atlanta",
+  "country": "United States",
+  "lon": -84.389722222,
+  "method": "country+lon"
+ },
+ "Q297221": {
+  "offset": -8,
+  "place": "Santa Monica",
+  "country": "United States",
+  "lon": -118.481388888,
+  "method": "country+lon"
+ },
+ "Q309783": {
+  "offset": -6,
+  "place": "Oklahoma City",
+  "country": "United States",
+  "lon": -97.535277777,
+  "method": "country+lon"
+ },
+ "Q313389": {
+  "offset": 1,
+  "place": "Brazzaville",
+  "country": "Republic of the Congo",
+  "lon": 15.271111111,
+  "method": "country"
+ },
+ "Q316243": {
+  "offset": -6,
+  "place": "Dallas",
+  "country": "United States",
+  "lon": -96.808888888,
+  "method": "country+lon"
+ },
+ "Q316336": {
+  "offset": 3,
+  "place": "Eski\u015fehir",
+  "country": "Turkey",
+  "lon": 30.520555555,
+  "method": "country"
+ },
+ "Q317008": {
+  "offset": -6,
+  "place": "Chicago",
+  "country": "United States",
+  "lon": -87.627777777,
+  "method": "country+lon"
+ },
+ "Q336030": {
+  "offset": -8,
+  "place": "Tacoma",
+  "country": "United States",
+  "lon": -122.4475,
+  "method": "country+lon"
+ },
+ "Q337370": {
+  "offset": -5,
+  "place": "Raleigh",
+  "country": "United States",
+  "lon": -78.64,
+  "method": "country+lon"
+ },
+ "Q348618": {
+  "offset": 10,
+  "place": "Melbourne",
+  "country": "Australia",
+  "lon": 144.963055555,
+  "method": "country+lon"
+ },
+ "Q348734": {
+  "offset": -5,
+  "place": "Brooklyn",
+  "country": "United States",
+  "lon": -73.949722222,
+  "method": "country+lon"
+ },
+ "Q352114": {
+  "offset": 1,
+  "place": "Lisieux",
+  "country": "France",
+  "lon": 0.225555555,
+  "method": "country"
+ },
+ "Q352159": {
+  "offset": -5,
+  "place": "Akron",
+  "country": "United States",
+  "lon": -81.517777777,
+  "method": "country+lon"
+ },
+ "Q358108": {
+  "offset": -5,
+  "place": "Miami",
+  "country": "United States",
+  "lon": -80.193611111,
+  "method": "country+lon"
+ },
+ "Q358704": {
+  "offset": -5,
+  "place": "Cheverly",
+  "country": "United States",
+  "lon": -76.9135,
+  "method": "country+lon"
+ },
+ "Q360993": {
+  "offset": -6,
+  "place": "Indianapolis",
+  "country": "United States",
+  "lon": -86.158055555,
+  "method": "country+lon"
+ },
+ "Q367961": {
+  "offset": -6,
+  "place": "Indianapolis",
+  "country": "United States",
+  "lon": -86.158055555,
+  "method": "country+lon"
+ },
+ "Q369109": {
+  "offset": -6,
+  "place": "Cookeville",
+  "country": "United States",
+  "lon": -85.504295,
+  "method": "country+lon"
+ },
+ "Q2923495": {
+  "offset": -5,
+  "place": "Philadelphia",
+  "country": "United States",
+  "lon": -75.163611111,
+  "method": "country+lon"
+ },
+ "Q2979330": {
+  "offset": 1,
+  "place": "Geneva",
+  "country": "Switzerland",
+  "lon": 6.15,
+  "method": "country"
+ },
+ "Q3194911": {
+  "offset": -5,
+  "place": "Toronto",
+  "country": "Canada",
+  "lon": -79.386666666,
+  "method": "country+lon"
+ },
+ "Q3446792": {
+  "offset": 1,
+  "place": "Saint-Quentin",
+  "country": "Roman Empire",
+  "lon": 3.285555555,
+  "method": "country"
+ },
+ "Q29318958": {
+  "offset": -5,
+  "place": "Q189074",
+  "country": "United States",
+  "lon": -73.948372222,
+  "method": "country+lon"
+ },
+ "Q29438680": {
+  "offset": -5,
+  "place": "Bartow",
+  "country": "United States",
+  "lon": -81.839722222,
+  "method": "country+lon"
+ },
+ "Q29452685": {
+  "offset": -5,
+  "place": "Detroit",
+  "country": "United States",
+  "lon": -83.0475,
+  "method": "country+lon"
+ },
+ "Q29474884": {
+  "offset": -5,
+  "place": "Williamsport",
+  "country": "United States",
+  "lon": -77.0186,
+  "method": "country+lon"
+ },
+ "Q29796156": {
+  "offset": -5,
+  "place": "Queens",
+  "country": "United States",
+  "lon": -73.828055555,
+  "method": "country+lon"
+ },
+ "Q30063347": {
+  "offset": -5,
+  "place": "Flint",
+  "country": "United States",
+  "lon": -83.693333333,
+  "method": "country+lon"
+ },
+ "Q30077055": {
+  "offset": -8,
+  "place": "Oakland",
+  "country": "United States",
+  "lon": -122.25,
+  "method": "country+lon"
+ },
+ "Q30122104": {
+  "offset": -5,
+  "place": "Elmsford",
+  "country": "United States",
+  "lon": -73.82,
+  "method": "country+lon"
+ },
+ "Q30122669": {
+  "offset": -7,
+  "place": "Parker",
+  "country": "United States",
+  "lon": -104.766,
+  "method": "country+lon"
+ },
+ "Q30128275": {
+  "offset": -6,
+  "place": "Houston",
+  "country": "United States",
+  "lon": -95.383055555,
+  "method": "country+lon"
+ },
+ "Q30226340": {
+  "offset": 10,
+  "place": "Melbourne",
+  "country": "Australia",
+  "lon": 144.963055555,
+  "method": "country+lon"
+ },
+ "Q30278325": {
+  "offset": -5,
+  "place": "Raleigh",
+  "country": "United States",
+  "lon": -78.64,
+  "method": "country+lon"
+ },
+ "Q30322415": {
+  "offset": -6,
+  "place": "Maywood",
+  "country": "United States",
+  "lon": -87.843333333,
+  "method": "country+lon"
+ },
+ "Q30519348": {
+  "offset": -6,
+  "place": "Houston",
+  "country": "United States",
+  "lon": -95.383055555,
+  "method": "country+lon"
+ },
+ "Q30668441": {
+  "offset": -4,
+  "place": "Castries",
+  "country": "Saint Lucia",
+  "lon": -60.989444444,
+  "method": "country"
+ },
+ "Q31887474": {
+  "offset": -6,
+  "place": "Louisville",
+  "country": "United States",
+  "lon": -85.751388888,
+  "method": "country+lon"
+ },
+ "Q32076468": {
+  "offset": -6,
+  "place": "Houston",
+  "country": "United States",
+  "lon": -95.383055555,
+  "method": "country+lon"
+ },
+ "Q32123497": {
+  "offset": -6,
+  "place": "Pensacola",
+  "country": "United States",
+  "lon": -87.217222222,
+  "method": "country+lon"
+ },
+ "Q32318040": {
+  "offset": -8,
+  "place": "Tualatin",
+  "country": "United States",
+  "lon": -122.764444444,
+  "method": "country+lon"
+ },
+ "Q32786169": {
+  "offset": -5,
+  "place": "Toronto",
+  "country": "Canada",
+  "lon": -79.386666666,
+  "method": "country+lon"
+ },
+ "Q32860369": {
+  "offset": -5,
+  "place": "Toronto",
+  "country": "Canada",
+  "lon": -79.386666666,
+  "method": "country+lon"
+ },
+ "Q33107991": {
+  "offset": -6,
+  "place": "Rogers County",
+  "country": "United States",
+  "lon": -95.6,
+  "method": "country+lon"
+ },
+ "Q33113645": {
+  "offset": -6,
+  "place": "Hopkins",
+  "country": "United States",
+  "lon": -93.462777777,
+  "method": "country+lon"
+ },
+ "Q35172580": {
+  "offset": -6,
+  "place": "Oak Park",
+  "country": "United States",
+  "lon": -87.789444444,
+  "method": "country+lon"
+ },
+ "Q36777259": {
+  "offset": -8,
+  "place": "Oakland",
+  "country": "United States",
+  "lon": -122.25,
+  "method": "country+lon"
+ },
+ "Q29336": {
+  "offset": -5,
+  "place": "New York City",
+  "country": "United States",
+  "lon": -74.006111111,
+  "method": "country+lon"
+ },
+ "Q29342": {
+  "offset": -8,
+  "place": "Los Angeles",
+  "country": "United States",
+  "lon": -118.24368,
+  "method": "country+lon"
+ },
+ "Q29545": {
+  "offset": -5,
+  "place": "Suitland",
+  "country": "United States",
+  "lon": -76.9244,
+  "method": "country+lon"
+ },
+ "Q36159": {
+  "offset": -5,
+  "place": "Akron",
+  "country": "United States",
+  "lon": -81.517777777,
+  "method": "country+lon"
+ },
+ "Q369532": {
+  "offset": 1,
+  "place": "Ljubljana",
+  "country": "Slovenia",
+  "lon": 14.506111111,
+  "method": "country"
+ },
+ "Q370275": {
+  "offset": -5,
+  "place": "Baltimore",
+  "country": "United States",
+  "lon": -76.615,
+  "method": "country+lon"
+ },
+ "Q371193": {
+  "offset": -4,
+  "place": "Mayag\u00fcez",
+  "country": "United States",
+  "lon": -67.139722222,
+  "method": "country+lon"
+ },
+ "Q375525": {
+  "offset": -8,
+  "place": "Lakewood",
+  "country": "United States",
+  "lon": -118.12,
+  "method": "country+lon"
+ },
+ "Q380018": {
+  "offset": 2,
+  "place": "Utena",
+  "country": "Lithuania",
+  "lon": 25.6,
+  "method": "country"
+ },
+ "Q386736": {
+  "offset": -5,
+  "place": "Baltimore",
+  "country": "United States",
+  "lon": -76.615,
+  "method": "country+lon"
+ },
+ "Q427720": {
+  "offset": -5,
+  "place": "Atlanta",
+  "country": "United States",
+  "lon": -84.389722222,
+  "method": "country+lon"
+ },
+ "Q456374": {
+  "offset": -8,
+  "place": "Compton",
+  "country": "United States",
+  "lon": -118.225,
+  "method": "country+lon"
+ },
+ "Q460131": {
+  "offset": -8,
+  "place": "North Hollywood",
+  "country": "United States",
+  "lon": -118.37806,
+  "method": "country+lon"
+ },
+ "Q464312": {
+  "offset": -6,
+  "place": "Mobile",
+  "country": "United States",
+  "lon": -88.052672222,
+  "method": "country+lon"
+ },
+ "Q493115": {
+  "offset": -5,
+  "place": "Mount Vernon",
+  "country": "United States",
+  "lon": -73.830555555,
+  "method": "country+lon"
+ },
+ "Q498348": {
+  "offset": -6,
+  "place": "Houston",
+  "country": "United States",
+  "lon": -95.383055555,
+  "method": "country+lon"
+ },
+ "Q510816": {
+  "offset": -5,
+  "place": "Atlanta",
+  "country": "United States",
+  "lon": -84.389722222,
+  "method": "country+lon"
+ },
+ "Q512310": {
+  "offset": 1,
+  "place": "Belgrade",
+  "country": "Serbia",
+  "lon": 20.456944444,
+  "method": "country"
+ },
+ "Q4667056": {
+  "offset": -5,
+  "place": "Malden",
+  "country": "United States",
+  "lon": -71.066666666,
+  "method": "country+lon"
+ },
+ "Q4717362": {
+  "offset": 2,
+  "place": "Antratsyt",
+  "country": "Ukraine",
+  "lon": 39.083333333,
+  "method": "country"
+ },
+ "Q4758911": {
+  "offset": -5,
+  "place": "Thornhill",
+  "country": "Canada",
+  "lon": -79.424444444,
+  "method": "country+lon"
+ },
+ "Q4783869": {
+  "offset": -6,
+  "place": "St. Louis",
+  "country": "United States",
+  "lon": -90.199444444,
+  "method": "country+lon"
+ },
+ "Q5006560": {
+  "offset": -5,
+  "place": "Canton",
+  "country": "United States",
+  "lon": -81.375,
+  "method": "country+lon"
+ },
+ "Q37486462": {
+  "offset": 2,
+  "place": "Khartoum",
+  "country": "Sudan",
+  "lon": 32.52654,
+  "method": "country"
+ },
+ "Q39070726": {
+  "offset": -5,
+  "place": "Kingston",
+  "country": "Jamaica",
+  "lon": -76.793055555,
+  "method": "country"
+ },
+ "Q41256213": {
+  "offset": -8,
+  "place": "Harbor City",
+  "country": "United States",
+  "lon": -118.29694,
+  "method": "country+lon"
+ },
+ "Q42302125": {
+  "offset": 2,
+  "place": "Beit Zera",
+  "country": "Israel",
+  "lon": 35.573397222,
+  "method": "country"
+ },
+ "Q44858580": {
+  "offset": -8,
+  "place": "Los Angeles",
+  "country": "United States",
+  "lon": -118.24368,
+  "method": "country+lon"
+ },
+ "Q44968365": {
+  "offset": -6,
+  "place": "Kansas City",
+  "country": "United States",
+  "lon": -94.583333333,
+  "method": "country+lon"
+ },
+ "Q46994895": {
+  "offset": -5,
+  "place": "Norristown",
+  "country": "United States",
+  "lon": -75.3417,
+  "method": "country+lon"
+ },
+ "Q47006274": {
+  "offset": 1,
+  "place": "Luanda",
+  "country": "Angola",
+  "lon": 13.234444444,
+  "method": "country"
+ },
+ "Q47086923": {
+  "offset": -5,
+  "place": "Toronto",
+  "country": "Canada",
+  "lon": -79.386666666,
+  "method": "country+lon"
+ },
+ "Q47306937": {
+  "offset": -6,
+  "place": "Kalamazoo",
+  "country": "United States",
+  "lon": -85.59,
+  "method": "country+lon"
+ },
+ "Q47463922": {
+  "offset": -8,
+  "place": "Sacramento",
+  "country": "United States",
+  "lon": -121.486111111,
+  "method": "country+lon"
+ },
+ "Q47492916": {
+  "offset": -6,
+  "place": "New Albany",
+  "country": "United States",
+  "lon": -85.8214,
+  "method": "country+lon"
+ },
+ "Q47501215": {
+  "offset": -5,
+  "place": "Lakeland",
+  "country": "United States",
+  "lon": -81.958888888,
+  "method": "country+lon"
+ },
+ "Q47532134": {
+  "offset": -5,
+  "place": "Miami",
+  "country": "United States",
+  "lon": -80.193611111,
+  "method": "country+lon"
+ },
+ "Q48857995": {
+  "offset": -6,
+  "place": "Pensacola",
+  "country": "United States",
+  "lon": -87.217222222,
+  "method": "country+lon"
+ },
+ "Q49692513": {
+  "offset": -5,
+  "place": "Altamonte Springs",
+  "country": "United States",
+  "lon": -81.391944444,
+  "method": "country+lon"
+ },
+ "Q50356393": {
+  "offset": -5,
+  "place": "Philadelphia",
+  "country": "United States",
+  "lon": -75.163611111,
+  "method": "country+lon"
+ },
+ "Q50363033": {
+  "offset": -6,
+  "place": "Houston",
+  "country": "United States",
+  "lon": -95.383055555,
+  "method": "country+lon"
+ },
+ "Q50365734": {
+  "offset": -5,
+  "place": "Norcross",
+  "country": "United States",
+  "lon": -84.2135309,
+  "method": "country+lon"
+ },
+ "Q50380184": {
+  "offset": 1,
+  "place": "Lagos",
+  "country": "Nigeria",
+  "lon": 3.393611111,
+  "method": "country"
+ },
+ "Q50820763": {
+  "offset": -6,
+  "place": "Milwaukee",
+  "country": "United States",
+  "lon": -87.95,
+  "method": "country+lon"
+ },
+ "Q50874963": {
+  "offset": -8,
+  "place": "North Hollywood",
+  "country": "United States",
+  "lon": -118.37806,
+  "method": "country+lon"
+ },
+ "Q50879812": {
+  "offset": -6,
+  "place": "Wichita",
+  "country": "United States",
+  "lon": -97.336111111,
+  "method": "country+lon"
+ },
+ "Q50938690": {
+  "offset": -7,
+  "place": "Scottsdale",
+  "country": "United States",
+  "lon": -111.926111111,
+  "method": "country+lon"
+ },
+ "Q51120738": {
+  "offset": -5,
+  "place": "Chesterfield Court House",
+  "country": "United States",
+  "lon": -77.5039,
+  "method": "country+lon"
+ },
+ "Q51247599": {
+  "offset": 2,
+  "place": "Kaunas",
+  "country": "Lithuania",
+  "lon": 23.933333333,
+  "method": "country"
+ },
+ "Q51318989": {
+  "offset": -5,
+  "place": "Newark",
+  "country": "United States",
+  "lon": -75.75,
+  "method": "country+lon"
+ },
+ "Q51337300": {
+  "offset": -5,
+  "place": "Sleepy Hollow",
+  "country": "United States",
+  "lon": -73.864444444,
+  "method": "country+lon"
+ },
+ "Q51337307": {
+  "offset": -5,
+  "place": "Cleveland",
+  "country": "United States",
+  "lon": -81.694722222,
+  "method": "country+lon"
+ },
+ "Q46040": {
+  "offset": -5,
+  "place": "Winston-Salem",
+  "country": "United States",
+  "lon": -80.260555555,
+  "method": "country+lon"
+ },
+ "Q49030": {
+  "offset": -5,
+  "place": "Charlotte",
+  "country": "United States",
+  "lon": -80.843333333,
+  "method": "country+lon"
+ },
+ "Q514562": {
+  "offset": -6,
+  "place": "Monroe",
+  "country": "United States",
+  "lon": -92.1183,
+  "method": "country+lon"
+ },
+ "Q517058": {
+  "offset": -8,
+  "place": "Bremerton",
+  "country": "United States",
+  "lon": -122.624694444,
+  "method": "country+lon"
+ },
+ "Q517675": {
+  "offset": -6,
+  "place": "Indianapolis",
+  "country": "United States",
+  "lon": -86.158055555,
+  "method": "country+lon"
+ },
+ "Q521859": {
+  "offset": 1,
+  "place": "Rouen",
+  "country": "France",
+  "lon": 1.1025,
+  "method": "country"
+ },
+ "Q521931": {
+  "offset": -4,
+  "place": "Luperon pto pta",
+  "country": "Dominican Republic",
+  "lon": -70.694444,
+  "method": "country"
+ },
+ "Q552935": {
+  "offset": -6,
+  "place": "Indianapolis",
+  "country": "United States",
+  "lon": -86.158055555,
+  "method": "country+lon"
+ },
+ "Q553512": {
+  "offset": -5,
+  "place": "Flint",
+  "country": "United States",
+  "lon": -83.693333333,
+  "method": "country+lon"
+ },
+ "Q554905": {
+  "offset": -8,
+  "place": "Rancho Cucamonga",
+  "country": "United States",
+  "lon": -117.579444444,
+  "method": "country+lon"
+ },
+ "Q555436": {
+  "offset": -5,
+  "place": "North Babylon",
+  "country": "United States",
+  "lon": -73.321388888,
+  "method": "country+lon"
+ },
+ "Q558663": {
+  "offset": -5,
+  "place": "Charleston",
+  "country": "United States",
+  "lon": -79.931944444,
+  "method": "country+lon"
+ },
+ "Q560436": {
+  "offset": -8,
+  "place": "North Hollywood",
+  "country": "United States",
+  "lon": -118.37806,
+  "method": "country+lon"
+ },
+ "Q5140477": {
+  "offset": -6,
+  "place": "Washington",
+  "country": "United States",
+  "lon": -87.175,
+  "method": "country+lon"
+ },
+ "Q5256411": {
+  "offset": -5,
+  "place": "Miami",
+  "country": "United States",
+  "lon": -80.193611111,
+  "method": "country+lon"
+ },
+ "Q5289916": {
+  "offset": -8,
+  "place": "Portland",
+  "country": "United States",
+  "lon": -122.679166666,
+  "method": "country+lon"
+ },
+ "Q5525214": {
+  "offset": -6,
+  "place": "Fishers",
+  "country": "United States",
+  "lon": -86.012777777,
+  "method": "country+lon"
+ },
+ "Q5569077": {
+  "offset": -6,
+  "place": "Gary",
+  "country": "United States",
+  "lon": -87.345555555,
+  "method": "country+lon"
+ },
+ "Q5586369": {
+  "offset": 0,
+  "place": "K\u00e9b\u00e9mer",
+  "country": "Senegal",
+  "lon": -16.446426248,
+  "method": "country"
+ },
+ "Q51337517": {
+  "offset": 1,
+  "place": "Lagos",
+  "country": "Nigeria",
+  "lon": 3.393611111,
+  "method": "country"
+ },
+ "Q51337526": {
+  "offset": -8,
+  "place": "Mission Viejo",
+  "country": "United States",
+  "lon": -117.656111,
+  "method": "country+lon"
+ },
+ "Q51337534": {
+  "offset": -6,
+  "place": "Starkville",
+  "country": "United States",
+  "lon": -88.81972,
+  "method": "country+lon"
+ },
+ "Q51337587": {
+  "offset": -5,
+  "place": "Boston",
+  "country": "United States",
+  "lon": -71.057777777,
+  "method": "country+lon"
+ },
+ "Q51557493": {
+  "offset": -6,
+  "place": "Omaha",
+  "country": "United States",
+  "lon": -95.9375,
+  "method": "country+lon"
+ },
+ "Q51654259": {
+  "offset": -6,
+  "place": "Columbia",
+  "country": "United States",
+  "lon": -92.33407,
+  "method": "country+lon"
+ },
+ "Q51683022": {
+  "offset": -5,
+  "place": "Jacksonville",
+  "country": "United States",
+  "lon": -77.409722222,
+  "method": "country+lon"
+ },
+ "Q52004832": {
+  "offset": -8,
+  "place": "Los Angeles",
+  "country": "United States",
+  "lon": -118.24368,
+  "method": "country+lon"
+ },
+ "Q52751104": {
+  "offset": -5,
+  "place": "Huntingdon Valley",
+  "country": "United States",
+  "lon": -75.0497,
+  "method": "country+lon"
+ },
+ "Q53394086": {
+  "offset": 1,
+  "place": "Berlin",
+  "country": "Germany",
+  "lon": 13.383333333,
+  "method": "country"
+ },
+ "Q53397350": {
+  "offset": -6,
+  "place": "Gary",
+  "country": "United States",
+  "lon": -87.345555555,
+  "method": "country+lon"
+ },
+ "Q53846950": {
+  "offset": 0,
+  "place": "St Mary's Hospital",
+  "country": "United Kingdom",
+  "lon": -0.173055555,
+  "method": "country"
+ },
+ "Q53871110": {
+  "offset": -6,
+  "place": "Waco",
+  "country": "United States",
+  "lon": -97.147222222,
+  "method": "country+lon"
+ },
+ "Q54311721": {
+  "offset": -5,
+  "place": "Albany",
+  "country": "United States",
+  "lon": -73.766666666,
+  "method": "country+lon"
+ },
+ "Q54860931": {
+  "offset": -5,
+  "place": "Moon Township",
+  "country": "United States",
+  "lon": -80.21,
+  "method": "country+lon"
+ },
+ "Q54861294": {
+  "offset": -6,
+  "place": "Chicago",
+  "country": "United States",
+  "lon": -87.627777777,
+  "method": "country+lon"
+ },
+ "Q54861489": {
+  "offset": -5,
+  "place": "Toledo",
+  "country": "United States",
+  "lon": -83.537777777,
+  "method": "country+lon"
+ },
+ "Q55013949": {
+  "offset": -5,
+  "place": "Raleigh",
+  "country": "United States",
+  "lon": -78.64,
+  "method": "country+lon"
+ },
+ "Q55102402": {
+  "offset": 10,
+  "place": "Sydney",
+  "country": "Australia",
+  "lon": 151.21,
+  "method": "country+lon"
+ },
+ "Q55136065": {
+  "offset": -5,
+  "place": "Raleigh",
+  "country": "United States",
+  "lon": -78.64,
+  "method": "country+lon"
+ },
+ "Q55138272": {
+  "offset": -6,
+  "place": "Houston",
+  "country": "United States",
+  "lon": -95.383055555,
+  "method": "country+lon"
+ },
+ "Q55138460": {
+  "offset": -6,
+  "place": "El Dorado",
+  "country": "United States",
+  "lon": -92.6625,
+  "method": "country+lon"
+ },
+ "Q55183425": {
+  "offset": 1,
+  "place": "Lagos",
+  "country": "Nigeria",
+  "lon": 3.393611111,
+  "method": "country"
+ },
+ "Q55238032": {
+  "offset": 1,
+  "place": "Le Havre",
+  "country": "France",
+  "lon": 0.108055555,
+  "method": "country"
+ },
+ "Q55356794": {
+  "offset": -5,
+  "place": "Philadelphia",
+  "country": "United States",
+  "lon": -75.163611111,
+  "method": "country+lon"
+ },
+ "Q55367789": {
+  "offset": -5,
+  "place": "Mocksville",
+  "country": "United States",
+  "lon": -80.561944444,
+  "method": "country+lon"
+ },
+ "Q55368019": {
+  "offset": -5,
+  "place": "Mocksville",
+  "country": "United States",
+  "lon": -80.561944444,
+  "method": "country+lon"
+ },
+ "Q55386730": {
+  "offset": -5,
+  "place": "Toronto",
+  "country": "Canada",
+  "lon": -79.386666666,
+  "method": "country+lon"
+ },
+ "Q55433150": {
+  "offset": -5,
+  "place": "Havre de Grace",
+  "country": "United States",
+  "lon": -76.0975,
+  "method": "country+lon"
+ },
+ "Q55583972": {
+  "offset": -8,
+  "place": "Pasadena",
+  "country": "United States",
+  "lon": -118.143888888,
+  "method": "country+lon"
+ },
+ "Q55614905": {
+  "offset": -6,
+  "place": "Nashville",
+  "country": "United States",
+  "lon": -86.774444444,
+  "method": "country+lon"
+ },
+ "Q55641235": {
+  "offset": -5,
+  "place": "Asbury Park",
+  "country": "United States",
+  "lon": -74.012222222,
+  "method": "country+lon"
+ },
+ "Q55956317": {
+  "offset": 2,
+  "place": "Waat",
+  "country": "South Sudan",
+  "lon": 32.166667,
+  "method": "country"
+ },
+ "Q573036": {
+  "offset": -5,
+  "place": "Wynnewood",
+  "country": "United States",
+  "lon": -75.2708,
+  "method": "country+lon"
+ },
+ "Q577502": {
+  "offset": -5,
+  "place": "Jamaica",
+  "country": "United States",
+  "lon": -73.8077,
+  "method": "country+lon"
+ },
+ "Q585866": {
+  "offset": -5,
+  "place": "Villa Rica",
+  "country": "United States",
+  "lon": -84.92,
+  "method": "country+lon"
+ },
+ "Q611560": {
+  "offset": 1,
+  "place": "Podgorica",
+  "country": "Montenegro",
+  "lon": 19.262777777,
+  "method": "country"
+ },
+ "Q622213": {
+  "offset": -8,
+  "place": "Chatsworth",
+  "country": "United States",
+  "lon": -118.60028,
+  "method": "country+lon"
+ },
+ "Q622308": {
+  "offset": -8,
+  "place": "Oakland",
+  "country": "United States",
+  "lon": -122.25,
+  "method": "country+lon"
+ },
+ "Q6109500": {
+  "offset": -6,
+  "place": "Montgomery",
+  "country": "United States",
+  "lon": -86.3,
+  "method": "country+lon"
+ },
+ "Q6110020": {
+  "offset": -6,
+  "place": "Chicago",
+  "country": "United States",
+  "lon": -87.627777777,
+  "method": "country+lon"
+ },
+ "Q6123268": {
+  "offset": -6,
+  "place": "Fort Smith",
+  "country": "United States",
+  "lon": -94.366666666,
+  "method": "country+lon"
+ },
+ "Q6180570": {
+  "offset": -8,
+  "place": "Portland",
+  "country": "United States",
+  "lon": -122.679166666,
+  "method": "country+lon"
+ },
+ "Q56087018": {
+  "offset": -5,
+  "place": "Boston",
+  "country": "United States",
+  "lon": -71.057777777,
+  "method": "country+lon"
+ },
+ "Q56194631": {
+  "offset": -5,
+  "place": "Buffalo",
+  "country": "United States",
+  "lon": -78.878055555,
+  "method": "country+lon"
+ },
+ "Q56250275": {
+  "offset": -5,
+  "place": "Portsmouth",
+  "country": "United States",
+  "lon": -76.29827,
+  "method": "country+lon"
+ },
+ "Q56254535": {
+  "offset": -5,
+  "place": "New York City",
+  "country": "United States",
+  "lon": -74.006111111,
+  "method": "country+lon"
+ },
+ "Q56513207": {
+  "offset": -5,
+  "place": "Toronto",
+  "country": "Canada",
+  "lon": -79.386666666,
+  "method": "country+lon"
+ },
+ "Q56809232": {
+  "offset": -8,
+  "place": "Vancouver",
+  "country": "Canada",
+  "lon": -123.113888888,
+  "method": "country+lon"
+ },
+ "Q57084821": {
+  "offset": 1,
+  "place": "Rouen",
+  "country": "France",
+  "lon": 1.1025,
+  "method": "country"
+ },
+ "Q57906278": {
+  "offset": 1,
+  "place": "Madrid",
+  "country": "Spain",
+  "lon": -3.703333333,
+  "method": "country"
+ },
+ "Q58008659": {
+  "offset": -8,
+  "place": "Portland",
+  "country": "United States",
+  "lon": -122.679166666,
+  "method": "country+lon"
+ },
+ "Q58009130": {
+  "offset": -8,
+  "place": "Merced",
+  "country": "United States",
+  "lon": -120.483055555,
+  "method": "country+lon"
+ },
+ "Q58092211": {
+  "offset": -6,
+  "place": "Milwaukee",
+  "country": "United States",
+  "lon": -87.95,
+  "method": "country+lon"
+ },
+ "Q58422637": {
+  "offset": -6,
+  "place": "Dallas",
+  "country": "United States",
+  "lon": -96.808888888,
+  "method": "country+lon"
+ },
+ "Q58494697": {
+  "offset": -5,
+  "place": "Goldsboro",
+  "country": "United States",
+  "lon": -77.995,
+  "method": "country+lon"
+ },
+ "Q58974788": {
+  "offset": -8,
+  "place": "Seattle",
+  "country": "United States",
+  "lon": -122.33,
+  "method": "country+lon"
+ },
+ "Q59209443": {
+  "offset": -5,
+  "place": "Montreal",
+  "country": "Canada",
+  "lon": -73.5868411,
+  "method": "country+lon"
+ },
+ "Q59656031": {
+  "offset": -5,
+  "place": "Dalzell",
+  "country": "United States",
+  "lon": -80.429722222,
+  "method": "country+lon"
+ },
+ "Q60323818": {
+  "offset": -6,
+  "place": "Lubbock",
+  "country": "United States",
+  "lon": -101.845,
+  "method": "country+lon"
+ },
+ "Q60520696": {
+  "offset": -5,
+  "place": "Baltimore",
+  "country": "United States",
+  "lon": -76.615,
+  "method": "country+lon"
+ },
+ "Q60674264": {
+  "offset": -6,
+  "place": "Chicago",
+  "country": "United States",
+  "lon": -87.627777777,
+  "method": "country+lon"
+ },
+ "Q60950296": {
+  "offset": -8,
+  "place": "Federal Way",
+  "country": "United States",
+  "lon": -122.34,
+  "method": "country+lon"
+ },
+ "Q60951627": {
+  "offset": -5,
+  "place": "Atlanta",
+  "country": "United States",
+  "lon": -84.389722222,
+  "method": "country+lon"
+ },
+ "Q60963199": {
+  "offset": -6,
+  "place": "Norman",
+  "country": "United States",
+  "lon": -97.443611111,
+  "method": "country+lon"
+ },
+ "Q61173132": {
+  "offset": -5,
+  "place": "Rochester",
+  "country": "United States",
+  "lon": -77.611388888,
+  "method": "country+lon"
+ },
+ "Q61244130": {
+  "offset": -5,
+  "place": "Detroit",
+  "country": "United States",
+  "lon": -83.0475,
+  "method": "country+lon"
+ },
+ "Q61660709": {
+  "offset": -5,
+  "place": "New York City",
+  "country": "United States",
+  "lon": -74.006111111,
+  "method": "country+lon"
+ },
+ "Q61677596": {
+  "offset": -6,
+  "place": "Apple Valley",
+  "country": "United States",
+  "lon": -93.2175,
+  "method": "country+lon"
+ },
+ "Q61959905": {
+  "offset": -6,
+  "place": "Greenfield",
+  "country": "United States",
+  "lon": -87.995833333,
+  "method": "country+lon"
+ },
+ "Q61989472": {
+  "offset": -8,
+  "place": "Modesto",
+  "country": "United States",
+  "lon": -120.994444444,
+  "method": "country+lon"
+ },
+ "Q62015280": {
+  "offset": -6,
+  "place": "Franklin",
+  "country": "United States",
+  "lon": -86.8575,
+  "method": "country+lon"
+ },
+ "Q62031912": {
+  "offset": -8,
+  "place": "Seattle",
+  "country": "United States",
+  "lon": -122.33,
+  "method": "country+lon"
+ },
+ "Q62072476": {
+  "offset": 0,
+  "place": "Lisbon",
+  "country": "Portugal",
+  "lon": -9.139016,
+  "method": "country"
+ },
+ "Q62113739": {
+  "offset": 1,
+  "place": "Belgrade",
+  "country": "Serbia",
+  "lon": 20.456944444,
+  "method": "country"
+ },
+ "Q62597403": {
+  "offset": -6,
+  "place": "Greenwood",
+  "country": "United States",
+  "lon": -86.118055555,
+  "method": "country+lon"
+ },
+ "Q62719191": {
+  "offset": -7,
+  "place": "Bountiful",
+  "country": "United States",
+  "lon": -111.871666666,
+  "method": "country+lon"
+ },
+ "Q62764548": {
+  "offset": -5,
+  "place": "Brooklyn",
+  "country": "United States",
+  "lon": -73.949722222,
+  "method": "country+lon"
+ },
+ "Q62764597": {
+  "offset": -6,
+  "place": "Grand Rapids",
+  "country": "United States",
+  "lon": -85.667777777,
+  "method": "country+lon"
+ },
+ "Q62860683": {
+  "offset": -6,
+  "place": "Dallas",
+  "country": "United States",
+  "lon": -96.808888888,
+  "method": "country+lon"
+ },
+ "Q59547": {
+  "offset": -6,
+  "place": "New Orleans",
+  "country": "United States",
+  "lon": -90.078333333,
+  "method": "country+lon"
+ },
+ "Q60118": {
+  "offset": 1,
+  "place": "Sant'Angelo Lodigiano",
+  "country": "Italy",
+  "lon": 9.409722222,
+  "method": "country"
+ },
+ "Q60478": {
+  "offset": -6,
+  "place": "Houston",
+  "country": "United States",
+  "lon": -95.383055555,
+  "method": "country+lon"
+ },
+ "Q659886": {
+  "offset": 1,
+  "place": "Morges",
+  "country": "Switzerland",
+  "lon": 6.498611111,
+  "method": "country"
+ },
+ "Q671294": {
+  "offset": -7,
+  "place": "Cheyenne",
+  "country": "United States",
+  "lon": -104.801944444,
+  "method": "country+lon"
+ },
+ "Q693463": {
+  "offset": -5,
+  "place": "Kelford",
+  "country": "United States",
+  "lon": -77.221666666,
+  "method": "country+lon"
+ },
+ "Q698125": {
+  "offset": 12,
+  "place": "Gisborne",
+  "country": "New Zealand",
+  "lon": 178.017777777,
+  "method": "country"
+ },
+ "Q714058": {
+  "offset": -6,
+  "place": "Benton Harbor",
+  "country": "United States",
+  "lon": -86.454166666,
+  "method": "country+lon"
+ },
+ "Q715618": {
+  "offset": 1,
+  "place": "Zurich",
+  "country": "Switzerland",
+  "lon": 8.541111111,
+  "method": "country"
+ },
+ "Q716316": {
+  "offset": -6,
+  "place": "New Orleans",
+  "country": "United States",
+  "lon": -90.078333333,
+  "method": "country+lon"
+ },
+ "Q6372315": {
+  "offset": -5,
+  "place": "Piscataway",
+  "country": "United States",
+  "lon": -74.399166666,
+  "method": "country+lon"
+ },
+ "Q6437162": {
+  "offset": -5,
+  "place": "New London",
+  "country": "United States",
+  "lon": -72.10104,
+  "method": "country+lon"
+ },
+ "Q6451040": {
+  "offset": -5,
+  "place": "New York City",
+  "country": "United States",
+  "lon": -74.006111111,
+  "method": "country+lon"
+ },
+ "Q6758454": {
+  "offset": -6,
+  "place": "Flower Mound",
+  "country": "United States",
+  "lon": -97.078888888,
+  "method": "country+lon"
+ },
+ "Q6783608": {
+  "offset": -6,
+  "place": "Fort Wayne",
+  "country": "United States",
+  "lon": -85.13915,
+  "method": "country+lon"
+ },
+ "Q6829140": {
+  "offset": -5,
+  "place": "Hamilton",
+  "country": "United States",
+  "lon": -70.854788888,
+  "method": "country+lon"
+ },
+ "Q6848154": {
+  "offset": -6,
+  "place": "St. Louis Park",
+  "country": "United States",
+  "lon": -93.364875,
+  "method": "country+lon"
+ },
+ "Q7045462": {
+  "offset": -5,
+  "place": "Haverhill",
+  "country": "United States",
+  "lon": -71.083333333,
+  "method": "country+lon"
+ },
+ "Q7109779": {
+  "offset": -6,
+  "place": "St. Louis",
+  "country": "United States",
+  "lon": -90.199444444,
+  "method": "country+lon"
+ },
+ "Q62869978": {
+  "offset": -6,
+  "place": "Kansas City",
+  "country": "United States",
+  "lon": -94.583333333,
+  "method": "country+lon"
+ },
+ "Q62894989": {
+  "offset": -5,
+  "place": "Rochester",
+  "country": "United States",
+  "lon": -77.611388888,
+  "method": "country+lon"
+ },
+ "Q63112754": {
+  "offset": 1,
+  "place": "Port Harcourt",
+  "country": "Nigeria",
+  "lon": 7.016316,
+  "method": "country"
+ },
+ "Q63117693": {
+  "offset": -6,
+  "place": "Indianapolis",
+  "country": "United States",
+  "lon": -86.158055555,
+  "method": "country+lon"
+ },
+ "Q63119820": {
+  "offset": -5,
+  "place": "Craven County",
+  "country": "United States",
+  "lon": -77.069166666,
+  "method": "country+lon"
+ },
+ "Q63133148": {
+  "offset": -8,
+  "place": "King County",
+  "country": "United States",
+  "lon": -121.84,
+  "method": "country+lon"
+ },
+ "Q63190352": {
+  "offset": -6,
+  "place": "Oshkosh",
+  "country": "United States",
+  "lon": -88.561111111,
+  "method": "country+lon"
+ },
+ "Q63199388": {
+  "offset": -6,
+  "place": "Birmingham",
+  "country": "United States",
+  "lon": -86.809444444,
+  "method": "country+lon"
+ },
+ "Q63351770": {
+  "offset": -5,
+  "place": "Gainesville",
+  "country": "United States",
+  "lon": -82.336111111,
+  "method": "country+lon"
+ },
+ "Q64009534": {
+  "offset": -8,
+  "place": "Temecula",
+  "country": "United States",
+  "lon": -117.123611111,
+  "method": "country+lon"
+ },
+ "Q64009749": {
+  "offset": -8,
+  "place": "Los Angeles",
+  "country": "United States",
+  "lon": -118.24368,
+  "method": "country+lon"
+ },
+ "Q64010142": {
+  "offset": -5,
+  "place": "Atlanta",
+  "country": "United States",
+  "lon": -84.389722222,
+  "method": "country+lon"
+ },
+ "Q64010219": {
+  "offset": -5,
+  "place": "Greenville",
+  "country": "United States",
+  "lon": -82.385555555,
+  "method": "country+lon"
+ },
+ "Q64744025": {
+  "offset": -6,
+  "place": "Dixon",
+  "country": "United States",
+  "lon": -89.485,
+  "method": "country+lon"
+ },
+ "Q64748342": {
+  "offset": -6,
+  "place": "West Chicago",
+  "country": "United States",
+  "lon": -88.2419807,
+  "method": "country+lon"
+ },
+ "Q64822039": {
+  "offset": -5,
+  "place": "St. Lucie County",
+  "country": "United States",
+  "lon": -80.44,
+  "method": "country+lon"
+ },
+ "Q65030600": {
+  "offset": -6,
+  "place": "Southaven",
+  "country": "United States",
+  "lon": -90.0035,
+  "method": "country+lon"
+ },
+ "Q65030944": {
+  "offset": -6,
+  "place": "Arlington",
+  "country": "United States",
+  "lon": -97.122839,
+  "method": "country+lon"
+ },
+ "Q65658814": {
+  "offset": 10,
+  "place": "Brisbane",
+  "country": "Australia",
+  "lon": 153.027777777,
+  "method": "country+lon"
+ },
+ "Q65929905": {
+  "offset": -8,
+  "place": "Lancaster",
+  "country": "United States",
+  "lon": -118.154166666,
+  "method": "country+lon"
+ },
+ "Q65952023": {
+  "offset": -6,
+  "place": "Hickory Hills",
+  "country": "United States",
+  "lon": -87.8269,
+  "method": "country+lon"
+ },
+ "Q66071852": {
+  "offset": -8,
+  "place": "Yakima",
+  "country": "United States",
+  "lon": -120.507777777,
+  "method": "country+lon"
+ },
+ "Q66133404": {
+  "offset": 3,
+  "place": "Giresun",
+  "country": "Turkey",
+  "lon": 38.416666666,
+  "method": "country"
+ },
+ "Q66187310": {
+  "offset": -6,
+  "place": "Wausau",
+  "country": "United States",
+  "lon": -89.633333333,
+  "method": "country+lon"
+ },
+ "Q66309754": {
+  "offset": -5,
+  "place": "Atlanta",
+  "country": "United States",
+  "lon": -84.389722222,
+  "method": "country+lon"
+ },
+ "Q66309762": {
+  "offset": -5,
+  "place": "Brentwood",
+  "country": "United States",
+  "lon": -73.2442,
+  "method": "country+lon"
+ },
+ "Q66391607": {
+  "offset": 2,
+  "place": "Goma",
+  "country": "Democratic Republic of the Congo",
+  "lon": 29.22286,
+  "method": "country+lon"
+ },
+ "Q66459298": {
+  "offset": -5,
+  "place": "West Palm Beach",
+  "country": "United States",
+  "lon": -80.064166666,
+  "method": "country+lon"
+ },
+ "Q67605606": {
+  "offset": -5,
+  "place": "Nassau",
+  "country": "The Bahamas",
+  "lon": -77.338611111,
+  "method": "country"
+ },
+ "Q67609172": {
+  "offset": -5,
+  "place": "Aurora",
+  "country": "Canada",
+  "lon": -79.466666666,
+  "method": "country+lon"
+ },
+ "Q69308603": {
+  "offset": 1,
+  "place": "Las Palmas de Gran Canaria",
+  "country": "Spain",
+  "lon": -15.431388888,
+  "method": "country"
+ },
+ "Q69374631": {
+  "offset": -6,
+  "place": "Waco",
+  "country": "United States",
+  "lon": -97.147222222,
+  "method": "country+lon"
+ },
+ "Q70520489": {
+  "offset": -6,
+  "place": "Edmond",
+  "country": "United States",
+  "lon": -97.464916666,
+  "method": "country+lon"
+ },
+ "Q65039": {
+  "offset": -5,
+  "place": "Philadelphia",
+  "country": "United States",
+  "lon": -75.163611111,
+  "method": "country+lon"
+ },
+ "Q717344": {
+  "offset": 1,
+  "place": "Mostar",
+  "country": "Bosnia and Herzegovina",
+  "lon": 17.8075,
+  "method": "country"
+ },
+ "Q717573": {
+  "offset": -8,
+  "place": "Tacoma",
+  "country": "United States",
+  "lon": -122.4475,
+  "method": "country+lon"
+ },
+ "Q732350": {
+  "offset": -6,
+  "place": "Grand Forks",
+  "country": "United States",
+  "lon": -97.0325,
+  "method": "country+lon"
+ },
+ "Q736301": {
+  "offset": 2,
+  "place": "Lubumbashi",
+  "country": "Democratic Republic of the Congo",
+  "lon": 27.482777777,
+  "method": "country+lon"
+ },
+ "Q744920": {
+  "offset": 2,
+  "place": "Valmiera",
+  "country": "Latvia",
+  "lon": 25.423055555,
+  "method": "country"
+ },
+ "Q781176": {
+  "offset": -8,
+  "place": "Santa Monica",
+  "country": "United States",
+  "lon": -118.481388888,
+  "method": "country+lon"
+ },
+ "Q7308203": {
+  "offset": -5,
+  "place": "Baltimore",
+  "country": "United States",
+  "lon": -76.615,
+  "method": "country+lon"
+ },
+ "Q7357002": {
+  "offset": -5,
+  "place": "Landover",
+  "country": "United States",
+  "lon": -76.8967,
+  "method": "country+lon"
+ },
+ "Q7383906": {
+  "offset": 10,
+  "place": "Frankston",
+  "country": "Australia",
+  "lon": 145.135,
+  "method": "country+lon"
+ },
+ "Q7456454": {
+  "offset": -5,
+  "place": "Charlotte",
+  "country": "United States",
+  "lon": -80.843333333,
+  "method": "country+lon"
+ },
+ "Q7614435": {
+  "offset": 12,
+  "place": "Rotorua",
+  "country": "New Zealand",
+  "lon": 176.251388888,
+  "method": "country"
+ },
+ "Q7823453": {
+  "offset": -8,
+  "place": "Watts",
+  "country": "United States",
+  "lon": -118.241666666,
+  "method": "country+lon"
+ },
+ "Q7926203": {
+  "offset": -5,
+  "place": "Silver Spring",
+  "country": "United States",
+  "lon": -77.020791,
+  "method": "country+lon"
+ },
+ "Q8021424": {
+  "offset": -6,
+  "place": "Spearville",
+  "country": "United States",
+  "lon": -99.7553,
+  "method": "country+lon"
+ },
+ "Q72941595": {
+  "offset": 1,
+  "place": "Le Chesnay",
+  "country": "France",
+  "lon": 2.130277777,
+  "method": "country"
+ },
+ "Q74839687": {
+  "offset": -6,
+  "place": "Fort Smith",
+  "country": "United States",
+  "lon": -94.366666666,
+  "method": "country+lon"
+ },
+ "Q74880977": {
+  "offset": -5,
+  "place": "Toronto",
+  "country": "Canada",
+  "lon": -79.386666666,
+  "method": "country+lon"
+ },
+ "Q75060241": {
+  "offset": -5,
+  "place": "Brooklyn",
+  "country": "United States",
+  "lon": -73.949722222,
+  "method": "country+lon"
+ },
+ "Q75656968": {
+  "offset": -5,
+  "place": "Atlantic City",
+  "country": "United States",
+  "lon": -74.425,
+  "method": "country+lon"
+ },
+ "Q76438339": {
+  "offset": -6,
+  "place": "Minneapolis",
+  "country": "United States",
+  "lon": -93.269166666,
+  "method": "country+lon"
+ },
+ "Q77273282": {
+  "offset": -6,
+  "place": "Baton Rouge",
+  "country": "United States",
+  "lon": -91.178611111,
+  "method": "country+lon"
+ },
+ "Q77445037": {
+  "offset": -5,
+  "place": "Charlotte",
+  "country": "United States",
+  "lon": -80.843333333,
+  "method": "country+lon"
+ },
+ "Q78170313": {
+  "offset": -5,
+  "place": "Richmond",
+  "country": "United States",
+  "lon": -84.890555555,
+  "method": "country+lon"
+ },
+ "Q78170389": {
+  "offset": -6,
+  "place": "Meridianville",
+  "country": "United States",
+  "lon": -86.578373,
+  "method": "country+lon"
+ },
+ "Q79052337": {
+  "offset": -5,
+  "place": "Washington, D.C.",
+  "country": "United States",
+  "lon": -77.036666666,
+  "method": "country+lon"
+ },
+ "Q79666036": {
+  "offset": -5,
+  "place": "Rochester",
+  "country": "United States",
+  "lon": -77.611388888,
+  "method": "country+lon"
+ },
+ "Q79871145": {
+  "offset": -8,
+  "place": "Edmonds",
+  "country": "United States",
+  "lon": -122.346666666,
+  "method": "country+lon"
+ },
+ "Q79898028": {
+  "offset": -6,
+  "place": "Reserve",
+  "country": "United States",
+  "lon": -90.5533,
+  "method": "country+lon"
+ },
+ "Q80713297": {
+  "offset": -8,
+  "place": "Tacoma",
+  "country": "United States",
+  "lon": -122.4475,
+  "method": "country+lon"
+ },
+ "Q81878354": {
+  "offset": -5,
+  "place": "Poughkeepsie",
+  "country": "United States",
+  "lon": -73.930555555,
+  "method": "country+lon"
+ },
+ "Q82831609": {
+  "offset": -5,
+  "place": "Charleston",
+  "country": "United States",
+  "lon": -79.931944444,
+  "method": "country+lon"
+ },
+ "Q82831682": {
+  "offset": -5,
+  "place": "Brooklyn",
+  "country": "United States",
+  "lon": -73.949722222,
+  "method": "country+lon"
+ },
+ "Q82831692": {
+  "offset": -5,
+  "place": "Suwanee",
+  "country": "United States",
+  "lon": -84.072893,
+  "method": "country+lon"
+ },
+ "Q82831721": {
+  "offset": -6,
+  "place": "Saint Paul",
+  "country": "United States",
+  "lon": -93.093611111,
+  "method": "country+lon"
+ },
+ "Q84302381": {
+  "offset": -5,
+  "place": "Syracuse",
+  "country": "United States",
+  "lon": -76.144423,
+  "method": "country+lon"
+ },
+ "Q84360117": {
+  "offset": -5,
+  "place": "New York City",
+  "country": "United States",
+  "lon": -74.006111111,
+  "method": "country+lon"
+ },
+ "Q84554649": {
+  "offset": 9,
+  "place": "Yanai",
+  "country": "Japan",
+  "lon": 132.101555555,
+  "method": "country"
+ },
+ "Q84598789": {
+  "offset": -8,
+  "place": "Federal Way",
+  "country": "United States",
+  "lon": -122.34,
+  "method": "country+lon"
+ },
+ "Q85738924": {
+  "offset": -6,
+  "place": "Cedar Falls",
+  "country": "United States",
+  "lon": -92.446388888,
+  "method": "country+lon"
+ },
+ "Q85792426": {
+  "offset": -5,
+  "place": "Charlotte",
+  "country": "United States",
+  "lon": -80.843333333,
+  "method": "country+lon"
+ },
+ "Q85792514": {
+  "offset": -5,
+  "place": "Orlando",
+  "country": "United States",
+  "lon": -81.386666666,
+  "method": "country+lon"
+ },
+ "Q85889241": {
+  "offset": -5,
+  "place": "Norcross",
+  "country": "United States",
+  "lon": -84.2135309,
+  "method": "country+lon"
+ },
+ "Q86754547": {
+  "offset": -8,
+  "place": "Carson",
+  "country": "United States",
+  "lon": -118.259722222,
+  "method": "country+lon"
+ },
+ "Q87451745": {
+  "offset": -6,
+  "place": "Dothan",
+  "country": "United States",
+  "lon": -85.407222222,
+  "method": "country+lon"
+ },
+ "Q88234141": {
+  "offset": -6,
+  "place": "Minneapolis",
+  "country": "United States",
+  "lon": -93.269166666,
+  "method": "country+lon"
+ },
+ "Q88387056": {
+  "offset": -6,
+  "place": "Bowling Green",
+  "country": "United States",
+  "lon": -86.444444444,
+  "method": "country+lon"
+ },
+ "Q88799464": {
+  "offset": -6,
+  "place": "Richardson",
+  "country": "United States",
+  "lon": -96.729722222,
+  "method": "country+lon"
+ },
+ "Q88964138": {
+  "offset": -6,
+  "place": "St. Louis",
+  "country": "United States",
+  "lon": -90.199444444,
+  "method": "country+lon"
+ },
+ "Q89094739": {
+  "offset": -6,
+  "place": "Kansas City",
+  "country": "United States",
+  "lon": -94.583333333,
+  "method": "country+lon"
+ },
+ "Q89162230": {
+  "offset": 10,
+  "place": "Melbourne",
+  "country": "Australia",
+  "lon": 144.963055555,
+  "method": "country+lon"
+ },
+ "Q897000": {
+  "offset": -6,
+  "place": "St. Louis",
+  "country": "United States",
+  "lon": -90.199444444,
+  "method": "country+lon"
+ },
+ "Q918596": {
+  "offset": -6,
+  "place": "Chicago",
+  "country": "United States",
+  "lon": -87.627777777,
+  "method": "country+lon"
+ },
+ "Q919197": {
+  "offset": -6,
+  "place": "Indianapolis",
+  "country": "United States",
+  "lon": -86.158055555,
+  "method": "country+lon"
+ },
+ "Q921340": {
+  "offset": -6,
+  "place": "Fayetteville",
+  "country": "United States",
+  "lon": -94.160833333,
+  "method": "country+lon"
+ },
+ "Q926248": {
+  "offset": -8,
+  "place": "Riverside",
+  "country": "United States",
+  "lon": -117.3725,
+  "method": "country+lon"
+ },
+ "Q928950": {
+  "offset": -6,
+  "place": "San Antonio",
+  "country": "United States",
+  "lon": -98.493888888,
+  "method": "country+lon"
+ },
+ "Q931300": {
+  "offset": -6,
+  "place": "Grandview",
+  "country": "United States",
+  "lon": -94.5225,
+  "method": "country+lon"
+ },
+ "Q935879": {
+  "offset": -5,
+  "place": "Fort Lauderdale",
+  "country": "United States",
+  "lon": -80.141944444,
+  "method": "country+lon"
+ },
+ "Q947932": {
+  "offset": -8,
+  "place": "Portland",
+  "country": "United States",
+  "lon": -122.679166666,
+  "method": "country+lon"
+ },
+ "Q952921": {
+  "offset": 10,
+  "place": "Canberra",
+  "country": "Australia",
+  "lon": 149.126944444,
+  "method": "country+lon"
+ },
+ "Q966111": {
+  "offset": 1,
+  "place": "Prague 4",
+  "country": "Czech Republic",
+  "lon": 14.440277777,
+  "method": "country"
+ },
+ "Q973121": {
+  "offset": -8,
+  "place": "Palmdale",
+  "country": "United States",
+  "lon": -118.116666666,
+  "method": "country+lon"
+ },
+ "Q973212": {
+  "offset": -5,
+  "place": "Brampton",
+  "country": "Canada",
+  "lon": -79.766666666,
+  "method": "country+lon"
+ },
+ "Q974603": {
+  "offset": -5,
+  "place": "Philadelphia",
+  "country": "United States",
+  "lon": -75.163611111,
+  "method": "country+lon"
+ },
+ "Q975474": {
+  "offset": 9.5,
+  "place": "Adelaide",
+  "country": "Australia",
+  "lon": 138.6,
+  "method": "country+lon"
+ },
+ "Q994442": {
+  "offset": 1,
+  "place": "Salzgitter",
+  "country": "Germany",
+  "lon": 10.359305555,
+  "method": "country"
+ },
+ "Q8991894": {
+  "offset": 2,
+  "place": "Athens",
+  "country": "Greece",
+  "lon": 23.728055555,
+  "method": "country"
+ },
+ "Q8991893": {
+  "offset": 2,
+  "place": "Athens",
+  "country": "Greece",
+  "lon": 23.728055555,
+  "method": "country"
+ },
+ "Q89432720": {
+  "offset": 1,
+  "place": "Lagos",
+  "country": "Nigeria",
+  "lon": 3.393611111,
+  "method": "country"
+ },
+ "Q89443831": {
+  "offset": -8,
+  "place": "Irvine",
+  "country": "United States",
+  "lon": -117.7925,
+  "method": "country+lon"
+ },
+ "Q90327686": {
+  "offset": -8,
+  "place": "West Hills",
+  "country": "United States",
+  "lon": -118.639,
+  "method": "country+lon"
+ },
+ "Q90729622": {
+  "offset": -6,
+  "place": "Green Bay",
+  "country": "United States",
+  "lon": -88.013333333,
+  "method": "country+lon"
+ },
+ "Q91140197": {
+  "offset": -5,
+  "place": "Montreal",
+  "country": "Canada",
+  "lon": -73.5868411,
+  "method": "country+lon"
+ },
+ "Q91330335": {
+  "offset": -5,
+  "place": "Durham",
+  "country": "United States",
+  "lon": -78.898611111,
+  "method": "country+lon"
+ },
+ "Q92198887": {
+  "offset": -8,
+  "place": "Seattle",
+  "country": "United States",
+  "lon": -122.33,
+  "method": "country+lon"
+ },
+ "Q93383872": {
+  "offset": -6,
+  "place": "Shelbyville",
+  "country": "United States",
+  "lon": -86.4522,
+  "method": "country+lon"
+ },
+ "Q93781008": {
+  "offset": -6,
+  "place": "St. Louis",
+  "country": "United States",
+  "lon": -90.199444444,
+  "method": "country+lon"
+ },
+ "Q94329024": {
+  "offset": 1,
+  "place": "Niort",
+  "country": "France",
+  "lon": -0.462222222,
+  "method": "country"
+ },
+ "Q96002098": {
+  "offset": -5,
+  "place": "Glen Burnie",
+  "country": "United States",
+  "lon": -76.6106,
+  "method": "country+lon"
+ },
+ "Q96374318": {
+  "offset": 9,
+  "place": "Yokosuka",
+  "country": "Japan",
+  "lon": 139.672083333,
+  "method": "country"
+ },
+ "Q96622793": {
+  "offset": -5,
+  "place": "Brooklyn",
+  "country": "United States",
+  "lon": -73.949722222,
+  "method": "country+lon"
+ },
+ "Q96755147": {
+  "offset": 1,
+  "place": "Villeneuve-sur-Lot",
+  "country": "France",
+  "lon": 0.704166666,
+  "method": "country"
+ },
+ "Q97154115": {
+  "offset": -6,
+  "place": "Little Rock",
+  "country": "United States",
+  "lon": -92.288055555,
+  "method": "country+lon"
+ },
+ "Q97185180": {
+  "offset": -5,
+  "place": "Brooklyn",
+  "country": "United States",
+  "lon": -73.949722222,
+  "method": "country+lon"
+ },
+ "Q97359395": {
+  "offset": -5,
+  "place": "Norfolk",
+  "country": "United States",
+  "lon": -76.285277777,
+  "method": "country+lon"
+ },
+ "Q97411335": {
+  "offset": 0,
+  "place": "Conakry",
+  "country": "Guinea",
+  "lon": -13.712222222,
+  "method": "country"
+ },
+ "Q97495355": {
+  "offset": 1,
+  "place": "Paris",
+  "country": "France",
+  "lon": 2.352222222,
+  "method": "country"
+ },
+ "Q98216023": {
+  "offset": 1,
+  "place": "Livno",
+  "country": "Bosnia and Herzegovina",
+  "lon": 17.008055555,
+  "method": "country"
+ },
+ "Q98686661": {
+  "offset": -5,
+  "place": "Greensboro",
+  "country": "United States",
+  "lon": -79.790277777,
+  "method": "country+lon"
+ },
+ "Q98841297": {
+  "offset": 1,
+  "place": "Siena",
+  "country": "Italy",
+  "lon": 11.331388888,
+  "method": "country"
+ },
+ "Q99457659": {
+  "offset": -6,
+  "place": "Cordova",
+  "country": "United States",
+  "lon": -89.8,
+  "method": "country+lon"
+ }
+}

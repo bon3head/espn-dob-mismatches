@@ -1,0 +1,7 @@
+player_key,espn_dob,disputant_dob,disputant,difference_class,verdict,correct_dob,confidence,notes
+espn-4278783,1998-07-10,1998-06-10,nba-stats,month-only,espn-wrong,1998-06-10,HIGH,Will Magnay; 9 independent sources vs ESPN
+espn-4600663,2002-03-14,2002-05-14,nba-stats,month-only,espn-wrong,2002-05-14,HIGH,Zach Edey; 10 independent sources vs ESPN; 3 ESPN surfaces agree on wrong value
+espn-5157066,2004-12-07,2004-12-08,nba-stats,day-only,unresolved,,HIGH,Johnny Furphy; independent sources split 9-5; no verdict issued
+espn-4065635,1997-06-16,1997-06-17,wikidata-p569,day-only,third-party-wrong,1997-06-16,HIGH,Ky Bowman; Wikidata is the outlier; 8 independent sources back Jun 16
+espn-5017605,2002-06-26,2002-07-26,wikidata-p569+independents,month-only,espn-wrong,2002-07-26,HIGH,Kamila Borkowska (WNBA); 6 independent sources vs ESPN
+espn-4433744,2003-03-12,2002-03-12,wikidata-p569+independents,year-only,espn-wrong,2002-03-12,HIGH,Michelle Onyiah (WNBA); 6 independent sources vs ESPN; Wikipedia lone outlier (Aug 12) not corrected
